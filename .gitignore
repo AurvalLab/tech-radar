@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.env
+.env.*
+!example.env
+state.json
+pending.json
+tech_radar_state.json
+tech_radar_pending.json
