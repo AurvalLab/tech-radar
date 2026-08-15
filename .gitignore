@@ -9,3 +9,5 @@ state.json
 pending.json
 tech_radar_state.json
 tech_radar_pending.json
+!radar-state/
+!radar-state/state.json

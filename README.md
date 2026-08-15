@@ -79,8 +79,25 @@ Copy `example.env` to a private `.env` file if desired, then point `TECH_RADAR_E
 
 ```bash
 python -m unittest discover -s tests -v
-python -m py_compile tech_radar.py
+python -m py_compile tech_radar.py cloud_publish.py
 ```
+
+## Cloud Publishing
+
+The included GitHub Actions workflow runs every day at 07:20 Asia/Shanghai,
+generates a durable report, and commits the report plus delivery state back to
+the default branch. The 30-minute lead time leaves room for a separate ChatGPT
+scheduled task to read `reports/latest.json` and notify at 07:50.
+
+Generated files:
+
+- `reports/latest.json` and `reports/latest.md` for the newest run
+- `reports/archive/YYYY-MM-DD.*` for daily history
+- `radar-state/state.json` for cross-run deduplication
+
+Run the workflow manually from GitHub Actions with **Publish tech radar → Run
+workflow** when validating changes. The workflow requires repository Actions to
+have read/write permission for contents.
 
 ## License
 

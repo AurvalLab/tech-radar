@@ -1,0 +1,55 @@
+name: Publish tech radar
+
+on:
+  schedule:
+    # 07:20 Asia/Shanghai. The ChatGPT notification runs at 07:50.
+    - cron: "20 23 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: tech-radar-cloud-publish
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      PYTHONUTF8: "1"
+      TECH_RADAR_DATA_DIR: ${{ github.workspace }}/radar-state
+      TECH_RADAR_REPORT_DIR: ${{ github.workspace }}/reports
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run tests
+        run: python -m unittest discover -s tests -v
+
+      - name: Generate radar report
+        run: python cloud_publish.py
+
+      - name: Commit report and delivery state
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- reports radar-state/state.json
+
+          if git diff --cached --quiet; then
+            echo "No report changes to publish."
+            exit 0
+          fi
+
+          git commit -m "chore: publish daily tech radar [skip ci]"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
