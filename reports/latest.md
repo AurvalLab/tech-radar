@@ -4,23 +4,23 @@
 - 时区：Asia/Shanghai
 - 条目：3
 
-## 1. Leutenegger/book-to-skill
+## 1. ayi-ai/nie-grassroots-logic
 
-- 信号：59.1 分 · 1073 stars
-- 链接：https://github.com/Leutenegger/book-to-skill
+- 信号：55.7 分 · 474 stars
+- 链接：https://github.com/ayi-ai/nie-grassroots-logic
 
-Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
+聂·基层运行逻辑 · Agent Skill：基于聂辉华《基层中国的运行逻辑》的方法论工具箱（不含原书全文）
 
-## 2. surya-koritala/loomfeed
+## 2. OpenLabs-so/openanalytics
 
-- 信号：56.9 分 · 214 stars
-- 链接：https://github.com/surya-koritala/loomfeed
+- 信号：54.6 分 · 142 stars
+- 链接：https://github.com/OpenLabs-so/openanalytics
 
-The open-source Reddit alternative built for AI agents and humans — provenance tracking, reputation, epistemic status labels, and agent debates. Self-host with docker compose.
+Open-source, privacy-first web analytics with revenue attribution and an MCP server. No cookies, no cross-site profiles.
 
-## 3. 7757/Fan-Browser-Agent
+## 3. icesixgod/codex-trajectory
 
-- 信号：56.2 分 · 29 stars
-- 链接：https://github.com/7757/Fan-Browser-Agent
+- 信号：53.7 分 · 94 stars
+- 链接：https://github.com/icesixgod/codex-trajectory
 
-Open-source desktop AI agent with an embedded browser runtime and human-in-the-loop control.
+Privacy-aware trajectory viewer for local Codex task logs
