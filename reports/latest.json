@@ -1,49 +1,49 @@
 {
   "report_date": "2026-08-15",
-  "generated_at": "2026-08-15T02:31:15.913545+00:00",
+  "generated_at": "2026-08-15T02:42:17.873481+00:00",
   "timezone": "Asia/Shanghai",
   "items": [
     {
-      "id": "repo:1331788336",
+      "id": "repo:1333135492",
       "type": "trend",
       "emoji": "📈",
-      "score": 70.5,
-      "stars": 103,
+      "score": 59.1,
+      "stars": 1073,
       "points": 0,
-      "name": "nduc99911/repo-context-mcp",
-      "title": "nduc99911/repo-context-mcp",
-      "description": "MCP server: repo map, code search, and token-aware context packs for AI coding agents",
-      "original_text": "MCP server: repo map, code search, and token-aware context packs for AI coding agents",
-      "display_line": "📈 [70.5分 ⭐103] nduc99911/repo-context-mcp",
-      "url": "https://github.com/nduc99911/repo-context-mcp"
+      "name": "Leutenegger/book-to-skill",
+      "title": "Leutenegger/book-to-skill",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "original_text": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "display_line": "📈 [59.1分 ⭐1073] Leutenegger/book-to-skill",
+      "url": "https://github.com/Leutenegger/book-to-skill"
     },
     {
-      "id": "repo:1333770983",
+      "id": "repo:1329128263",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 56.9,
+      "stars": 214,
+      "points": 0,
+      "name": "surya-koritala/loomfeed",
+      "title": "surya-koritala/loomfeed",
+      "description": "The open-source Reddit alternative built for AI agents and humans — provenance tracking, reputation, epistemic status labels, and agent debates. Self-host with docker compose.",
+      "original_text": "The open-source Reddit alternative built for AI agents and humans — provenance tracking, reputation, epistemic status labels, and agent debates. Self-host with docker compose.",
+      "display_line": "📈 [56.9分 ⭐214] surya-koritala/loomfeed",
+      "url": "https://github.com/surya-koritala/loomfeed"
+    },
+    {
+      "id": "repo:1333694353",
       "type": "new",
       "emoji": "🆕",
-      "score": 63.5,
-      "stars": 4,
+      "score": 56.2,
+      "stars": 29,
       "points": 0,
-      "name": "sb1733831438-maker/DSH-closerAI",
-      "title": "sb1733831438-maker/DSH-closerAI",
-      "description": "CloserAI - a local-first, model-agnostic, permission-transparent desktop AI workbench built on DeepSeek Harness.",
-      "original_text": "CloserAI - a local-first, model-agnostic, permission-transparent desktop AI workbench built on DeepSeek Harness.",
-      "display_line": "🆕 [63.5分 ⭐4] sb1733831438-maker/DSH-closerAI",
-      "url": "https://github.com/sb1733831438-maker/DSH-closerAI"
-    },
-    {
-      "id": "repo:1333556422",
-      "type": "trend",
-      "emoji": "📈",
-      "score": 60.2,
-      "stars": 377,
-      "points": 0,
-      "name": "decionis/agent-safe-pipeline",
-      "title": "decionis/agent-safe-pipeline",
-      "description": "Reference architecture for AI agents that propose actions but cannot authorize them — immutable intent capture, an independent Decionis policy verdict (ALLOW/ESCALATE/BLOCK), verified human approval, and a SafeExecutor that consumes a single-use intent-bound grant.",
-      "original_text": "Reference architecture for AI agents that propose actions but cannot authorize them — immutable intent capture, an independent Decionis policy verdict (ALLOW/ESCALATE/BLOCK), verified human approval, and a SafeExecutor that consumes a single-use intent-bound grant.",
-      "display_line": "📈 [60.2分 ⭐377] decionis/agent-safe-pipeline",
-      "url": "https://github.com/decionis/agent-safe-pipeline"
+      "name": "7757/Fan-Browser-Agent",
+      "title": "7757/Fan-Browser-Agent",
+      "description": "Open-source desktop AI agent with an embedded browser runtime and human-in-the-loop control.",
+      "original_text": "Open-source desktop AI agent with an embedded browser runtime and human-in-the-loop control.",
+      "display_line": "🆕 [56.2分 ⭐29] 7757/Fan-Browser-Agent",
+      "url": "https://github.com/7757/Fan-Browser-Agent"
     }
   ]
 }

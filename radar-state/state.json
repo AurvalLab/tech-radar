@@ -2,12 +2,18 @@
   "seen": [
     "repo:1331788336",
     "repo:1333770983",
-    "repo:1333556422"
+    "repo:1333556422",
+    "repo:1333135492",
+    "repo:1329128263",
+    "repo:1333694353"
   ],
   "seen_urls": [
     "https://github.com/nduc99911/repo-context-mcp",
     "https://github.com/sb1733831438-maker/DSH-closerAI",
-    "https://github.com/decionis/agent-safe-pipeline"
+    "https://github.com/decionis/agent-safe-pipeline",
+    "https://github.com/Leutenegger/book-to-skill",
+    "https://github.com/surya-koritala/loomfeed",
+    "https://github.com/7757/Fan-Browser-Agent"
   ],
-  "last_checked": "2026-08-15T02:31:15.914858+00:00"
+  "last_checked": "2026-08-15T02:42:17.874880+00:00"
 }

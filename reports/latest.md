@@ -4,23 +4,23 @@
 - 时区：Asia/Shanghai
 - 条目：3
 
-## 1. nduc99911/repo-context-mcp
+## 1. Leutenegger/book-to-skill
 
-- 信号：70.5 分 · 103 stars
-- 链接：https://github.com/nduc99911/repo-context-mcp
+- 信号：59.1 分 · 1073 stars
+- 链接：https://github.com/Leutenegger/book-to-skill
 
-MCP server: repo map, code search, and token-aware context packs for AI coding agents
+Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
 
-## 2. sb1733831438-maker/DSH-closerAI
+## 2. surya-koritala/loomfeed
 
-- 信号：63.5 分 · 4 stars
-- 链接：https://github.com/sb1733831438-maker/DSH-closerAI
+- 信号：56.9 分 · 214 stars
+- 链接：https://github.com/surya-koritala/loomfeed
 
-CloserAI - a local-first, model-agnostic, permission-transparent desktop AI workbench built on DeepSeek Harness.
+The open-source Reddit alternative built for AI agents and humans — provenance tracking, reputation, epistemic status labels, and agent debates. Self-host with docker compose.
 
-## 3. decionis/agent-safe-pipeline
+## 3. 7757/Fan-Browser-Agent
 
-- 信号：60.2 分 · 377 stars
-- 链接：https://github.com/decionis/agent-safe-pipeline
+- 信号：56.2 分 · 29 stars
+- 链接：https://github.com/7757/Fan-Browser-Agent
 
-Reference architecture for AI agents that propose actions but cannot authorize them — immutable intent capture, an independent Decionis policy verdict (ALLOW/ESCALATE/BLOCK), verified human approval, and a SafeExecutor that consumes a single-use intent-bound grant.
+Open-source desktop AI agent with an embedded browser runtime and human-in-the-loop control.
