@@ -8,6 +8,7 @@ import tempfile
 import unittest
 from datetime import datetime, timezone
 from pathlib import Path
+from unittest import mock
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -205,6 +206,49 @@ class TechRadarTests(unittest.TestCase):
 
         self.assertEqual(exit_code, 0)
         self.assertIn("repo:1", output.getvalue())
+
+    def test_github_cli_decodes_utf8_output(self):
+        completed = subprocess.CompletedProcess(
+            args=[],
+            returncode=0,
+            stdout='{"items": [{"description": "🆕 工具"}]}',
+            stderr="",
+        )
+        with mock.patch.object(
+            self.radar,
+            "github_cli_path",
+            return_value="gh",
+        ), mock.patch.object(
+            self.radar.subprocess,
+            "run",
+            return_value=completed,
+        ) as run:
+            result = self.radar.fetch_github_via_gh("agent")
+
+        self.assertEqual(result["items"][0]["description"], "🆕 工具")
+        self.assertEqual(run.call_args.kwargs["encoding"], "utf-8")
+        self.assertEqual(run.call_args.kwargs["errors"], "replace")
+
+    def test_configure_stdio_requests_utf8(self):
+        class Stream:
+            def __init__(self):
+                self.calls = []
+
+            def reconfigure(self, **kwargs):
+                self.calls.append(kwargs)
+
+        stdout = Stream()
+        stderr = Stream()
+        with mock.patch.object(self.radar.sys, "stdout", stdout), mock.patch.object(
+            self.radar.sys,
+            "stderr",
+            stderr,
+        ):
+            self.radar.configure_stdio()
+
+        expected = {"encoding": "utf-8", "errors": "replace"}
+        self.assertEqual(stdout.calls, [expected])
+        self.assertEqual(stderr.calls, [expected])
 
 
 if __name__ == "__main__":

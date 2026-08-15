@@ -25,6 +25,7 @@ import os
 import re
 import shutil
 import subprocess
+import sys
 import tempfile
 import time
 import urllib.error
@@ -38,6 +39,18 @@ from typing import Any, Dict, Iterable, List, Optional
 # ── Config ──────────────────────────────────────────────────────────────────
 
 APP_NAME = "TechRadar/3.0"
+
+
+def configure_stdio() -> None:
+    """Use UTF-8 for reports on Windows and other legacy-codepage consoles."""
+    for stream in (sys.stdout, sys.stderr):
+        reconfigure = getattr(stream, "reconfigure", None)
+        if not reconfigure:
+            continue
+        try:
+            reconfigure(encoding="utf-8", errors="replace")
+        except (OSError, ValueError):
+            continue
 
 
 def load_env(env_file: Optional[str] = None) -> None:
@@ -365,6 +378,8 @@ def fetch_github_via_gh(
             ],
             capture_output=True,
             text=True,
+            encoding="utf-8",
+            errors="replace",
             timeout=18,
         )
 
@@ -1158,6 +1173,7 @@ def get_unseen_batch(max_items: int) -> List[Item]:
 
 
 def main() -> int:
+    configure_stdio()
     args = parse_args()
     time_utc = utc_clock()
 
