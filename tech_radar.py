@@ -4,13 +4,14 @@ tech_radar.py — AI Agent / MCP / CLI / Automation engineering intelligence rad
 
 Modes:
   default        Fetch unseen high-signal items, mark delivered items as seen, print English report.
-  --show        Preview unseen high-signal items, write a pending batch, do NOT mark items as seen.
+  --show        Preview unseen items, reusing an uncommitted pending batch when present.
   --commit      Mark the last pending --show batch as seen, then clear pending.
+  --refresh     With --show, replace an existing pending batch.
   --json        Print structured JSON for agent translation.
 
 Recommended agent flow:
   1) python tech_radar.py --show --json
-  2) translate cached JSON output
+  2) deliver or translate the cached JSON output
   3) python tech_radar.py --commit
   4) return translated report
 """
@@ -37,6 +38,35 @@ from typing import Any, Dict, Iterable, List, Optional
 # ── Config ──────────────────────────────────────────────────────────────────
 
 APP_NAME = "TechRadar/3.0"
+
+
+def load_env(env_file: Optional[str] = None) -> None:
+    """Load a dotenv-format file before configuration is initialized."""
+    source = env_file if env_file is not None else os.getenv("TECH_RADAR_ENV_FILE", "")
+    if not source:
+        return
+
+    path = Path(source).expanduser()
+    if not path.exists():
+        return
+
+    try:
+        for raw in path.read_text(encoding="utf-8").splitlines():
+            line = raw.strip()
+            if not line or line.startswith("#") or "=" not in line:
+                continue
+
+            key, _, val = line.partition("=")
+            key = key.strip()
+            val = val.strip().strip('"').strip("'")
+
+            if key and key not in os.environ:
+                os.environ[key] = val
+    except OSError:
+        return
+
+
+load_env()
 
 
 def default_data_dir() -> Path:
@@ -171,31 +201,6 @@ Item = Dict[str, Any]
 
 
 # ── Env / IO ────────────────────────────────────────────────────────────────
-
-def load_env() -> None:
-    """Load an optional dotenv-format file without touching host-agent secrets."""
-    if not ENV_FILE:
-        return
-
-    env_file = Path(ENV_FILE).expanduser()
-    if not env_file.exists():
-        return
-
-    try:
-        for raw in env_file.read_text(encoding="utf-8").splitlines():
-            line = raw.strip()
-            if not line or line.startswith("#") or "=" not in line:
-                continue
-
-            key, _, val = line.partition("=")
-            key = key.strip()
-            val = val.strip().strip('"').strip("'")
-
-            if key and key not in os.environ:
-                os.environ[key] = val
-    except Exception:
-        return
-
 
 def utc_now() -> datetime:
     return datetime.now(timezone.utc)
@@ -589,18 +594,22 @@ def apply_type_caps(score: float, text: str, stars: int) -> float:
 
 # ── Main scoring function ────────────────────────────────────────────────
 
+def scoring_text(item: dict) -> str:
+    """Return content signals only; hosting URLs must not influence ranking."""
+    title = item.get("title") or item.get("full_name") or ""
+    desc = item.get("description") or ""
+    topics_text = " ".join(item.get("topics") or [])
+    return norm_text(title, desc, topics_text)
+
 def score_item(item: dict, now: Optional[datetime] = None) -> float:
     """Score a single item on 0–100 engineering value scale."""
     now = now or utc_now()
 
-    title = item.get("title") or item.get("full_name") or ""
-    desc = item.get("description") or ""
-    url = item.get("html_url") or item.get("url") or ""
     source = item.get("source") or item.get("type") or ""
     topics = item.get("topics") or []
 
     topics_text = " ".join(topics)
-    text = norm_text(title, desc, url, topics_text)
+    text = scoring_text(item)
 
     stars = int(item.get("stargazers_count") or item.get("stars") or 0)
 
@@ -643,7 +652,14 @@ def select_items(items: list, max_items: int = 5, now: Optional[datetime] = None
     """Score all items and return the top subset that pass thresholds."""
     now = now or utc_now()
 
-    scored = [{**item, "score": score_item(item, now=now), "engineering": calc_engineering(norm_text(item.get("title") or item.get("full_name") or "", item.get("description") or "", item.get("html_url") or item.get("url") or "", " ".join(item.get("topics") or [])))} for item in items]
+    scored = [
+        {
+            **item,
+            "score": score_item(item, now=now),
+            "engineering": calc_engineering(scoring_text(item)),
+        }
+        for item in items
+    ]
 
     # Dynamic threshold: top 85th percentile, floor at PASS_THRESHOLD
     scores = sorted(x["score"] for x in scored)
@@ -720,6 +736,7 @@ def github_item(repo: Dict[str, Any], source_type: str) -> Optional[Item]:
             "name": name,
             "title": name,
             "description": desc,
+            "topics": list(repo.get("topics") or []),
             "original_text": desc or name,
             "url": url,
             "created_at": repo.get("created_at"),
@@ -751,7 +768,7 @@ def hn_item(hit: Dict[str, Any]) -> Optional[Item]:
             "type": "hn",
             "emoji": TYPE_LABELS["hn"],
             "score": 0,
-            "stars": points,
+            "points": points,
             "name": title,
             "title": title,
             "description": desc,
@@ -911,7 +928,7 @@ def collect_items() -> List[Item]:
 def sort_key(item: Item) -> Any:
     return (
         float(item.get("score") or 0),
-        int(item.get("stars") or 0),
+        int(item.get("stars") or item.get("points") or 0),
         str(item.get("created_at") or ""),
     )
 
@@ -991,8 +1008,11 @@ def meta_text(item: Item) -> str:
     score_val = float(item.get("score") or 0)
     meta = f"[{score_val:.1f}分"
 
+    points = int(item.get("points") or 0)
     stars = int(item.get("stars") or 0)
-    if stars > 0:
+    if item.get("type") == "hn" and points > 0:
+        meta += f" ▲{points}"
+    elif stars > 0:
         meta += f" ⭐{stars}"
 
     return meta + "]"
@@ -1024,6 +1044,7 @@ def public_item(item: Item) -> Item:
         "emoji": item.get("emoji"),
         "score": round(float(item.get("score") or 0), 1),
         "stars": int(item.get("stars") or 0),
+        "points": int(item.get("points") or 0),
         "name": item.get("name"),
         "title": item.get("title"),
         "description": item.get("description"),
@@ -1120,6 +1141,12 @@ def parse_args() -> argparse.Namespace:
         help="With --show, do not write pending batch",
     )
 
+    p.add_argument(
+        "--refresh",
+        action="store_true",
+        help="With --show, replace an existing pending batch",
+    )
+
     return p.parse_args()
 
 
@@ -1127,24 +1154,10 @@ def get_unseen_batch(max_items: int) -> List[Item]:
     state = load_state()
     all_items = collect_items()
     unseen = unseen_items(state, all_items)
-
-    # If unseen pool is insufficient for a meaningful push,
-    # supplement with highest-scoring items from all_items
-    # so select_items() can apply candidate-padding logic.
-    min_push = min(3, max_items)
-    if len(unseen) < min_push:
-        unseen_ids = {i.get("id") for i in unseen}
-        supplement = [
-            i for i in all_items
-            if i.get("id") not in unseen_ids
-        ]
-        unseen.extend(supplement[: min_push - len(unseen)])
-
     return select_items(unseen, max_items)
 
 
 def main() -> int:
-    load_env()
     args = parse_args()
     time_utc = utc_clock()
 
@@ -1159,11 +1172,22 @@ def main() -> int:
         return 0
 
     if args.show:
+        if not args.no_pending and not args.refresh:
+            pending = read_pending()
+            pending_items = pending.get("items", [])
+            if pending_items:
+                print_items(
+                    pending_items,
+                    args.json,
+                    pending.get("time_utc") or time_utc,
+                )
+                return 0
+
         items = get_unseen_batch(args.max)
 
         if items and not args.no_pending:
             write_pending([public_item(i) for i in items], time_utc)
-        elif not items:
+        elif not items and not args.no_pending:
             clear_pending()
 
         print_items(items, args.json, time_utc)

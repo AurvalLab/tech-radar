@@ -32,6 +32,13 @@ Preview results without consuming them. When your delivery step succeeds, commit
 python tech_radar.py --commit
 ```
 
+Until committed, later `--show` calls replay the same pending batch. To discard
+that batch and fetch a fresh preview explicitly:
+
+```bash
+python tech_radar.py --show --refresh --json
+```
+
 For a simple one-step run that prints and marks the selected items as seen:
 
 ```bash
@@ -48,7 +55,8 @@ python tech_radar.py --show --json > batch.json
 python tech_radar.py --commit
 ```
 
-If delivery fails, do not call `--commit`; the same batch remains pending for retry.
+If delivery fails, do not call `--commit`; the same batch remains pending and the
+next `--show` replays it. This prevents a retry from silently replacing the batch.
 
 ## Configuration
 
