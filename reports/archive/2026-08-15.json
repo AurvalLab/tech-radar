@@ -1,6 +1,49 @@
 {
   "report_date": "2026-08-15",
-  "generated_at": "2026-08-15T02:24:45.810567+00:00",
+  "generated_at": "2026-08-15T02:31:15.913545+00:00",
   "timezone": "Asia/Shanghai",
-  "items": []
+  "items": [
+    {
+      "id": "repo:1331788336",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 70.5,
+      "stars": 103,
+      "points": 0,
+      "name": "nduc99911/repo-context-mcp",
+      "title": "nduc99911/repo-context-mcp",
+      "description": "MCP server: repo map, code search, and token-aware context packs for AI coding agents",
+      "original_text": "MCP server: repo map, code search, and token-aware context packs for AI coding agents",
+      "display_line": "📈 [70.5分 ⭐103] nduc99911/repo-context-mcp",
+      "url": "https://github.com/nduc99911/repo-context-mcp"
+    },
+    {
+      "id": "repo:1333770983",
+      "type": "new",
+      "emoji": "🆕",
+      "score": 63.5,
+      "stars": 4,
+      "points": 0,
+      "name": "sb1733831438-maker/DSH-closerAI",
+      "title": "sb1733831438-maker/DSH-closerAI",
+      "description": "CloserAI - a local-first, model-agnostic, permission-transparent desktop AI workbench built on DeepSeek Harness.",
+      "original_text": "CloserAI - a local-first, model-agnostic, permission-transparent desktop AI workbench built on DeepSeek Harness.",
+      "display_line": "🆕 [63.5分 ⭐4] sb1733831438-maker/DSH-closerAI",
+      "url": "https://github.com/sb1733831438-maker/DSH-closerAI"
+    },
+    {
+      "id": "repo:1333556422",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 60.2,
+      "stars": 377,
+      "points": 0,
+      "name": "decionis/agent-safe-pipeline",
+      "title": "decionis/agent-safe-pipeline",
+      "description": "Reference architecture for AI agents that propose actions but cannot authorize them — immutable intent capture, an independent Decionis policy verdict (ALLOW/ESCALATE/BLOCK), verified human approval, and a SafeExecutor that consumes a single-use intent-bound grant.",
+      "original_text": "Reference architecture for AI agents that propose actions but cannot authorize them — immutable intent capture, an independent Decionis policy verdict (ALLOW/ESCALATE/BLOCK), verified human approval, and a SafeExecutor that consumes a single-use intent-bound grant.",
+      "display_line": "📈 [60.2分 ⭐377] decionis/agent-safe-pipeline",
+      "url": "https://github.com/decionis/agent-safe-pipeline"
+    }
+  ]
 }
