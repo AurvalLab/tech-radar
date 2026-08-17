@@ -14,7 +14,9 @@
     "repo:1333846196",
     "repo:1334747723",
     "repo:1334430510",
-    "repo:1329849289"
+    "repo:1329849289",
+    "repo:1333100071",
+    "repo:1332590617"
   ],
   "seen_urls": [
     "https://github.com/nduc99911/repo-context-mcp",
@@ -31,7 +33,9 @@
     "https://github.com/huey1in/reef",
     "https://github.com/fufankeji/deepseek-harness-studio",
     "https://github.com/Endokelp/Endoplexity",
-    "https://github.com/lexmount/moli"
+    "https://github.com/lexmount/moli",
+    "https://github.com/Anionex/dsh-vision-toolkit",
+    "https://github.com/fellowgeek/mcp-memory"
   ],
-  "last_checked": "2026-08-16T23:37:50.735940+00:00"
+  "last_checked": "2026-08-17T23:41:34.942699+00:00"
 }
