@@ -20,7 +20,10 @@
     "repo:1337499120",
     "repo:1336793734",
     "repo:1332866061",
-    "repo:1336502227"
+    "repo:1336502227",
+    "repo:1340543685",
+    "repo:1340017940",
+    "repo:1333741624"
   ],
   "seen_urls": [
     "https://github.com/nduc99911/repo-context-mcp",
@@ -43,7 +46,10 @@
     "https://github.com/zaber-dev/free-ai-gateway",
     "https://github.com/op7418/pilot-harness",
     "https://github.com/seyedehsanhadi/sloptrim",
-    "https://github.com/CopilotKit/openbot"
+    "https://github.com/CopilotKit/openbot",
+    "https://github.com/euanguo/dsh-studio",
+    "https://github.com/Haroon-jay/wctx",
+    "https://github.com/seanlxh/Air-Lingjing"
   ],
-  "last_checked": "2026-08-19T23:41:49.729393+00:00"
+  "last_checked": "2026-08-20T23:44:20.528654+00:00"
 }
