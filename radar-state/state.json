@@ -23,7 +23,10 @@
     "repo:1336502227",
     "repo:1340543685",
     "repo:1340017940",
-    "repo:1333741624"
+    "repo:1333741624",
+    "repo:1336370355",
+    "repo:1339882322",
+    "repo:1338095980"
   ],
   "seen_urls": [
     "https://github.com/nduc99911/repo-context-mcp",
@@ -49,7 +52,10 @@
     "https://github.com/CopilotKit/openbot",
     "https://github.com/euanguo/dsh-studio",
     "https://github.com/Haroon-jay/wctx",
-    "https://github.com/seanlxh/Air-Lingjing"
+    "https://github.com/seanlxh/Air-Lingjing",
+    "https://github.com/ztratar/openhistory",
+    "https://github.com/ZSeven-W/dsh-ios",
+    "https://github.com/lianghsun/open-sheet"
   ],
-  "last_checked": "2026-08-20T23:44:20.528654+00:00"
+  "last_checked": "2026-08-21T23:43:25.987498+00:00"
 }
