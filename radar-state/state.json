@@ -29,7 +29,10 @@
     "repo:1338095980",
     "repo:1338409520",
     "repo:1342202970",
-    "repo:1338338357"
+    "repo:1338338357",
+    "repo:1344002498",
+    "repo:1342886503",
+    "repo:1340243403"
   ],
   "seen_urls": [
     "https://github.com/nduc99911/repo-context-mcp",
@@ -61,7 +64,10 @@
     "https://github.com/lianghsun/open-sheet",
     "https://github.com/only-cli/oc",
     "https://github.com/mrpulor-gh/nuphus",
-    "https://github.com/joe960913/Jixu"
+    "https://github.com/joe960913/Jixu",
+    "https://github.com/w-partners/Wbrowser",
+    "https://github.com/duty1g/x64dbg-mcp-server",
+    "https://github.com/d4ncboz/github-farm"
   ],
-  "last_checked": "2026-08-22T23:39:46.313521+00:00"
+  "last_checked": "2026-08-23T23:39:55.857517+00:00"
 }
