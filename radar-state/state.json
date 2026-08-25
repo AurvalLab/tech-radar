@@ -35,7 +35,10 @@
     "repo:1340243403",
     "repo:1342227253",
     "repo:1342943152",
-    "repo:1343183897"
+    "repo:1343183897",
+    "repo:1345357989",
+    "repo:1340901539",
+    "repo:1342461518"
   ],
   "seen_urls": [
     "https://github.com/nduc99911/repo-context-mcp",
@@ -73,7 +76,10 @@
     "https://github.com/d4ncboz/github-farm",
     "https://github.com/sodiumsun/agenttrail",
     "https://github.com/kgoedecke/doop",
-    "https://github.com/appeeky/ua-skills"
+    "https://github.com/appeeky/ua-skills",
+    "https://github.com/Stupidoodle/swissdevjobs-cli",
+    "https://github.com/ArihantDeva/heimdall",
+    "https://github.com/ApodexAI/FrontierAgent"
   ],
-  "last_checked": "2026-08-24T23:41:01.171354+00:00"
+  "last_checked": "2026-08-25T23:43:17.226896+00:00"
 }
