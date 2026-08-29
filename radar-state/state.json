@@ -41,7 +41,10 @@
     "repo:1342461518",
     "repo:1344239263",
     "repo:1342500731",
-    "repo:1342735006"
+    "repo:1342735006",
+    "repo:1345859344",
+    "repo:1349281513",
+    "repo:1346917581"
   ],
   "seen_urls": [
     "https://github.com/nduc99911/repo-context-mcp",
@@ -85,7 +88,10 @@
     "https://github.com/ApodexAI/FrontierAgent",
     "https://github.com/truespar/sentio",
     "https://github.com/halofyai/halofy",
-    "https://github.com/pinoox/neuromesh"
+    "https://github.com/pinoox/neuromesh",
+    "https://github.com/muratmula/ai-robinhood-chain",
+    "https://github.com/t3ratech/mcp-session-bridge",
+    "https://github.com/S1N6H/pentest-harness"
   ],
-  "last_checked": "2026-08-28T06:57:32.856390+00:00"
+  "last_checked": "2026-08-29T04:11:28.539117+00:00"
 }
