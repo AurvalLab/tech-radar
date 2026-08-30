@@ -44,7 +44,10 @@
     "repo:1342735006",
     "repo:1345859344",
     "repo:1349281513",
-    "repo:1346917581"
+    "repo:1346917581",
+    "repo:1350271324",
+    "repo:1345418172",
+    "repo:1348178527"
   ],
   "seen_urls": [
     "https://github.com/nduc99911/repo-context-mcp",
@@ -91,7 +94,10 @@
     "https://github.com/pinoox/neuromesh",
     "https://github.com/muratmula/ai-robinhood-chain",
     "https://github.com/t3ratech/mcp-session-bridge",
-    "https://github.com/S1N6H/pentest-harness"
+    "https://github.com/S1N6H/pentest-harness",
+    "https://github.com/dxn1-UBUNTU/sonderr",
+    "https://github.com/omaekumiko2-create/kru",
+    "https://github.com/JordyZomer/lemmalog"
   ],
-  "last_checked": "2026-08-29T04:11:28.539117+00:00"
+  "last_checked": "2026-08-30T01:18:33.794781+00:00"
 }
