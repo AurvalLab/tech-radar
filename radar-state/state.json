@@ -59,7 +59,10 @@
     "repo:1353900339",
     "repo:1349507889",
     "repo:1349990522",
-    "repo:1349410105"
+    "repo:1349410105",
+    "repo:1351859098",
+    "repo:1355823855",
+    "repo:1350978527"
   ],
   "seen_urls": [
     "https://github.com/nduc99911/repo-context-mcp",
@@ -121,7 +124,10 @@
     "https://github.com/wpFelix/elementor-mcp-server",
     "https://github.com/Player-YN/PawWork_ZhuaZhua",
     "https://github.com/aleksandr-alhoff/seo-landing",
-    "https://github.com/rokbenko/quackd"
+    "https://github.com/rokbenko/quackd",
+    "https://github.com/2akouwu/reverify",
+    "https://github.com/Godzilaa/browser-agent",
+    "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills"
   ],
-  "last_checked": "2026-09-03T01:11:03.185449+00:00"
+  "last_checked": "2026-09-04T01:03:57.564763+00:00"
 }
