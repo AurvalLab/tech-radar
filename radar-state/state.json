@@ -65,7 +65,9 @@
     "repo:1350978527",
     "repo:1356741658",
     "repo:1357361011",
-    "repo:1352303594"
+    "repo:1352303594",
+    "repo:1357036560",
+    "repo:1352547997"
   ],
   "seen_urls": [
     "https://github.com/nduc99911/repo-context-mcp",
@@ -133,7 +135,9 @@
     "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
     "https://github.com/PMZPZM0/codex-harness-desktop",
     "https://github.com/gjoliveira9634/opencode-agent-foundry",
-    "https://github.com/Tyche-MKR/scientific-agent-skills"
+    "https://github.com/Tyche-MKR/scientific-agent-skills",
+    "https://github.com/aaravshah1311/Agent-2",
+    "https://github.com/fitchmultz/pi-posthorse"
   ],
-  "last_checked": "2026-09-05T01:04:39.789193+00:00"
+  "last_checked": "2026-09-06T01:04:11.477398+00:00"
 }
