@@ -67,7 +67,10 @@
     "repo:1357361011",
     "repo:1352303594",
     "repo:1357036560",
-    "repo:1352547997"
+    "repo:1352547997",
+    "repo:1358571386",
+    "repo:1356156490",
+    "repo:1358286075"
   ],
   "seen_urls": [
     "https://github.com/nduc99911/repo-context-mcp",
@@ -137,7 +140,10 @@
     "https://github.com/gjoliveira9634/opencode-agent-foundry",
     "https://github.com/Tyche-MKR/scientific-agent-skills",
     "https://github.com/aaravshah1311/Agent-2",
-    "https://github.com/fitchmultz/pi-posthorse"
+    "https://github.com/fitchmultz/pi-posthorse",
+    "https://github.com/okf-memory/okf-agent-memory",
+    "https://github.com/chigwell/Penelopa.ai",
+    "https://github.com/fidetolabs/qanat"
   ],
-  "last_checked": "2026-09-06T01:04:11.477398+00:00"
+  "last_checked": "2026-09-07T01:06:12.521346+00:00"
 }
