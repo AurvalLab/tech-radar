@@ -71,7 +71,9 @@
     "repo:1358571386",
     "repo:1356156490",
     "repo:1358286075",
-    "repo:1358561036"
+    "repo:1358561036",
+    "repo:1360796285",
+    "repo:1357987246"
   ],
   "seen_urls": [
     "https://github.com/nduc99911/repo-context-mcp",
@@ -145,7 +147,9 @@
     "https://github.com/okf-memory/okf-agent-memory",
     "https://github.com/chigwell/Penelopa.ai",
     "https://github.com/fidetolabs/qanat",
-    "https://github.com/bangtutorial/bang-motion"
+    "https://github.com/bangtutorial/bang-motion",
+    "https://github.com/HarnessDesk/HarnessDesk",
+    "https://github.com/Zvyan/PromptForge"
   ],
-  "last_checked": "2026-09-08T01:14:27.438535+00:00"
+  "last_checked": "2026-09-09T01:17:18.741400+00:00"
 }
