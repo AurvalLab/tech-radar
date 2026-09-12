@@ -76,7 +76,10 @@
     "repo:1357987246",
     "repo:1359384189",
     "repo:1363305681",
-    "repo:1359523853"
+    "repo:1359523853",
+    "repo:1360896604",
+    "repo:1366501036",
+    "repo:1365289065"
   ],
   "seen_urls": [
     "https://github.com/nduc99911/repo-context-mcp",
@@ -155,7 +158,10 @@
     "https://github.com/Zvyan/PromptForge",
     "https://github.com/Atomburstofficial/geiger",
     "https://github.com/mohammad-emad-dev/diagrams-mcp-server",
-    "https://github.com/tshemsedinov/reslop"
+    "https://github.com/tshemsedinov/reslop",
+    "https://github.com/VaderChen/YourDesk",
+    "https://github.com/wundercorp/loki",
+    "https://github.com/EugeneFinch/mechapad-cli"
   ],
-  "last_checked": "2026-09-11T01:11:41.327625+00:00"
+  "last_checked": "2026-09-12T01:13:12.098214+00:00"
 }
