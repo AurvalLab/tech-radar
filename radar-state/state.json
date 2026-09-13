@@ -79,7 +79,8 @@
     "repo:1359523853",
     "repo:1360896604",
     "repo:1366501036",
-    "repo:1365289065"
+    "repo:1365289065",
+    "repo:1363827742"
   ],
   "seen_urls": [
     "https://github.com/nduc99911/repo-context-mcp",
@@ -161,7 +162,8 @@
     "https://github.com/tshemsedinov/reslop",
     "https://github.com/VaderChen/YourDesk",
     "https://github.com/wundercorp/loki",
-    "https://github.com/EugeneFinch/mechapad-cli"
+    "https://github.com/EugeneFinch/mechapad-cli",
+    "https://github.com/FankChen/tracecrate"
   ],
-  "last_checked": "2026-09-12T01:13:12.098214+00:00"
+  "last_checked": "2026-09-13T01:07:59.395317+00:00"
 }
