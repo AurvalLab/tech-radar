@@ -83,7 +83,10 @@
     "repo:1363827742",
     "repo:1367914927",
     "repo:1368259857",
-    "repo:1361195954"
+    "repo:1361195954",
+    "repo:1364985464",
+    "repo:1367577373",
+    "repo:1366201891"
   ],
   "seen_urls": [
     "https://github.com/nduc99911/repo-context-mcp",
@@ -169,7 +172,10 @@
     "https://github.com/FankChen/tracecrate",
     "https://github.com/nikships/muse-cli",
     "https://github.com/Fhaxikii/Nano-Lumen",
-    "https://github.com/codejunkie99/agentic-stack-desktop"
+    "https://github.com/codejunkie99/agentic-stack-desktop",
+    "https://github.com/agent-launch/agent-launcher",
+    "https://github.com/agentverse-os/AgentVerse-OS",
+    "https://github.com/arumwu/local-workspace-mcp"
   ],
-  "last_checked": "2026-09-14T01:13:12.288515+00:00"
+  "last_checked": "2026-09-15T01:33:44.108980+00:00"
 }
