@@ -86,7 +86,10 @@
     "repo:1361195954",
     "repo:1364985464",
     "repo:1367577373",
-    "repo:1366201891"
+    "repo:1366201891",
+    "repo:1372042569",
+    "repo:1363399964",
+    "repo:1369710615"
   ],
   "seen_urls": [
     "https://github.com/nduc99911/repo-context-mcp",
@@ -175,7 +178,10 @@
     "https://github.com/codejunkie99/agentic-stack-desktop",
     "https://github.com/agent-launch/agent-launcher",
     "https://github.com/agentverse-os/AgentVerse-OS",
-    "https://github.com/arumwu/local-workspace-mcp"
+    "https://github.com/arumwu/local-workspace-mcp",
+    "https://github.com/arovi-labs/pagekit",
+    "https://github.com/viettranx/3dviz-pro-max",
+    "https://github.com/Matthew0822/ToolReplay"
   ],
-  "last_checked": "2026-09-15T01:33:44.108980+00:00"
+  "last_checked": "2026-09-16T01:28:45.102440+00:00"
 }
