@@ -89,7 +89,10 @@
     "repo:1366201891",
     "repo:1372042569",
     "repo:1363399964",
-    "repo:1369710615"
+    "repo:1369710615",
+    "repo:1372626834",
+    "hn:49732244",
+    "repo:1366280840"
   ],
   "seen_urls": [
     "https://github.com/nduc99911/repo-context-mcp",
@@ -181,7 +184,10 @@
     "https://github.com/arumwu/local-workspace-mcp",
     "https://github.com/arovi-labs/pagekit",
     "https://github.com/viettranx/3dviz-pro-max",
-    "https://github.com/Matthew0822/ToolReplay"
+    "https://github.com/Matthew0822/ToolReplay",
+    "https://github.com/KarmSakha/karmx-agent",
+    "https://upstash.com/blog/turn-any-agent-into-a-code-factory-with-an-mcp",
+    "https://github.com/modelscope/ms-cookbook"
   ],
-  "last_checked": "2026-09-16T01:28:45.102440+00:00"
+  "last_checked": "2026-09-17T01:30:59.788274+00:00"
 }
