@@ -92,7 +92,10 @@
     "repo:1369710615",
     "repo:1372626834",
     "hn:49732244",
-    "repo:1366280840"
+    "repo:1366280840",
+    "repo:1373978991",
+    "repo:1367266329",
+    "repo:1374149890"
   ],
   "seen_urls": [
     "https://github.com/nduc99911/repo-context-mcp",
@@ -187,7 +190,10 @@
     "https://github.com/Matthew0822/ToolReplay",
     "https://github.com/KarmSakha/karmx-agent",
     "https://upstash.com/blog/turn-any-agent-into-a-code-factory-with-an-mcp",
-    "https://github.com/modelscope/ms-cookbook"
+    "https://github.com/modelscope/ms-cookbook",
+    "https://github.com/NiazMorshed2007/jev-review",
+    "https://github.com/shinthink/blitzstrike",
+    "https://github.com/xzgzszrh/MemPulse"
   ],
-  "last_checked": "2026-09-17T01:30:59.788274+00:00"
+  "last_checked": "2026-09-18T01:19:12.934282+00:00"
 }
