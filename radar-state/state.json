@@ -95,7 +95,10 @@
     "repo:1366280840",
     "repo:1373978991",
     "repo:1367266329",
-    "repo:1374149890"
+    "repo:1374149890",
+    "repo:1375339440",
+    "repo:1375327232",
+    "repo:1370509929"
   ],
   "seen_urls": [
     "https://github.com/nduc99911/repo-context-mcp",
@@ -193,7 +196,10 @@
     "https://github.com/modelscope/ms-cookbook",
     "https://github.com/NiazMorshed2007/jev-review",
     "https://github.com/shinthink/blitzstrike",
-    "https://github.com/xzgzszrh/MemPulse"
+    "https://github.com/xzgzszrh/MemPulse",
+    "https://github.com/KunlunMeta-dev/Kcoder",
+    "https://github.com/indada/repopilot",
+    "https://github.com/RectangleStory/Superpowers_Multi_AI"
   ],
-  "last_checked": "2026-09-18T01:19:12.934282+00:00"
+  "last_checked": "2026-09-19T01:17:17.556084+00:00"
 }
