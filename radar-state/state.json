@@ -101,7 +101,10 @@
     "repo:1370509929",
     "repo:1376760732",
     "repo:1377503155",
-    "repo:1375721079"
+    "repo:1375721079",
+    "repo:1375615157",
+    "repo:1377737136",
+    "repo:1374059973"
   ],
   "seen_urls": [
     "https://github.com/nduc99911/repo-context-mcp",
@@ -205,7 +208,10 @@
     "https://github.com/RectangleStory/Superpowers_Multi_AI",
     "https://github.com/jiawei686/jev-ultrafast-mcp",
     "https://github.com/egorVasile/beecode",
-    "https://github.com/coldteadotai/abide"
+    "https://github.com/coldteadotai/abide",
+    "https://github.com/Oldcircle/geo-sleuth",
+    "https://github.com/nassim-arifette/jevgrep",
+    "https://github.com/Dicklesworthstone/skillranker"
   ],
-  "last_checked": "2026-09-20T01:17:19.653004+00:00"
+  "last_checked": "2026-09-21T01:12:46.203498+00:00"
 }
