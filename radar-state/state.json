@@ -104,7 +104,10 @@
     "repo:1375721079",
     "repo:1375615157",
     "repo:1377737136",
-    "repo:1374059973"
+    "repo:1374059973",
+    "repo:1373227372",
+    "repo:1379691092",
+    "repo:1374058281"
   ],
   "seen_urls": [
     "https://github.com/nduc99911/repo-context-mcp",
@@ -211,7 +214,10 @@
     "https://github.com/coldteadotai/abide",
     "https://github.com/Oldcircle/geo-sleuth",
     "https://github.com/nassim-arifette/jevgrep",
-    "https://github.com/Dicklesworthstone/skillranker"
+    "https://github.com/Dicklesworthstone/skillranker",
+    "https://github.com/Ying-Kai-Liao/jev-browser",
+    "https://github.com/SH-DaWushi/web-api-extractor",
+    "https://github.com/AbdelStark/awesome-typesafe-jev"
   ],
-  "last_checked": "2026-09-21T01:12:46.203498+00:00"
+  "last_checked": "2026-09-22T01:38:53.263733+00:00"
 }
