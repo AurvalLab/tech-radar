@@ -107,7 +107,10 @@
     "repo:1374059973",
     "repo:1373227372",
     "repo:1379691092",
-    "repo:1374058281"
+    "repo:1374058281",
+    "repo:1381561943",
+    "repo:1382070037",
+    "repo:1377468874"
   ],
   "seen_urls": [
     "https://github.com/nduc99911/repo-context-mcp",
@@ -217,7 +220,10 @@
     "https://github.com/Dicklesworthstone/skillranker",
     "https://github.com/Ying-Kai-Liao/jev-browser",
     "https://github.com/SH-DaWushi/web-api-extractor",
-    "https://github.com/AbdelStark/awesome-typesafe-jev"
+    "https://github.com/AbdelStark/awesome-typesafe-jev",
+    "https://github.com/maxlopez-xb0/ai-agent-skills-pack-2026",
+    "https://github.com/timgan2026-commits/agent-core-desktop",
+    "https://github.com/walidboulanouar/awesome-jev-use-cases"
   ],
-  "last_checked": "2026-09-22T01:38:53.263733+00:00"
+  "last_checked": "2026-09-23T01:33:16.719967+00:00"
 }
