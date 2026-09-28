@@ -122,7 +122,12 @@
     "repo:1381397567",
     "repo:1388388953",
     "repo:1388627485",
-    "repo:1383809012"
+    "repo:1383809012",
+    "repo:1375815381",
+    "repo:1388482474",
+    "repo:1391153522",
+    "repo:1391152810",
+    "repo:1391150239"
   ],
   "seen_urls": [
     "https://github.com/nduc99911/repo-context-mcp",
@@ -247,7 +252,12 @@
     "https://github.com/Avinash-jetwani/jevmem",
     "https://github.com/breakstageaxe61/genspark-claw",
     "https://github.com/teddashh/bat-agent-connector",
-    "https://github.com/yetone/magpie"
+    "https://github.com/yetone/magpie",
+    "https://github.com/Amal-David/awesome-jev",
+    "https://github.com/dzhng/jevgrep",
+    "https://github.com/Alpha-Park/genpark-meta-muse-episodic-memory-graph-mcp",
+    "https://github.com/alphaparkinc/genpark-meta-muse-episodic-memory-graph-mcp",
+    "https://github.com/Alpha-Park/genpark-jev-typed-state-action-router-mcp"
   ],
-  "last_checked": "2026-09-27T01:33:31.266892+00:00"
+  "last_checked": "2026-09-28T01:45:05.096565+00:00"
 }
