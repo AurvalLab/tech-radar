@@ -127,7 +127,12 @@
     "repo:1388482474",
     "repo:1391153522",
     "repo:1391152810",
-    "repo:1391150239"
+    "repo:1391150239",
+    "repo:1394020574",
+    "repo:1394020199",
+    "repo:1392462671",
+    "repo:1392409108",
+    "repo:1393940805"
   ],
   "seen_urls": [
     "https://github.com/nduc99911/repo-context-mcp",
@@ -257,7 +262,12 @@
     "https://github.com/dzhng/jevgrep",
     "https://github.com/Alpha-Park/genpark-meta-muse-episodic-memory-graph-mcp",
     "https://github.com/alphaparkinc/genpark-meta-muse-episodic-memory-graph-mcp",
-    "https://github.com/Alpha-Park/genpark-jev-typed-state-action-router-mcp"
+    "https://github.com/Alpha-Park/genpark-jev-typed-state-action-router-mcp",
+    "https://github.com/Alpha-Park/genpark-agent-hallucination-fact-verifier-skill",
+    "https://github.com/alphaparkinc/genpark-agent-hallucination-fact-verifier-skill",
+    "https://github.com/alphaparkinc/genpark-agent-hybrid-memory-retriever-skill",
+    "https://github.com/Alpha-Park/genpark-agent-json-schema-auto-repair-skill",
+    "https://github.com/crafter-station/uber-cli"
   ],
-  "last_checked": "2026-09-28T01:45:05.096565+00:00"
+  "last_checked": "2026-09-29T02:36:27.416525+00:00"
 }
