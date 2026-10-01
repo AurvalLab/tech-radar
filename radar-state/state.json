@@ -135,7 +135,10 @@
     "repo:1393940805",
     "repo:1396315061",
     "repo:1395086349",
-    "repo:1391717301"
+    "repo:1391717301",
+    "repo:1398606485",
+    "repo:1388867993",
+    "repo:1397771878"
   ],
   "seen_urls": [
     "https://github.com/nduc99911/repo-context-mcp",
@@ -273,7 +276,10 @@
     "https://github.com/crafter-station/uber-cli",
     "https://github.com/postoncehq/x-mcp",
     "https://github.com/alphaparkinc/genpark-ascii-art-visual-terminal-rasterizer-skill",
-    "https://github.com/openJiuwen-ai/iCode"
+    "https://github.com/openJiuwen-ai/iCode",
+    "https://github.com/VoltEmperorChaos/ai-agent-for-pc",
+    "https://github.com/kaankiziltug/logo-design-skill",
+    "https://github.com/nanaism/yomiyasu"
   ],
-  "last_checked": "2026-09-30T02:10:55.234349+00:00"
+  "last_checked": "2026-10-01T02:12:44.225784+00:00"
 }
