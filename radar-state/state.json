@@ -146,7 +146,9 @@
     "repo:1401123204",
     "repo:1396688303",
     "repo:1401476500",
-    "repo:1399838098"
+    "repo:1399838098",
+    "repo:1402986945",
+    "repo:1404162414"
   ],
   "seen_urls": [
     "https://github.com/nduc99911/repo-context-mcp",
@@ -295,7 +297,9 @@
     "https://github.com/Harvil1/codeAgent",
     "https://github.com/feder-cr/dots",
     "https://github.com/QingYunA/answer-me-with-html",
-    "https://github.com/Tuskira/ai-agent-gateway"
+    "https://github.com/Tuskira/ai-agent-gateway",
+    "https://github.com/Adolanium/hermes-gadget-sdk",
+    "https://github.com/varunahuja70/MCP-Server-Generator"
   ],
-  "last_checked": "2026-10-04T02:44:39.237798+00:00"
+  "last_checked": "2026-10-05T02:05:12.424833+00:00"
 }
