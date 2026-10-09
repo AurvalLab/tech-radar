@@ -155,7 +155,10 @@
     "repo:1404677215",
     "repo:1408019360",
     "repo:1407761153",
-    "repo:1402287681"
+    "repo:1402287681",
+    "repo:1409175398",
+    "repo:1410017406",
+    "repo:1409852792"
   ],
   "seen_urls": [
     "https://github.com/nduc99911/repo-context-mcp",
@@ -313,7 +316,10 @@
     "https://github.com/lcandy2/sim-agentation",
     "https://github.com/Dicklesworthstone/frankensonos",
     "https://github.com/mcptc/mcp-tc",
-    "https://github.com/cosscom/shipyard"
+    "https://github.com/cosscom/shipyard",
+    "https://github.com/mcpdelta/mcpdelta",
+    "https://github.com/jameshaworthcs/verifiedhandles-mcp",
+    "https://github.com/tiliondev/waystone"
   ],
-  "last_checked": "2026-10-08T02:44:22.543352+00:00"
+  "last_checked": "2026-10-09T02:58:52.341052+00:00"
 }
