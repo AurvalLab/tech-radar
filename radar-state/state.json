@@ -158,7 +158,10 @@
     "repo:1402287681",
     "repo:1409175398",
     "repo:1410017406",
-    "repo:1409852792"
+    "repo:1409852792",
+    "repo:1412519601",
+    "repo:1410002762",
+    "repo:1403984902"
   ],
   "seen_urls": [
     "https://github.com/nduc99911/repo-context-mcp",
@@ -319,7 +322,10 @@
     "https://github.com/cosscom/shipyard",
     "https://github.com/mcpdelta/mcpdelta",
     "https://github.com/jameshaworthcs/verifiedhandles-mcp",
-    "https://github.com/tiliondev/waystone"
+    "https://github.com/tiliondev/waystone",
+    "https://github.com/Alpha-Park/genpark-agentic-browser-dom-snapshot-and-console-monitor-skill",
+    "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+    "https://github.com/jimoto-no-llm/rustdsh"
   ],
-  "last_checked": "2026-10-09T02:58:52.341052+00:00"
+  "last_checked": "2026-10-10T02:25:35.481684+00:00"
 }
