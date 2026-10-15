@@ -173,7 +173,10 @@
     "repo:1411225475",
     "repo:1415214046",
     "repo:1417330633",
-    "repo:1412022658"
+    "repo:1412022658",
+    "repo:1418875915",
+    "repo:1416766144",
+    "repo:1418205973"
   ],
   "seen_urls": [
     "https://github.com/nduc99911/repo-context-mcp",
@@ -349,7 +352,10 @@
     "https://github.com/hujjun/mcd-saver-strategist",
     "https://github.com/zhuyansen/new-term-radar",
     "https://github.com/qreate-gg/qreate-mcp",
-    "https://github.com/morluto/awesome-reverse-engineering"
+    "https://github.com/morluto/awesome-reverse-engineering",
+    "https://github.com/vasikmansuri/agentconfig-doctor",
+    "https://github.com/outcrawlai/scout",
+    "https://github.com/yazzang-homelab/im-looking-for"
   ],
-  "last_checked": "2026-10-14T01:58:58.805104+00:00"
+  "last_checked": "2026-10-15T01:33:33.329791+00:00"
 }

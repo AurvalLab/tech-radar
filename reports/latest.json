@@ -1,49 +1,49 @@
 {
-  "report_date": "2026-10-14",
-  "generated_at": "2026-10-14T01:58:58.803700+00:00",
+  "report_date": "2026-10-15",
+  "generated_at": "2026-10-15T01:33:33.328427+00:00",
   "timezone": "Asia/Shanghai",
   "items": [
     {
-      "id": "repo:1415214046",
-      "type": "trend",
-      "emoji": "📈",
-      "score": 66.1,
-      "stars": 868,
-      "points": 0,
-      "name": "zhuyansen/new-term-radar",
-      "title": "zhuyansen/new-term-radar",
-      "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
-      "original_text": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
-      "display_line": "📈 [66.1分 ⭐868] zhuyansen/new-term-radar",
-      "url": "https://github.com/zhuyansen/new-term-radar"
-    },
-    {
-      "id": "repo:1417330633",
+      "id": "repo:1418875915",
       "type": "new",
       "emoji": "🆕",
-      "score": 54.3,
-      "stars": 2,
+      "score": 69.0,
+      "stars": 3,
       "points": 0,
-      "name": "qreate-gg/qreate-mcp",
-      "title": "qreate-gg/qreate-mcp",
-      "description": "Build and run Discord communities from Claude and ChatGPT. Qreate MCP connects server context, setup plans, automations and announcements through reviewed actions.",
-      "original_text": "Build and run Discord communities from Claude and ChatGPT. Qreate MCP connects server context, setup plans, automations and announcements through reviewed actions.",
-      "display_line": "🆕 [54.3分 ⭐2] qreate-gg/qreate-mcp",
-      "url": "https://github.com/qreate-gg/qreate-mcp"
+      "name": "vasikmansuri/agentconfig-doctor",
+      "title": "vasikmansuri/agentconfig-doctor",
+      "description": "MCP security scanner & config linter for AI coding agents. Finds leaked secrets, risky commands, broad permissions and invalid MCP servers in Claude Code, Cursor and VS Code (Copilot) configs. Local-first CLI, no telemetry.",
+      "original_text": "MCP security scanner & config linter for AI coding agents. Finds leaked secrets, risky commands, broad permissions and invalid MCP servers in Claude Code, Cursor and VS Code (Copilot) configs. Local-first CLI, no telemetry.",
+      "display_line": "🆕 [69.0分 ⭐3] vasikmansuri/agentconfig-doctor",
+      "url": "https://github.com/vasikmansuri/agentconfig-doctor"
     },
     {
-      "id": "repo:1412022658",
+      "id": "repo:1416766144",
       "type": "trend",
       "emoji": "📈",
-      "score": 52.3,
-      "stars": 426,
+      "score": 64.1,
+      "stars": 656,
       "points": 0,
-      "name": "morluto/awesome-reverse-engineering",
-      "title": "morluto/awesome-reverse-engineering",
-      "description": "Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, and protocols.",
-      "original_text": "Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, and protocols.",
-      "display_line": "📈 [52.3分 ⭐426] morluto/awesome-reverse-engineering",
-      "url": "https://github.com/morluto/awesome-reverse-engineering"
+      "name": "outcrawlai/scout",
+      "title": "outcrawlai/scout",
+      "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+      "original_text": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+      "display_line": "📈 [64.1分 ⭐656] outcrawlai/scout",
+      "url": "https://github.com/outcrawlai/scout"
+    },
+    {
+      "id": "repo:1418205973",
+      "type": "new",
+      "emoji": "🆕",
+      "score": 60.1,
+      "stars": 9,
+      "points": 0,
+      "name": "yazzang-homelab/im-looking-for",
+      "title": "yazzang-homelab/im-looking-for",
+      "description": "Find files by what's in them: photos, PDFs, docs, voice memos and video, on your own computer. EmbeddingGemma 2 + llama.cpp; CLI, app and MCP server for agents.",
+      "original_text": "Find files by what's in them: photos, PDFs, docs, voice memos and video, on your own computer. EmbeddingGemma 2 + llama.cpp; CLI, app and MCP server for agents.",
+      "display_line": "🆕 [60.1分 ⭐9] yazzang-homelab/im-looking-for",
+      "url": "https://github.com/yazzang-homelab/im-looking-for"
     }
   ]
 }

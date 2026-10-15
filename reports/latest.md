@@ -1,26 +1,26 @@
 # 技术雷达日报
 
-- 日期：2026-10-14
+- 日期：2026-10-15
 - 时区：Asia/Shanghai
 - 条目：3
 
-## 1. zhuyansen/new-term-radar
+## 1. vasikmansuri/agentconfig-doctor
 
-- 信号：66.1 分 · 868 stars
-- 链接：https://github.com/zhuyansen/new-term-radar
+- 信号：69.0 分 · 3 stars
+- 链接：https://github.com/vasikmansuri/agentconfig-doctor
 
-Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.
+MCP security scanner & config linter for AI coding agents. Finds leaked secrets, risky commands, broad permissions and invalid MCP servers in Claude Code, Cursor and VS Code (Copilot) configs. Local-first CLI, no telemetry.
 
-## 2. qreate-gg/qreate-mcp
+## 2. outcrawlai/scout
 
-- 信号：54.3 分 · 2 stars
-- 链接：https://github.com/qreate-gg/qreate-mcp
+- 信号：64.1 分 · 656 stars
+- 链接：https://github.com/outcrawlai/scout
 
-Build and run Discord communities from Claude and ChatGPT. Qreate MCP connects server context, setup plans, automations and announcements through reviewed actions.
+Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.
 
-## 3. morluto/awesome-reverse-engineering
+## 3. yazzang-homelab/im-looking-for
 
-- 信号：52.3 分 · 426 stars
-- 链接：https://github.com/morluto/awesome-reverse-engineering
+- 信号：60.1 分 · 9 stars
+- 链接：https://github.com/yazzang-homelab/im-looking-for
 
-Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, and protocols.
+Find files by what's in them: photos, PDFs, docs, voice memos and video, on your own computer. EmbeddingGemma 2 + llama.cpp; CLI, app and MCP server for agents.

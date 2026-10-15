@@ -1,0 +1,49 @@
+{
+  "report_date": "2026-10-15",
+  "generated_at": "2026-10-15T01:33:33.328427+00:00",
+  "timezone": "Asia/Shanghai",
+  "items": [
+    {
+      "id": "repo:1418875915",
+      "type": "new",
+      "emoji": "🆕",
+      "score": 69.0,
+      "stars": 3,
+      "points": 0,
+      "name": "vasikmansuri/agentconfig-doctor",
+      "title": "vasikmansuri/agentconfig-doctor",
+      "description": "MCP security scanner & config linter for AI coding agents. Finds leaked secrets, risky commands, broad permissions and invalid MCP servers in Claude Code, Cursor and VS Code (Copilot) configs. Local-first CLI, no telemetry.",
+      "original_text": "MCP security scanner & config linter for AI coding agents. Finds leaked secrets, risky commands, broad permissions and invalid MCP servers in Claude Code, Cursor and VS Code (Copilot) configs. Local-first CLI, no telemetry.",
+      "display_line": "🆕 [69.0分 ⭐3] vasikmansuri/agentconfig-doctor",
+      "url": "https://github.com/vasikmansuri/agentconfig-doctor"
+    },
+    {
+      "id": "repo:1416766144",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 64.1,
+      "stars": 656,
+      "points": 0,
+      "name": "outcrawlai/scout",
+      "title": "outcrawlai/scout",
+      "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+      "original_text": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+      "display_line": "📈 [64.1分 ⭐656] outcrawlai/scout",
+      "url": "https://github.com/outcrawlai/scout"
+    },
+    {
+      "id": "repo:1418205973",
+      "type": "new",
+      "emoji": "🆕",
+      "score": 60.1,
+      "stars": 9,
+      "points": 0,
+      "name": "yazzang-homelab/im-looking-for",
+      "title": "yazzang-homelab/im-looking-for",
+      "description": "Find files by what's in them: photos, PDFs, docs, voice memos and video, on your own computer. EmbeddingGemma 2 + llama.cpp; CLI, app and MCP server for agents.",
+      "original_text": "Find files by what's in them: photos, PDFs, docs, voice memos and video, on your own computer. EmbeddingGemma 2 + llama.cpp; CLI, app and MCP server for agents.",
+      "display_line": "🆕 [60.1分 ⭐9] yazzang-homelab/im-looking-for",
+      "url": "https://github.com/yazzang-homelab/im-looking-for"
+    }
+  ]
+}
