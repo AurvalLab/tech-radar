@@ -1,0 +1,49 @@
+{
+  "report_date": "2026-10-16",
+  "generated_at": "2026-10-16T01:29:00.711107+00:00",
+  "timezone": "Asia/Shanghai",
+  "items": [
+    {
+      "id": "repo:1420591978",
+      "type": "new",
+      "emoji": "🆕",
+      "score": 68.7,
+      "stars": 4,
+      "points": 0,
+      "name": "vasikmansuri/devmemory",
+      "title": "vasikmansuri/devmemory",
+      "description": "🧠 Persistent local-first memory for AI coding agents — MCP server + CLI for Claude Code & Cursor. SQLite FTS5, secret redaction, project isolation.",
+      "original_text": "🧠 Persistent local-first memory for AI coding agents — MCP server + CLI for Claude Code & Cursor. SQLite FTS5, secret redaction, project isolation.",
+      "display_line": "🆕 [68.7分 ⭐4] vasikmansuri/devmemory",
+      "url": "https://github.com/vasikmansuri/devmemory"
+    },
+    {
+      "id": "repo:1420751050",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 54.3,
+      "stars": 712,
+      "points": 0,
+      "name": "feder-cr/open_scion",
+      "title": "feder-cr/open_scion",
+      "description": "Open-source version of Scion: version control built for coding agents.",
+      "original_text": "Open-source version of Scion: version control built for coding agents.",
+      "display_line": "📈 [54.3分 ⭐712] feder-cr/open_scion",
+      "url": "https://github.com/feder-cr/open_scion"
+    },
+    {
+      "id": "repo:1416828644",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 52.2,
+      "stars": 198,
+      "points": 0,
+      "name": "heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
+      "title": "heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
+      "description": "AI 跨境电商运营智能体工具箱 · 把运营 SOP 拆成 7 个可复用的 AI Agent 工作流，含 Prompt、模板与真实案例",
+      "original_text": "AI 跨境电商运营智能体工具箱 · 把运营 SOP 拆成 7 个可复用的 AI Agent 工作流，含 Prompt、模板与真实案例",
+      "display_line": "📈 [52.2分 ⭐198] heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
+      "url": "https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit"
+    }
+  ]
+}
