@@ -1,26 +1,26 @@
 # 技术雷达日报
 
-- 日期：2026-10-16
+- 日期：2026-10-17
 - 时区：Asia/Shanghai
 - 条目：3
 
-## 1. vasikmansuri/devmemory
+## 1. karlarso/easy-ui-canvas
 
-- 信号：68.7 分 · 4 stars
-- 链接：https://github.com/vasikmansuri/devmemory
+- 信号：56.7 分 · 12 stars
+- 链接：https://github.com/karlarso/easy-ui-canvas
 
-🧠 Persistent local-first memory for AI coding agents — MCP server + CLI for Claude Code & Cursor. SQLite FTS5, secret redaction, project isolation.
+Local multi-frame canvas for exploring UI designs: comment on elements, click through flows, and let your AI coding agent answer. Python stdlib only, no build step.
 
-## 2. feder-cr/open_scion
+## 2. anujasid/mcp-for-blender-pro
 
-- 信号：54.3 分 · 712 stars
-- 链接：https://github.com/feder-cr/open_scion
+- 信号：56.5 分 · 266 stars
+- 链接：https://github.com/anujasid/mcp-for-blender-pro
 
-Open-source version of Scion: version control built for coding agents.
+AI assistant and MCP server for Blender: visual chat, scene tools, model selection, multi-agent workflows. Works with OpenAI, Claude, Gemini, Ollama and OpenCode. Blender AI automation, bpy scripting, 3D modeling, geometry nodes and MCP integration.
 
-## 3. heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit
+## 3. Leonxlnx/earshot
 
-- 信号：52.2 分 · 198 stars
-- 链接：https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit
+- 信号：53.0 分 · 335 stars
+- 链接：https://github.com/Leonxlnx/earshot
 
-AI 跨境电商运营智能体工具箱 · 把运营 SOP 拆成 7 个可复用的 AI Agent 工作流，含 Prompt、模板与真实案例
+Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.

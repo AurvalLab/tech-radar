@@ -1,0 +1,49 @@
+{
+  "report_date": "2026-10-17",
+  "generated_at": "2026-10-17T01:21:34.393705+00:00",
+  "timezone": "Asia/Shanghai",
+  "items": [
+    {
+      "id": "repo:1421616127",
+      "type": "new",
+      "emoji": "🆕",
+      "score": 56.7,
+      "stars": 12,
+      "points": 0,
+      "name": "karlarso/easy-ui-canvas",
+      "title": "karlarso/easy-ui-canvas",
+      "description": "Local multi-frame canvas for exploring UI designs: comment on elements, click through flows, and let your AI coding agent answer. Python stdlib only, no build step.",
+      "original_text": "Local multi-frame canvas for exploring UI designs: comment on elements, click through flows, and let your AI coding agent answer. Python stdlib only, no build step.",
+      "display_line": "🆕 [56.7分 ⭐12] karlarso/easy-ui-canvas",
+      "url": "https://github.com/karlarso/easy-ui-canvas"
+    },
+    {
+      "id": "repo:1421389432",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 56.5,
+      "stars": 266,
+      "points": 0,
+      "name": "anujasid/mcp-for-blender-pro",
+      "title": "anujasid/mcp-for-blender-pro",
+      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, model selection, multi-agent workflows. Works with OpenAI, Claude, Gemini, Ollama and OpenCode. Blender AI automation, bpy scripting, 3D modeling, geometry nodes and MCP integration.",
+      "original_text": "AI assistant and MCP server for Blender: visual chat, scene tools, model selection, multi-agent workflows. Works with OpenAI, Claude, Gemini, Ollama and OpenCode. Blender AI automation, bpy scripting, 3D modeling, geometry nodes and MCP integration.",
+      "display_line": "📈 [56.5分 ⭐266] anujasid/mcp-for-blender-pro",
+      "url": "https://github.com/anujasid/mcp-for-blender-pro"
+    },
+    {
+      "id": "repo:1420305104",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 53.0,
+      "stars": 335,
+      "points": 0,
+      "name": "Leonxlnx/earshot",
+      "title": "Leonxlnx/earshot",
+      "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+      "original_text": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+      "display_line": "📈 [53.0分 ⭐335] Leonxlnx/earshot",
+      "url": "https://github.com/Leonxlnx/earshot"
+    }
+  ]
+}
