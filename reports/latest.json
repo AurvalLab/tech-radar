@@ -1,49 +1,49 @@
 {
-  "report_date": "2026-10-17",
-  "generated_at": "2026-10-17T01:21:34.393705+00:00",
+  "report_date": "2026-10-18",
+  "generated_at": "2026-10-18T01:11:09.747864+00:00",
   "timezone": "Asia/Shanghai",
   "items": [
     {
-      "id": "repo:1421616127",
+      "id": "repo:1418870464",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 80.9,
+      "stars": 261,
+      "points": 0,
+      "name": "Graphicle-AI/graphicle",
+      "title": "Graphicle-AI/graphicle",
+      "description": "Code graph and memory for your coding agents, in one Rust program. For Claude Code, Codex, Cursor and any MCP client.",
+      "original_text": "Code graph and memory for your coding agents, in one Rust program. For Claude Code, Codex, Cursor and any MCP client.",
+      "display_line": "📈 [80.9分 ⭐261] Graphicle-AI/graphicle",
+      "url": "https://github.com/Graphicle-AI/graphicle"
+    },
+    {
+      "id": "repo:1423079185",
       "type": "new",
       "emoji": "🆕",
-      "score": 56.7,
-      "stars": 12,
+      "score": 64.6,
+      "stars": 18,
       "points": 0,
-      "name": "karlarso/easy-ui-canvas",
-      "title": "karlarso/easy-ui-canvas",
-      "description": "Local multi-frame canvas for exploring UI designs: comment on elements, click through flows, and let your AI coding agent answer. Python stdlib only, no build step.",
-      "original_text": "Local multi-frame canvas for exploring UI designs: comment on elements, click through flows, and let your AI coding agent answer. Python stdlib only, no build step.",
-      "display_line": "🆕 [56.7分 ⭐12] karlarso/easy-ui-canvas",
-      "url": "https://github.com/karlarso/easy-ui-canvas"
+      "name": "stkoecn/im-mcp",
+      "title": "stkoecn/im-mcp",
+      "description": "Fast, local, read-only MCP Server for WeChat (4.x/3.x) & DingTalk (7.x V2/V3) chat history with FTS5 search",
+      "original_text": "Fast, local, read-only MCP Server for WeChat (4.x/3.x) & DingTalk (7.x V2/V3) chat history with FTS5 search",
+      "display_line": "🆕 [64.6分 ⭐18] stkoecn/im-mcp",
+      "url": "https://github.com/stkoecn/im-mcp"
     },
     {
-      "id": "repo:1421389432",
+      "id": "repo:1422053844",
       "type": "trend",
       "emoji": "📈",
-      "score": 56.5,
-      "stars": 266,
+      "score": 54.2,
+      "stars": 176,
       "points": 0,
-      "name": "anujasid/mcp-for-blender-pro",
-      "title": "anujasid/mcp-for-blender-pro",
-      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, model selection, multi-agent workflows. Works with OpenAI, Claude, Gemini, Ollama and OpenCode. Blender AI automation, bpy scripting, 3D modeling, geometry nodes and MCP integration.",
-      "original_text": "AI assistant and MCP server for Blender: visual chat, scene tools, model selection, multi-agent workflows. Works with OpenAI, Claude, Gemini, Ollama and OpenCode. Blender AI automation, bpy scripting, 3D modeling, geometry nodes and MCP integration.",
-      "display_line": "📈 [56.5分 ⭐266] anujasid/mcp-for-blender-pro",
-      "url": "https://github.com/anujasid/mcp-for-blender-pro"
-    },
-    {
-      "id": "repo:1420305104",
-      "type": "trend",
-      "emoji": "📈",
-      "score": 53.0,
-      "stars": 335,
-      "points": 0,
-      "name": "Leonxlnx/earshot",
-      "title": "Leonxlnx/earshot",
-      "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
-      "original_text": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
-      "display_line": "📈 [53.0分 ⭐335] Leonxlnx/earshot",
-      "url": "https://github.com/Leonxlnx/earshot"
+      "name": "cranebeaker/coop-anything",
+      "title": "cranebeaker/coop-anything",
+      "description": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.",
+      "original_text": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.",
+      "display_line": "📈 [54.2分 ⭐176] cranebeaker/coop-anything",
+      "url": "https://github.com/cranebeaker/coop-anything"
     }
   ]
 }

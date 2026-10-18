@@ -1,26 +1,26 @@
 # 技术雷达日报
 
-- 日期：2026-10-17
+- 日期：2026-10-18
 - 时区：Asia/Shanghai
 - 条目：3
 
-## 1. karlarso/easy-ui-canvas
+## 1. Graphicle-AI/graphicle
 
-- 信号：56.7 分 · 12 stars
-- 链接：https://github.com/karlarso/easy-ui-canvas
+- 信号：80.9 分 · 261 stars
+- 链接：https://github.com/Graphicle-AI/graphicle
 
-Local multi-frame canvas for exploring UI designs: comment on elements, click through flows, and let your AI coding agent answer. Python stdlib only, no build step.
+Code graph and memory for your coding agents, in one Rust program. For Claude Code, Codex, Cursor and any MCP client.
 
-## 2. anujasid/mcp-for-blender-pro
+## 2. stkoecn/im-mcp
 
-- 信号：56.5 分 · 266 stars
-- 链接：https://github.com/anujasid/mcp-for-blender-pro
+- 信号：64.6 分 · 18 stars
+- 链接：https://github.com/stkoecn/im-mcp
 
-AI assistant and MCP server for Blender: visual chat, scene tools, model selection, multi-agent workflows. Works with OpenAI, Claude, Gemini, Ollama and OpenCode. Blender AI automation, bpy scripting, 3D modeling, geometry nodes and MCP integration.
+Fast, local, read-only MCP Server for WeChat (4.x/3.x) & DingTalk (7.x V2/V3) chat history with FTS5 search
 
-## 3. Leonxlnx/earshot
+## 3. cranebeaker/coop-anything
 
-- 信号：53.0 分 · 335 stars
-- 链接：https://github.com/Leonxlnx/earshot
+- 信号：54.2 分 · 176 stars
+- 链接：https://github.com/cranebeaker/coop-anything
 
-Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.
+Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.
