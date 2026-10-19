@@ -1,49 +1,49 @@
 {
-  "report_date": "2026-10-18",
-  "generated_at": "2026-10-18T01:11:09.747864+00:00",
+  "report_date": "2026-10-19",
+  "generated_at": "2026-10-19T01:22:00.317090+00:00",
   "timezone": "Asia/Shanghai",
   "items": [
     {
-      "id": "repo:1418870464",
-      "type": "trend",
-      "emoji": "📈",
-      "score": 80.9,
-      "stars": 261,
-      "points": 0,
-      "name": "Graphicle-AI/graphicle",
-      "title": "Graphicle-AI/graphicle",
-      "description": "Code graph and memory for your coding agents, in one Rust program. For Claude Code, Codex, Cursor and any MCP client.",
-      "original_text": "Code graph and memory for your coding agents, in one Rust program. For Claude Code, Codex, Cursor and any MCP client.",
-      "display_line": "📈 [80.9分 ⭐261] Graphicle-AI/graphicle",
-      "url": "https://github.com/Graphicle-AI/graphicle"
-    },
-    {
-      "id": "repo:1423079185",
+      "id": "repo:1424728314",
       "type": "new",
       "emoji": "🆕",
-      "score": 64.6,
-      "stars": 18,
+      "score": 61.2,
+      "stars": 1,
       "points": 0,
-      "name": "stkoecn/im-mcp",
-      "title": "stkoecn/im-mcp",
-      "description": "Fast, local, read-only MCP Server for WeChat (4.x/3.x) & DingTalk (7.x V2/V3) chat history with FTS5 search",
-      "original_text": "Fast, local, read-only MCP Server for WeChat (4.x/3.x) & DingTalk (7.x V2/V3) chat history with FTS5 search",
-      "display_line": "🆕 [64.6分 ⭐18] stkoecn/im-mcp",
-      "url": "https://github.com/stkoecn/im-mcp"
+      "name": "safwat-fathi/company-base",
+      "title": "safwat-fathi/company-base",
+      "description": "A local-first Model Context Protocol (MCP) server and structured knowledge framework that connects company SOPs, roles, and operational memory to Claude Desktop, Cursor, and AI agents—with built-in data redaction and guardrails.",
+      "original_text": "A local-first Model Context Protocol (MCP) server and structured knowledge framework that connects company SOPs, roles, and operational memory to Claude Desktop, Cursor, and AI agents—with built-in data redaction and guardrails.",
+      "display_line": "🆕 [61.2分 ⭐1] safwat-fathi/company-base",
+      "url": "https://github.com/safwat-fathi/company-base"
     },
     {
-      "id": "repo:1422053844",
+      "id": "repo:1423982435",
+      "type": "new",
+      "emoji": "🆕",
+      "score": 55.2,
+      "stars": 43,
+      "points": 0,
+      "name": "Fazmin/cve-intel",
+      "title": "Fazmin/cve-intel",
+      "description": "Local security intelligence for CVE triage - 34 tools, 25 sources, risk scores and an MCP server for AI agents, all in native Rust. Private by default.",
+      "original_text": "Local security intelligence for CVE triage - 34 tools, 25 sources, risk scores and an MCP server for AI agents, all in native Rust. Private by default.",
+      "display_line": "🆕 [55.2分 ⭐43] Fazmin/cve-intel",
+      "url": "https://github.com/Fazmin/cve-intel"
+    },
+    {
+      "id": "repo:1422344223",
       "type": "trend",
       "emoji": "📈",
-      "score": 54.2,
-      "stars": 176,
+      "score": 53.3,
+      "stars": 419,
       "points": 0,
-      "name": "cranebeaker/coop-anything",
-      "title": "cranebeaker/coop-anything",
-      "description": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.",
-      "original_text": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.",
-      "display_line": "📈 [54.2分 ⭐176] cranebeaker/coop-anything",
-      "url": "https://github.com/cranebeaker/coop-anything"
+      "name": "reason-machines/reason-network",
+      "title": "reason-machines/reason-network",
+      "description": "Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
+      "original_text": "Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
+      "display_line": "📈 [53.3分 ⭐419] reason-machines/reason-network",
+      "url": "https://github.com/reason-machines/reason-network"
     }
   ]
 }

@@ -1,26 +1,26 @@
 # 技术雷达日报
 
-- 日期：2026-10-18
+- 日期：2026-10-19
 - 时区：Asia/Shanghai
 - 条目：3
 
-## 1. Graphicle-AI/graphicle
+## 1. safwat-fathi/company-base
 
-- 信号：80.9 分 · 261 stars
-- 链接：https://github.com/Graphicle-AI/graphicle
+- 信号：61.2 分 · 1 stars
+- 链接：https://github.com/safwat-fathi/company-base
 
-Code graph and memory for your coding agents, in one Rust program. For Claude Code, Codex, Cursor and any MCP client.
+A local-first Model Context Protocol (MCP) server and structured knowledge framework that connects company SOPs, roles, and operational memory to Claude Desktop, Cursor, and AI agents—with built-in data redaction and guardrails.
 
-## 2. stkoecn/im-mcp
+## 2. Fazmin/cve-intel
 
-- 信号：64.6 分 · 18 stars
-- 链接：https://github.com/stkoecn/im-mcp
+- 信号：55.2 分 · 43 stars
+- 链接：https://github.com/Fazmin/cve-intel
 
-Fast, local, read-only MCP Server for WeChat (4.x/3.x) & DingTalk (7.x V2/V3) chat history with FTS5 search
+Local security intelligence for CVE triage - 34 tools, 25 sources, risk scores and an MCP server for AI agents, all in native Rust. Private by default.
 
-## 3. cranebeaker/coop-anything
+## 3. reason-machines/reason-network
 
-- 信号：54.2 分 · 176 stars
-- 链接：https://github.com/cranebeaker/coop-anything
+- 信号：53.3 分 · 419 stars
+- 链接：https://github.com/reason-machines/reason-network
 
-Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.
+Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.

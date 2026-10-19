@@ -185,7 +185,10 @@
     "repo:1420305104",
     "repo:1418870464",
     "repo:1423079185",
-    "repo:1422053844"
+    "repo:1422053844",
+    "repo:1424728314",
+    "repo:1423982435",
+    "repo:1422344223"
   ],
   "seen_urls": [
     "https://github.com/nduc99911/repo-context-mcp",
@@ -373,7 +376,10 @@
     "https://github.com/Leonxlnx/earshot",
     "https://github.com/Graphicle-AI/graphicle",
     "https://github.com/stkoecn/im-mcp",
-    "https://github.com/cranebeaker/coop-anything"
+    "https://github.com/cranebeaker/coop-anything",
+    "https://github.com/safwat-fathi/company-base",
+    "https://github.com/Fazmin/cve-intel",
+    "https://github.com/reason-machines/reason-network"
   ],
-  "last_checked": "2026-10-18T01:11:09.748784+00:00"
+  "last_checked": "2026-10-19T01:22:00.318495+00:00"
 }
