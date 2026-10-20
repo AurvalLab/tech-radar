@@ -188,7 +188,10 @@
     "repo:1422053844",
     "repo:1424728314",
     "repo:1423982435",
-    "repo:1422344223"
+    "repo:1422344223",
+    "repo:1425212475",
+    "repo:1424819112",
+    "repo:1421172752"
   ],
   "seen_urls": [
     "https://github.com/nduc99911/repo-context-mcp",
@@ -379,7 +382,10 @@
     "https://github.com/cranebeaker/coop-anything",
     "https://github.com/safwat-fathi/company-base",
     "https://github.com/Fazmin/cve-intel",
-    "https://github.com/reason-machines/reason-network"
+    "https://github.com/reason-machines/reason-network",
+    "https://github.com/Dayc-l/claude-codex-session-link",
+    "https://github.com/finereli/whatsapp-mcp",
+    "https://github.com/zcbacxc/mcd-party-planner"
   ],
-  "last_checked": "2026-10-19T01:22:00.318495+00:00"
+  "last_checked": "2026-10-20T01:54:33.139939+00:00"
 }

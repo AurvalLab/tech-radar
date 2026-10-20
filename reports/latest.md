@@ -1,26 +1,26 @@
 # 技术雷达日报
 
-- 日期：2026-10-19
+- 日期：2026-10-20
 - 时区：Asia/Shanghai
 - 条目：3
 
-## 1. safwat-fathi/company-base
+## 1. Dayc-l/claude-codex-session-link
 
-- 信号：61.2 分 · 1 stars
-- 链接：https://github.com/safwat-fathi/company-base
+- 信号：55.5 分 · 8 stars
+- 链接：https://github.com/Dayc-l/claude-codex-session-link
 
-A local-first Model Context Protocol (MCP) server and structured knowledge framework that connects company SOPs, roles, and operational memory to Claude Desktop, Cursor, and AI agents—with built-in data redaction and guardrails.
+MCP server connecting Claude Code and OpenAI Codex: read saved sessions, sync conversation context, and ask Claude follow-ups without interrupting your workflow. | Claude会话读取、上下文同步与协作助手
 
-## 2. Fazmin/cve-intel
+## 2. finereli/whatsapp-mcp
 
-- 信号：55.2 分 · 43 stars
-- 链接：https://github.com/Fazmin/cve-intel
+- 信号：55.0 分 · 285 stars
+- 链接：https://github.com/finereli/whatsapp-mcp
 
-Local security intelligence for CVE triage - 34 tools, 25 sources, risk scores and an MCP server for AI agents, all in native Rust. Private by default.
+A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.
 
-## 3. reason-machines/reason-network
+## 3. zcbacxc/mcd-party-planner
 
-- 信号：53.3 分 · 419 stars
-- 链接：https://github.com/reason-machines/reason-network
+- 信号：53.6 分 · 499 stars
+- 链接：https://github.com/zcbacxc/mcd-party-planner
 
-Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.
+麦当劳 MCP 聚会/团餐组织助手 — 基于 Model Context Protocol 的派对预订与团餐规划 CLI/Skill

@@ -1,49 +1,49 @@
 {
-  "report_date": "2026-10-19",
-  "generated_at": "2026-10-19T01:22:00.317090+00:00",
+  "report_date": "2026-10-20",
+  "generated_at": "2026-10-20T01:54:33.138479+00:00",
   "timezone": "Asia/Shanghai",
   "items": [
     {
-      "id": "repo:1424728314",
+      "id": "repo:1425212475",
       "type": "new",
       "emoji": "🆕",
-      "score": 61.2,
-      "stars": 1,
+      "score": 55.5,
+      "stars": 8,
       "points": 0,
-      "name": "safwat-fathi/company-base",
-      "title": "safwat-fathi/company-base",
-      "description": "A local-first Model Context Protocol (MCP) server and structured knowledge framework that connects company SOPs, roles, and operational memory to Claude Desktop, Cursor, and AI agents—with built-in data redaction and guardrails.",
-      "original_text": "A local-first Model Context Protocol (MCP) server and structured knowledge framework that connects company SOPs, roles, and operational memory to Claude Desktop, Cursor, and AI agents—with built-in data redaction and guardrails.",
-      "display_line": "🆕 [61.2分 ⭐1] safwat-fathi/company-base",
-      "url": "https://github.com/safwat-fathi/company-base"
+      "name": "Dayc-l/claude-codex-session-link",
+      "title": "Dayc-l/claude-codex-session-link",
+      "description": "MCP server connecting Claude Code and OpenAI Codex: read saved sessions, sync conversation context, and ask Claude follow-ups without interrupting your workflow. | Claude会话读取、上下文同步与协作助手",
+      "original_text": "MCP server connecting Claude Code and OpenAI Codex: read saved sessions, sync conversation context, and ask Claude follow-ups without interrupting your workflow. | Claude会话读取、上下文同步与协作助手",
+      "display_line": "🆕 [55.5分 ⭐8] Dayc-l/claude-codex-session-link",
+      "url": "https://github.com/Dayc-l/claude-codex-session-link"
     },
     {
-      "id": "repo:1423982435",
-      "type": "new",
-      "emoji": "🆕",
-      "score": 55.2,
-      "stars": 43,
-      "points": 0,
-      "name": "Fazmin/cve-intel",
-      "title": "Fazmin/cve-intel",
-      "description": "Local security intelligence for CVE triage - 34 tools, 25 sources, risk scores and an MCP server for AI agents, all in native Rust. Private by default.",
-      "original_text": "Local security intelligence for CVE triage - 34 tools, 25 sources, risk scores and an MCP server for AI agents, all in native Rust. Private by default.",
-      "display_line": "🆕 [55.2分 ⭐43] Fazmin/cve-intel",
-      "url": "https://github.com/Fazmin/cve-intel"
-    },
-    {
-      "id": "repo:1422344223",
+      "id": "repo:1424819112",
       "type": "trend",
       "emoji": "📈",
-      "score": 53.3,
-      "stars": 419,
+      "score": 55.0,
+      "stars": 285,
       "points": 0,
-      "name": "reason-machines/reason-network",
-      "title": "reason-machines/reason-network",
-      "description": "Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
-      "original_text": "Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
-      "display_line": "📈 [53.3分 ⭐419] reason-machines/reason-network",
-      "url": "https://github.com/reason-machines/reason-network"
+      "name": "finereli/whatsapp-mcp",
+      "title": "finereli/whatsapp-mcp",
+      "description": "A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
+      "original_text": "A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
+      "display_line": "📈 [55.0分 ⭐285] finereli/whatsapp-mcp",
+      "url": "https://github.com/finereli/whatsapp-mcp"
+    },
+    {
+      "id": "repo:1421172752",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 53.6,
+      "stars": 499,
+      "points": 0,
+      "name": "zcbacxc/mcd-party-planner",
+      "title": "zcbacxc/mcd-party-planner",
+      "description": "麦当劳 MCP 聚会/团餐组织助手 — 基于 Model Context Protocol 的派对预订与团餐规划 CLI/Skill",
+      "original_text": "麦当劳 MCP 聚会/团餐组织助手 — 基于 Model Context Protocol 的派对预订与团餐规划 CLI/Skill",
+      "display_line": "📈 [53.6分 ⭐499] zcbacxc/mcd-party-planner",
+      "url": "https://github.com/zcbacxc/mcd-party-planner"
     }
   ]
 }
