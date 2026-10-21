@@ -1,49 +1,35 @@
 {
-  "report_date": "2026-10-20",
-  "generated_at": "2026-10-20T01:54:33.138479+00:00",
+  "report_date": "2026-10-21",
+  "generated_at": "2026-10-21T01:41:40.775125+00:00",
   "timezone": "Asia/Shanghai",
   "items": [
     {
-      "id": "repo:1425212475",
-      "type": "new",
-      "emoji": "🆕",
-      "score": 55.5,
-      "stars": 8,
-      "points": 0,
-      "name": "Dayc-l/claude-codex-session-link",
-      "title": "Dayc-l/claude-codex-session-link",
-      "description": "MCP server connecting Claude Code and OpenAI Codex: read saved sessions, sync conversation context, and ask Claude follow-ups without interrupting your workflow. | Claude会话读取、上下文同步与协作助手",
-      "original_text": "MCP server connecting Claude Code and OpenAI Codex: read saved sessions, sync conversation context, and ask Claude follow-ups without interrupting your workflow. | Claude会话读取、上下文同步与协作助手",
-      "display_line": "🆕 [55.5分 ⭐8] Dayc-l/claude-codex-session-link",
-      "url": "https://github.com/Dayc-l/claude-codex-session-link"
-    },
-    {
-      "id": "repo:1424819112",
+      "id": "repo:1422491888",
       "type": "trend",
       "emoji": "📈",
-      "score": 55.0,
-      "stars": 285,
+      "score": 72.7,
+      "stars": 166,
       "points": 0,
-      "name": "finereli/whatsapp-mcp",
-      "title": "finereli/whatsapp-mcp",
-      "description": "A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
-      "original_text": "A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
-      "display_line": "📈 [55.0分 ⭐285] finereli/whatsapp-mcp",
-      "url": "https://github.com/finereli/whatsapp-mcp"
+      "name": "fzn0x/idx",
+      "title": "fzn0x/idx",
+      "description": "Analyze the Indonesian stock market (IDX/IHSG) from web terminal, CLI, or any AI agents via MCP server. IHSG Prices, Fundamentals, and Screening. Free and No API keys required. Changelog: https://github.com/fzn0x/idx/blob/main/CHANGELOG.md",
+      "original_text": "Analyze the Indonesian stock market (IDX/IHSG) from web terminal, CLI, or any AI agents via MCP server. IHSG Prices, Fundamentals, and Screening. Free and No API keys required. Changelog: https://github.com/fzn0x/idx/blob/main/CHANGELOG.md",
+      "display_line": "📈 [72.7分 ⭐166] fzn0x/idx",
+      "url": "https://github.com/fzn0x/idx"
     },
     {
-      "id": "repo:1421172752",
+      "id": "repo:1422883896",
       "type": "trend",
       "emoji": "📈",
-      "score": 53.6,
-      "stars": 499,
+      "score": 52.7,
+      "stars": 1180,
       "points": 0,
-      "name": "zcbacxc/mcd-party-planner",
-      "title": "zcbacxc/mcd-party-planner",
-      "description": "麦当劳 MCP 聚会/团餐组织助手 — 基于 Model Context Protocol 的派对预订与团餐规划 CLI/Skill",
-      "original_text": "麦当劳 MCP 聚会/团餐组织助手 — 基于 Model Context Protocol 的派对预订与团餐规划 CLI/Skill",
-      "display_line": "📈 [53.6分 ⭐499] zcbacxc/mcd-party-planner",
-      "url": "https://github.com/zcbacxc/mcd-party-planner"
+      "name": "aicodeking/leanrea",
+      "title": "aicodeking/leanrea",
+      "description": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
+      "original_text": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
+      "display_line": "📈 [52.7分 ⭐1180] aicodeking/leanrea",
+      "url": "https://github.com/aicodeking/leanrea"
     }
   ]
 }

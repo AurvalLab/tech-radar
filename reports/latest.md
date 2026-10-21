@@ -1,26 +1,19 @@
 # 技术雷达日报
 
-- 日期：2026-10-20
+- 日期：2026-10-21
 - 时区：Asia/Shanghai
-- 条目：3
+- 条目：2
 
-## 1. Dayc-l/claude-codex-session-link
+## 1. fzn0x/idx
 
-- 信号：55.5 分 · 8 stars
-- 链接：https://github.com/Dayc-l/claude-codex-session-link
+- 信号：72.7 分 · 166 stars
+- 链接：https://github.com/fzn0x/idx
 
-MCP server connecting Claude Code and OpenAI Codex: read saved sessions, sync conversation context, and ask Claude follow-ups without interrupting your workflow. | Claude会话读取、上下文同步与协作助手
+Analyze the Indonesian stock market (IDX/IHSG) from web terminal, CLI, or any AI agents via MCP server. IHSG Prices, Fundamentals, and Screening. Free and No API keys required. Changelog: https://github.com/fzn0x/idx/blob/main/CHANGELOG.md
 
-## 2. finereli/whatsapp-mcp
+## 2. aicodeking/leanrea
 
-- 信号：55.0 分 · 285 stars
-- 链接：https://github.com/finereli/whatsapp-mcp
+- 信号：52.7 分 · 1180 stars
+- 链接：https://github.com/aicodeking/leanrea
 
-A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.
-
-## 3. zcbacxc/mcd-party-planner
-
-- 信号：53.6 分 · 499 stars
-- 链接：https://github.com/zcbacxc/mcd-party-planner
-
-麦当劳 MCP 聚会/团餐组织助手 — 基于 Model Context Protocol 的派对预订与团餐规划 CLI/Skill
+One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.
