@@ -1,35 +1,21 @@
 {
-  "report_date": "2026-10-21",
-  "generated_at": "2026-10-21T01:41:40.775125+00:00",
+  "report_date": "2026-10-22",
+  "generated_at": "2026-10-22T01:36:35.891610+00:00",
   "timezone": "Asia/Shanghai",
   "items": [
     {
-      "id": "repo:1422491888",
-      "type": "trend",
-      "emoji": "📈",
-      "score": 72.7,
-      "stars": 166,
+      "id": "repo:1414327429",
+      "type": "collect",
+      "emoji": "📚",
+      "score": 64.3,
+      "stars": 144,
       "points": 0,
-      "name": "fzn0x/idx",
-      "title": "fzn0x/idx",
-      "description": "Analyze the Indonesian stock market (IDX/IHSG) from web terminal, CLI, or any AI agents via MCP server. IHSG Prices, Fundamentals, and Screening. Free and No API keys required. Changelog: https://github.com/fzn0x/idx/blob/main/CHANGELOG.md",
-      "original_text": "Analyze the Indonesian stock market (IDX/IHSG) from web terminal, CLI, or any AI agents via MCP server. IHSG Prices, Fundamentals, and Screening. Free and No API keys required. Changelog: https://github.com/fzn0x/idx/blob/main/CHANGELOG.md",
-      "display_line": "📈 [72.7分 ⭐166] fzn0x/idx",
-      "url": "https://github.com/fzn0x/idx"
-    },
-    {
-      "id": "repo:1422883896",
-      "type": "trend",
-      "emoji": "📈",
-      "score": 52.7,
-      "stars": 1180,
-      "points": 0,
-      "name": "aicodeking/leanrea",
-      "title": "aicodeking/leanrea",
-      "description": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
-      "original_text": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
-      "display_line": "📈 [52.7分 ⭐1180] aicodeking/leanrea",
-      "url": "https://github.com/aicodeking/leanrea"
+      "name": "sepehr071/awesome-iran-mcp",
+      "title": "sepehr071/awesome-iran-mcp",
+      "description": "36 MCP servers (469 tools) that give AI agents the Iranian web: Digikala, Torob, Divar, Snappfood, Jabama, MrBilit, Paziresh24, Taaghche, qavanin.ir laws, tax, news and more. Prices in Toman.",
+      "original_text": "36 MCP servers (469 tools) that give AI agents the Iranian web: Digikala, Torob, Divar, Snappfood, Jabama, MrBilit, Paziresh24, Taaghche, qavanin.ir laws, tax, news and more. Prices in Toman.",
+      "display_line": "📚 [64.3分 ⭐144] sepehr071/awesome-iran-mcp",
+      "url": "https://github.com/sepehr071/awesome-iran-mcp"
     }
   ]
 }

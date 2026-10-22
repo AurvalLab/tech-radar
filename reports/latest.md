@@ -1,19 +1,12 @@
 # 技术雷达日报
 
-- 日期：2026-10-21
+- 日期：2026-10-22
 - 时区：Asia/Shanghai
-- 条目：2
+- 条目：1
 
-## 1. fzn0x/idx
+## 1. sepehr071/awesome-iran-mcp
 
-- 信号：72.7 分 · 166 stars
-- 链接：https://github.com/fzn0x/idx
+- 信号：64.3 分 · 144 stars
+- 链接：https://github.com/sepehr071/awesome-iran-mcp
 
-Analyze the Indonesian stock market (IDX/IHSG) from web terminal, CLI, or any AI agents via MCP server. IHSG Prices, Fundamentals, and Screening. Free and No API keys required. Changelog: https://github.com/fzn0x/idx/blob/main/CHANGELOG.md
-
-## 2. aicodeking/leanrea
-
-- 信号：52.7 分 · 1180 stars
-- 链接：https://github.com/aicodeking/leanrea
-
-One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.
+36 MCP servers (469 tools) that give AI agents the Iranian web: Digikala, Torob, Divar, Snappfood, Jabama, MrBilit, Paziresh24, Taaghche, qavanin.ir laws, tax, news and more. Prices in Toman.

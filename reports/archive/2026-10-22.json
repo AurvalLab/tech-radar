@@ -1,0 +1,21 @@
+{
+  "report_date": "2026-10-22",
+  "generated_at": "2026-10-22T01:36:35.891610+00:00",
+  "timezone": "Asia/Shanghai",
+  "items": [
+    {
+      "id": "repo:1414327429",
+      "type": "collect",
+      "emoji": "📚",
+      "score": 64.3,
+      "stars": 144,
+      "points": 0,
+      "name": "sepehr071/awesome-iran-mcp",
+      "title": "sepehr071/awesome-iran-mcp",
+      "description": "36 MCP servers (469 tools) that give AI agents the Iranian web: Digikala, Torob, Divar, Snappfood, Jabama, MrBilit, Paziresh24, Taaghche, qavanin.ir laws, tax, news and more. Prices in Toman.",
+      "original_text": "36 MCP servers (469 tools) that give AI agents the Iranian web: Digikala, Torob, Divar, Snappfood, Jabama, MrBilit, Paziresh24, Taaghche, qavanin.ir laws, tax, news and more. Prices in Toman.",
+      "display_line": "📚 [64.3分 ⭐144] sepehr071/awesome-iran-mcp",
+      "url": "https://github.com/sepehr071/awesome-iran-mcp"
+    }
+  ]
+}
