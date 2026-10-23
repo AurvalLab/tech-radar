@@ -1,21 +1,35 @@
 {
-  "report_date": "2026-10-22",
-  "generated_at": "2026-10-22T01:36:35.891610+00:00",
+  "report_date": "2026-10-23",
+  "generated_at": "2026-10-23T01:37:25.152109+00:00",
   "timezone": "Asia/Shanghai",
   "items": [
     {
-      "id": "repo:1414327429",
-      "type": "collect",
-      "emoji": "📚",
-      "score": 64.3,
-      "stars": 144,
+      "id": "repo:1426073056",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 70.1,
+      "stars": 98,
       "points": 0,
-      "name": "sepehr071/awesome-iran-mcp",
-      "title": "sepehr071/awesome-iran-mcp",
-      "description": "36 MCP servers (469 tools) that give AI agents the Iranian web: Digikala, Torob, Divar, Snappfood, Jabama, MrBilit, Paziresh24, Taaghche, qavanin.ir laws, tax, news and more. Prices in Toman.",
-      "original_text": "36 MCP servers (469 tools) that give AI agents the Iranian web: Digikala, Torob, Divar, Snappfood, Jabama, MrBilit, Paziresh24, Taaghche, qavanin.ir laws, tax, news and more. Prices in Toman.",
-      "display_line": "📚 [64.3分 ⭐144] sepehr071/awesome-iran-mcp",
-      "url": "https://github.com/sepehr071/awesome-iran-mcp"
+      "name": "Umair/stalemap",
+      "title": "Umair/stalemap",
+      "description": "Tell your coding agent which dependencies changed after its training cutoff. Diffs types and changelogs, writes a short block into AGENTS.md / CLAUDE.md.",
+      "original_text": "Tell your coding agent which dependencies changed after its training cutoff. Diffs types and changelogs, writes a short block into AGENTS.md / CLAUDE.md.",
+      "display_line": "📈 [70.1分 ⭐98] Umair/stalemap",
+      "url": "https://github.com/Umair/stalemap"
+    },
+    {
+      "id": "repo:1423505628",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 57.0,
+      "stars": 96,
+      "points": 0,
+      "name": "missuo/tamio",
+      "title": "missuo/tamio",
+      "description": "Native SSH client for macOS: Ghostty terminal, dual-pane SFTP, live server status, E2EE iCloud sync and an MCP server for agents.",
+      "original_text": "Native SSH client for macOS: Ghostty terminal, dual-pane SFTP, live server status, E2EE iCloud sync and an MCP server for agents.",
+      "display_line": "📈 [57.0分 ⭐96] missuo/tamio",
+      "url": "https://github.com/missuo/tamio"
     }
   ]
 }
