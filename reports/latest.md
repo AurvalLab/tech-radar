@@ -1,19 +1,26 @@
 # 技术雷达日报
 
-- 日期：2026-10-23
+- 日期：2026-10-24
 - 时区：Asia/Shanghai
-- 条目：2
+- 条目：3
 
-## 1. Umair/stalemap
+## 1. rextail-ai/lessloc
 
-- 信号：70.1 分 · 98 stars
-- 链接：https://github.com/Umair/stalemap
+- 信号：63.0 分 · 101 stars
+- 链接：https://github.com/rextail-ai/lessloc
 
-Tell your coding agent which dependencies changed after its training cutoff. Diffs types and changelogs, writes a short block into AGENTS.md / CLAUDE.md.
+Keeps AI coding agents such as Claude Code, Codex, GitHub Copilot, Gemini CLI and Cursor to the least code that does the job and still works.
 
-## 2. missuo/tamio
+## 2. Lovelymili/codex-mcp-thirdparty
 
-- 信号：57.0 分 · 96 stars
-- 链接：https://github.com/missuo/tamio
+- 信号：53.2 分 · 3 stars
+- 链接：https://github.com/Lovelymili/codex-mcp-thirdparty
 
-Native SSH client for macOS: Ghostty terminal, dual-pane SFTP, live server status, E2EE iCloud sync and an MCP server for agents.
+Independent Codex MCP server for Claude Code: persistent sessions, CLI compatibility checks, and pinned runtime fallback. Python standard library only.
+
+## 3. Undermove/meridian-browser
+
+- 信号：52.8 分 · 4 stars
+- 链接：https://github.com/Undermove/meridian-browser
+
+Meridian — the open-source Arc browser alternative for macOS, Windows and Linux, built for AI agents (MCP server, Claude, coding-agent workbench)

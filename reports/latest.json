@@ -1,35 +1,49 @@
 {
-  "report_date": "2026-10-23",
-  "generated_at": "2026-10-23T01:37:25.152109+00:00",
+  "report_date": "2026-10-24",
+  "generated_at": "2026-10-24T01:41:37.106982+00:00",
   "timezone": "Asia/Shanghai",
   "items": [
     {
-      "id": "repo:1426073056",
+      "id": "repo:1425563571",
       "type": "trend",
       "emoji": "📈",
-      "score": 70.1,
-      "stars": 98,
+      "score": 63.0,
+      "stars": 101,
       "points": 0,
-      "name": "Umair/stalemap",
-      "title": "Umair/stalemap",
-      "description": "Tell your coding agent which dependencies changed after its training cutoff. Diffs types and changelogs, writes a short block into AGENTS.md / CLAUDE.md.",
-      "original_text": "Tell your coding agent which dependencies changed after its training cutoff. Diffs types and changelogs, writes a short block into AGENTS.md / CLAUDE.md.",
-      "display_line": "📈 [70.1分 ⭐98] Umair/stalemap",
-      "url": "https://github.com/Umair/stalemap"
+      "name": "rextail-ai/lessloc",
+      "title": "rextail-ai/lessloc",
+      "description": "Keeps AI coding agents such as Claude Code, Codex, GitHub Copilot, Gemini CLI and Cursor to the least code that does the job and still works.",
+      "original_text": "Keeps AI coding agents such as Claude Code, Codex, GitHub Copilot, Gemini CLI and Cursor to the least code that does the job and still works.",
+      "display_line": "📈 [63.0分 ⭐101] rextail-ai/lessloc",
+      "url": "https://github.com/rextail-ai/lessloc"
     },
     {
-      "id": "repo:1423505628",
-      "type": "trend",
-      "emoji": "📈",
-      "score": 57.0,
-      "stars": 96,
+      "id": "repo:1430730031",
+      "type": "new",
+      "emoji": "🆕",
+      "score": 53.2,
+      "stars": 3,
       "points": 0,
-      "name": "missuo/tamio",
-      "title": "missuo/tamio",
-      "description": "Native SSH client for macOS: Ghostty terminal, dual-pane SFTP, live server status, E2EE iCloud sync and an MCP server for agents.",
-      "original_text": "Native SSH client for macOS: Ghostty terminal, dual-pane SFTP, live server status, E2EE iCloud sync and an MCP server for agents.",
-      "display_line": "📈 [57.0分 ⭐96] missuo/tamio",
-      "url": "https://github.com/missuo/tamio"
+      "name": "Lovelymili/codex-mcp-thirdparty",
+      "title": "Lovelymili/codex-mcp-thirdparty",
+      "description": "Independent Codex MCP server for Claude Code: persistent sessions, CLI compatibility checks, and pinned runtime fallback. Python standard library only.",
+      "original_text": "Independent Codex MCP server for Claude Code: persistent sessions, CLI compatibility checks, and pinned runtime fallback. Python standard library only.",
+      "display_line": "🆕 [53.2分 ⭐3] Lovelymili/codex-mcp-thirdparty",
+      "url": "https://github.com/Lovelymili/codex-mcp-thirdparty"
+    },
+    {
+      "id": "repo:1430690330",
+      "type": "new",
+      "emoji": "🆕",
+      "score": 52.8,
+      "stars": 4,
+      "points": 0,
+      "name": "Undermove/meridian-browser",
+      "title": "Undermove/meridian-browser",
+      "description": "Meridian — the open-source Arc browser alternative for macOS, Windows and Linux, built for AI agents (MCP server, Claude, coding-agent workbench)",
+      "original_text": "Meridian — the open-source Arc browser alternative for macOS, Windows and Linux, built for AI agents (MCP server, Claude, coding-agent workbench)",
+      "display_line": "🆕 [52.8分 ⭐4] Undermove/meridian-browser",
+      "url": "https://github.com/Undermove/meridian-browser"
     }
   ]
 }
