@@ -1,0 +1,49 @@
+{
+  "report_date": "2026-10-25",
+  "generated_at": "2026-10-25T01:17:02.437996+00:00",
+  "timezone": "Asia/Shanghai",
+  "items": [
+    {
+      "id": "repo:1432328328",
+      "type": "new",
+      "emoji": "🆕",
+      "score": 67.5,
+      "stars": 8,
+      "points": 0,
+      "name": "doomsday-network/github-bounty-scanner",
+      "title": "doomsday-network/github-bounty-scanner",
+      "description": "🛡️ Autonomous GitHub Bounty Scanner & On-Chain Escrow Verifier — Find Real Crypto/USDC/wDOOM Bounties & Filter Fake Scraper Traps",
+      "original_text": "🛡️ Autonomous GitHub Bounty Scanner & On-Chain Escrow Verifier — Find Real Crypto/USDC/wDOOM Bounties & Filter Fake Scraper Traps",
+      "display_line": "🆕 [67.5分 ⭐8] doomsday-network/github-bounty-scanner",
+      "url": "https://github.com/doomsday-network/github-bounty-scanner"
+    },
+    {
+      "id": "repo:1432386760",
+      "type": "new",
+      "emoji": "🆕",
+      "score": 67.1,
+      "stars": 7,
+      "points": 0,
+      "name": "doomsday-network/web3-agent-skills",
+      "title": "doomsday-network/web3-agent-skills",
+      "description": "⚡ Drop-in SKILL.md, .cursorrules, CLAUDE.md, AGENTS.md & Remote MCP (.mcp.json) pack for Claude Code, Cursor, Windsurf, Cline & x402 AI Agents — Verify GitHub Bounties & Mine DOOM/wDOOM on Base Mainnet.",
+      "original_text": "⚡ Drop-in SKILL.md, .cursorrules, CLAUDE.md, AGENTS.md & Remote MCP (.mcp.json) pack for Claude Code, Cursor, Windsurf, Cline & x402 AI Agents — Verify GitHub Bounties & Mine DOOM/wDOOM on Base Mainnet.",
+      "display_line": "🆕 [67.1分 ⭐7] doomsday-network/web3-agent-skills",
+      "url": "https://github.com/doomsday-network/web3-agent-skills"
+    },
+    {
+      "id": "repo:1432142480",
+      "type": "new",
+      "emoji": "🆕",
+      "score": 54.4,
+      "stars": 1,
+      "points": 0,
+      "name": "opentideai/opentide",
+      "title": "opentideai/opentide",
+      "description": "The agent-native web framework. Your coding agent builds on a live, running app, and every change is planned, tested and proven before it lands. Works with Claude Code, Codex, Cursor and any MCP client.",
+      "original_text": "The agent-native web framework. Your coding agent builds on a live, running app, and every change is planned, tested and proven before it lands. Works with Claude Code, Codex, Cursor and any MCP client.",
+      "display_line": "🆕 [54.4分 ⭐1] opentideai/opentide",
+      "url": "https://github.com/opentideai/opentide"
+    }
+  ]
+}

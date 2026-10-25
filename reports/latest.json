@@ -1,49 +1,49 @@
 {
-  "report_date": "2026-10-24",
-  "generated_at": "2026-10-24T01:41:37.106982+00:00",
+  "report_date": "2026-10-25",
+  "generated_at": "2026-10-25T01:17:02.437996+00:00",
   "timezone": "Asia/Shanghai",
   "items": [
     {
-      "id": "repo:1425563571",
-      "type": "trend",
-      "emoji": "📈",
-      "score": 63.0,
-      "stars": 101,
-      "points": 0,
-      "name": "rextail-ai/lessloc",
-      "title": "rextail-ai/lessloc",
-      "description": "Keeps AI coding agents such as Claude Code, Codex, GitHub Copilot, Gemini CLI and Cursor to the least code that does the job and still works.",
-      "original_text": "Keeps AI coding agents such as Claude Code, Codex, GitHub Copilot, Gemini CLI and Cursor to the least code that does the job and still works.",
-      "display_line": "📈 [63.0分 ⭐101] rextail-ai/lessloc",
-      "url": "https://github.com/rextail-ai/lessloc"
-    },
-    {
-      "id": "repo:1430730031",
+      "id": "repo:1432328328",
       "type": "new",
       "emoji": "🆕",
-      "score": 53.2,
-      "stars": 3,
+      "score": 67.5,
+      "stars": 8,
       "points": 0,
-      "name": "Lovelymili/codex-mcp-thirdparty",
-      "title": "Lovelymili/codex-mcp-thirdparty",
-      "description": "Independent Codex MCP server for Claude Code: persistent sessions, CLI compatibility checks, and pinned runtime fallback. Python standard library only.",
-      "original_text": "Independent Codex MCP server for Claude Code: persistent sessions, CLI compatibility checks, and pinned runtime fallback. Python standard library only.",
-      "display_line": "🆕 [53.2分 ⭐3] Lovelymili/codex-mcp-thirdparty",
-      "url": "https://github.com/Lovelymili/codex-mcp-thirdparty"
+      "name": "doomsday-network/github-bounty-scanner",
+      "title": "doomsday-network/github-bounty-scanner",
+      "description": "🛡️ Autonomous GitHub Bounty Scanner & On-Chain Escrow Verifier — Find Real Crypto/USDC/wDOOM Bounties & Filter Fake Scraper Traps",
+      "original_text": "🛡️ Autonomous GitHub Bounty Scanner & On-Chain Escrow Verifier — Find Real Crypto/USDC/wDOOM Bounties & Filter Fake Scraper Traps",
+      "display_line": "🆕 [67.5分 ⭐8] doomsday-network/github-bounty-scanner",
+      "url": "https://github.com/doomsday-network/github-bounty-scanner"
     },
     {
-      "id": "repo:1430690330",
+      "id": "repo:1432386760",
       "type": "new",
       "emoji": "🆕",
-      "score": 52.8,
-      "stars": 4,
+      "score": 67.1,
+      "stars": 7,
       "points": 0,
-      "name": "Undermove/meridian-browser",
-      "title": "Undermove/meridian-browser",
-      "description": "Meridian — the open-source Arc browser alternative for macOS, Windows and Linux, built for AI agents (MCP server, Claude, coding-agent workbench)",
-      "original_text": "Meridian — the open-source Arc browser alternative for macOS, Windows and Linux, built for AI agents (MCP server, Claude, coding-agent workbench)",
-      "display_line": "🆕 [52.8分 ⭐4] Undermove/meridian-browser",
-      "url": "https://github.com/Undermove/meridian-browser"
+      "name": "doomsday-network/web3-agent-skills",
+      "title": "doomsday-network/web3-agent-skills",
+      "description": "⚡ Drop-in SKILL.md, .cursorrules, CLAUDE.md, AGENTS.md & Remote MCP (.mcp.json) pack for Claude Code, Cursor, Windsurf, Cline & x402 AI Agents — Verify GitHub Bounties & Mine DOOM/wDOOM on Base Mainnet.",
+      "original_text": "⚡ Drop-in SKILL.md, .cursorrules, CLAUDE.md, AGENTS.md & Remote MCP (.mcp.json) pack for Claude Code, Cursor, Windsurf, Cline & x402 AI Agents — Verify GitHub Bounties & Mine DOOM/wDOOM on Base Mainnet.",
+      "display_line": "🆕 [67.1分 ⭐7] doomsday-network/web3-agent-skills",
+      "url": "https://github.com/doomsday-network/web3-agent-skills"
+    },
+    {
+      "id": "repo:1432142480",
+      "type": "new",
+      "emoji": "🆕",
+      "score": 54.4,
+      "stars": 1,
+      "points": 0,
+      "name": "opentideai/opentide",
+      "title": "opentideai/opentide",
+      "description": "The agent-native web framework. Your coding agent builds on a live, running app, and every change is planned, tested and proven before it lands. Works with Claude Code, Codex, Cursor and any MCP client.",
+      "original_text": "The agent-native web framework. Your coding agent builds on a live, running app, and every change is planned, tested and proven before it lands. Works with Claude Code, Codex, Cursor and any MCP client.",
+      "display_line": "🆕 [54.4分 ⭐1] opentideai/opentide",
+      "url": "https://github.com/opentideai/opentide"
     }
   ]
 }

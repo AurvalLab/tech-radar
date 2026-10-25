@@ -1,26 +1,26 @@
 # 技术雷达日报
 
-- 日期：2026-10-24
+- 日期：2026-10-25
 - 时区：Asia/Shanghai
 - 条目：3
 
-## 1. rextail-ai/lessloc
+## 1. doomsday-network/github-bounty-scanner
 
-- 信号：63.0 分 · 101 stars
-- 链接：https://github.com/rextail-ai/lessloc
+- 信号：67.5 分 · 8 stars
+- 链接：https://github.com/doomsday-network/github-bounty-scanner
 
-Keeps AI coding agents such as Claude Code, Codex, GitHub Copilot, Gemini CLI and Cursor to the least code that does the job and still works.
+🛡️ Autonomous GitHub Bounty Scanner & On-Chain Escrow Verifier — Find Real Crypto/USDC/wDOOM Bounties & Filter Fake Scraper Traps
 
-## 2. Lovelymili/codex-mcp-thirdparty
+## 2. doomsday-network/web3-agent-skills
 
-- 信号：53.2 分 · 3 stars
-- 链接：https://github.com/Lovelymili/codex-mcp-thirdparty
+- 信号：67.1 分 · 7 stars
+- 链接：https://github.com/doomsday-network/web3-agent-skills
 
-Independent Codex MCP server for Claude Code: persistent sessions, CLI compatibility checks, and pinned runtime fallback. Python standard library only.
+⚡ Drop-in SKILL.md, .cursorrules, CLAUDE.md, AGENTS.md & Remote MCP (.mcp.json) pack for Claude Code, Cursor, Windsurf, Cline & x402 AI Agents — Verify GitHub Bounties & Mine DOOM/wDOOM on Base Mainnet.
 
-## 3. Undermove/meridian-browser
+## 3. opentideai/opentide
 
-- 信号：52.8 分 · 4 stars
-- 链接：https://github.com/Undermove/meridian-browser
+- 信号：54.4 分 · 1 stars
+- 链接：https://github.com/opentideai/opentide
 
-Meridian — the open-source Arc browser alternative for macOS, Windows and Linux, built for AI agents (MCP server, Claude, coding-agent workbench)
+The agent-native web framework. Your coding agent builds on a live, running app, and every change is planned, tested and proven before it lands. Works with Claude Code, Codex, Cursor and any MCP client.
