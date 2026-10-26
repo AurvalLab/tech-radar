@@ -202,7 +202,10 @@
     "repo:1430690330",
     "repo:1432328328",
     "repo:1432386760",
-    "repo:1432142480"
+    "repo:1432142480",
+    "repo:1433180352",
+    "repo:1432649361",
+    "repo:1430540130"
   ],
   "seen_urls": [
     "https://github.com/nduc99911/repo-context-mcp",
@@ -407,7 +410,10 @@
     "https://github.com/Undermove/meridian-browser",
     "https://github.com/doomsday-network/github-bounty-scanner",
     "https://github.com/doomsday-network/web3-agent-skills",
-    "https://github.com/opentideai/opentide"
+    "https://github.com/opentideai/opentide",
+    "https://github.com/prinzeval/valendata",
+    "https://github.com/hevnsnt/CVEngine",
+    "https://github.com/liyupi/dafeiyu-cleaner"
   ],
-  "last_checked": "2026-10-25T01:17:02.439479+00:00"
+  "last_checked": "2026-10-26T01:19:22.322812+00:00"
 }
