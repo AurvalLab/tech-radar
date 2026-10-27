@@ -1,49 +1,35 @@
 {
-  "report_date": "2026-10-26",
-  "generated_at": "2026-10-26T01:19:22.321741+00:00",
+  "report_date": "2026-10-27",
+  "generated_at": "2026-10-27T02:09:15.407799+00:00",
   "timezone": "Asia/Shanghai",
   "items": [
     {
-      "id": "repo:1433180352",
-      "type": "new",
-      "emoji": "🆕",
-      "score": 65.2,
-      "stars": 5,
-      "points": 0,
-      "name": "prinzeval/valendata",
-      "title": "prinzeval/valendata",
-      "description": "Give your AI agent the web as an API. MCP server + skill for Claude Code, Codex & Cursor: self-healing scrapers for Google Maps, Amazon, Instagram, X, LinkedIn & more. Firecrawl- and Apify-compatible.",
-      "original_text": "Give your AI agent the web as an API. MCP server + skill for Claude Code, Codex & Cursor: self-healing scrapers for Google Maps, Amazon, Instagram, X, LinkedIn & more. Firecrawl- and Apify-compatible.",
-      "display_line": "🆕 [65.2分 ⭐5] prinzeval/valendata",
-      "url": "https://github.com/prinzeval/valendata"
-    },
-    {
-      "id": "repo:1432649361",
+      "id": "repo:1430513158",
       "type": "trend",
       "emoji": "📈",
-      "score": 59.1,
-      "stars": 143,
+      "score": 62.5,
+      "stars": 1223,
       "points": 0,
-      "name": "hevnsnt/CVEngine",
-      "title": "hevnsnt/CVEngine",
-      "description": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
-      "original_text": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
-      "display_line": "📈 [59.1分 ⭐143] hevnsnt/CVEngine",
-      "url": "https://github.com/hevnsnt/CVEngine"
+      "name": "morganlinton/BeautifulRust",
+      "title": "morganlinton/BeautifulRust",
+      "description": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
+      "original_text": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
+      "display_line": "📈 [62.5分 ⭐1223] morganlinton/BeautifulRust",
+      "url": "https://github.com/morganlinton/BeautifulRust"
     },
     {
-      "id": "repo:1430540130",
+      "id": "repo:1429583155",
       "type": "trend",
       "emoji": "📈",
-      "score": 57.1,
-      "stars": 89,
+      "score": 55.1,
+      "stars": 338,
       "points": 0,
-      "name": "liyupi/dafeiyu-cleaner",
-      "title": "liyupi/dafeiyu-cleaner",
-      "description": "DeepSeek 蓝色大肥鱼消除计划：识别并清理 B 站（Bilibili）评论区中由 DeepSeek 大模型、AI Agent 驱动的机器人账号（大肥鱼）的 Chrome / Edge / Firefox 浏览器插件。离线规则 + DeepSeek API 精判，AI 评论检测、空间主页鉴定、鲸鱼娘一键清场。DeepSeek AI bot detector for Bilibili comments.",
-      "original_text": "DeepSeek 蓝色大肥鱼消除计划：识别并清理 B 站（Bilibili）评论区中由 DeepSeek 大模型、AI Agent 驱动的机器人账号（大肥鱼）的 Chrome / Edge / Firefox 浏览器插件。离线规则 + DeepSeek API 精判，AI 评论检测、空间主页鉴定、鲸鱼娘一键清场。DeepSeek AI bot detector for Bilibili comments.",
-      "display_line": "📈 [57.1分 ⭐89] liyupi/dafeiyu-cleaner",
-      "url": "https://github.com/liyupi/dafeiyu-cleaner"
+      "name": "huaxialucaicaizi/ai-startup-skills",
+      "title": "huaxialucaicaizi/ai-startup-skills",
+      "description": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
+      "original_text": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
+      "display_line": "📈 [55.1分 ⭐338] huaxialucaicaizi/ai-startup-skills",
+      "url": "https://github.com/huaxialucaicaizi/ai-startup-skills"
     }
   ]
 }

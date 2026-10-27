@@ -205,7 +205,9 @@
     "repo:1432142480",
     "repo:1433180352",
     "repo:1432649361",
-    "repo:1430540130"
+    "repo:1430540130",
+    "repo:1430513158",
+    "repo:1429583155"
   ],
   "seen_urls": [
     "https://github.com/nduc99911/repo-context-mcp",
@@ -413,7 +415,9 @@
     "https://github.com/opentideai/opentide",
     "https://github.com/prinzeval/valendata",
     "https://github.com/hevnsnt/CVEngine",
-    "https://github.com/liyupi/dafeiyu-cleaner"
+    "https://github.com/liyupi/dafeiyu-cleaner",
+    "https://github.com/morganlinton/BeautifulRust",
+    "https://github.com/huaxialucaicaizi/ai-startup-skills"
   ],
-  "last_checked": "2026-10-26T01:19:22.322812+00:00"
+  "last_checked": "2026-10-27T02:09:15.408891+00:00"
 }

@@ -1,26 +1,19 @@
 # 技术雷达日报
 
-- 日期：2026-10-26
+- 日期：2026-10-27
 - 时区：Asia/Shanghai
-- 条目：3
+- 条目：2
 
-## 1. prinzeval/valendata
+## 1. morganlinton/BeautifulRust
 
-- 信号：65.2 分 · 5 stars
-- 链接：https://github.com/prinzeval/valendata
+- 信号：62.5 分 · 1223 stars
+- 链接：https://github.com/morganlinton/BeautifulRust
 
-Give your AI agent the web as an API. MCP server + skill for Claude Code, Codex & Cursor: self-healing scrapers for Google Maps, Amazon, Instagram, X, LinkedIn & more. Firecrawl- and Apify-compatible.
+Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.
 
-## 2. hevnsnt/CVEngine
+## 2. huaxialucaicaizi/ai-startup-skills
 
-- 信号：59.1 分 · 143 stars
-- 链接：https://github.com/hevnsnt/CVEngine
+- 信号：55.1 分 · 338 stars
+- 链接：https://github.com/huaxialucaicaizi/ai-startup-skills
 
-AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.
-
-## 3. liyupi/dafeiyu-cleaner
-
-- 信号：57.1 分 · 89 stars
-- 链接：https://github.com/liyupi/dafeiyu-cleaner
-
-DeepSeek 蓝色大肥鱼消除计划：识别并清理 B 站（Bilibili）评论区中由 DeepSeek 大模型、AI Agent 驱动的机器人账号（大肥鱼）的 Chrome / Edge / Firefox 浏览器插件。离线规则 + DeepSeek API 精判，AI 评论检测、空间主页鉴定、鲸鱼娘一键清场。DeepSeek AI bot detector for Bilibili comments.
+创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。
