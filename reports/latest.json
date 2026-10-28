@@ -1,35 +1,6 @@
 {
-  "report_date": "2026-10-27",
-  "generated_at": "2026-10-27T02:09:15.407799+00:00",
+  "report_date": "2026-10-28",
+  "generated_at": "2026-10-28T02:22:55.708554+00:00",
   "timezone": "Asia/Shanghai",
-  "items": [
-    {
-      "id": "repo:1430513158",
-      "type": "trend",
-      "emoji": "📈",
-      "score": 62.5,
-      "stars": 1223,
-      "points": 0,
-      "name": "morganlinton/BeautifulRust",
-      "title": "morganlinton/BeautifulRust",
-      "description": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
-      "original_text": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
-      "display_line": "📈 [62.5分 ⭐1223] morganlinton/BeautifulRust",
-      "url": "https://github.com/morganlinton/BeautifulRust"
-    },
-    {
-      "id": "repo:1429583155",
-      "type": "trend",
-      "emoji": "📈",
-      "score": 55.1,
-      "stars": 338,
-      "points": 0,
-      "name": "huaxialucaicaizi/ai-startup-skills",
-      "title": "huaxialucaicaizi/ai-startup-skills",
-      "description": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
-      "original_text": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
-      "display_line": "📈 [55.1分 ⭐338] huaxialucaicaizi/ai-startup-skills",
-      "url": "https://github.com/huaxialucaicaizi/ai-startup-skills"
-    }
-  ]
+  "items": []
 }
