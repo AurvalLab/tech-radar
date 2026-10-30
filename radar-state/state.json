@@ -209,7 +209,10 @@
     "repo:1430513158",
     "repo:1429583155",
     "repo:1437047505",
-    "repo:1432859403"
+    "repo:1432859403",
+    "repo:1432590994",
+    "repo:1438102573",
+    "repo:1438109962"
   ],
   "seen_urls": [
     "https://github.com/nduc99911/repo-context-mcp",
@@ -421,7 +424,10 @@
     "https://github.com/morganlinton/BeautifulRust",
     "https://github.com/huaxialucaicaizi/ai-startup-skills",
     "https://github.com/yxiy171866-boop/x-twikit-mcp",
-    "https://github.com/qybaihe/bla"
+    "https://github.com/qybaihe/bla",
+    "https://github.com/yjid/kensaku",
+    "https://github.com/santiago0071/unipublisher-mcp",
+    "https://github.com/wangjunhaoo/agent-bridge"
   ],
-  "last_checked": "2026-10-29T02:30:36.565321+00:00"
+  "last_checked": "2026-10-30T02:40:47.645781+00:00"
 }

@@ -1,0 +1,49 @@
+{
+  "report_date": "2026-10-30",
+  "generated_at": "2026-10-30T02:40:47.644746+00:00",
+  "timezone": "Asia/Shanghai",
+  "items": [
+    {
+      "id": "repo:1432590994",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 66.4,
+      "stars": 223,
+      "points": 0,
+      "name": "yjid/kensaku",
+      "title": "yjid/kensaku",
+      "description": "Search inside documents, code, and even screenshots - instantly and locally. A free, open-source file launcher with OCR, semantic search, and MCP agent access.",
+      "original_text": "Search inside documents, code, and even screenshots - instantly and locally. A free, open-source file launcher with OCR, semantic search, and MCP agent access.",
+      "display_line": "📈 [66.4分 ⭐223] yjid/kensaku",
+      "url": "https://github.com/yjid/kensaku"
+    },
+    {
+      "id": "repo:1438102573",
+      "type": "new",
+      "emoji": "🆕",
+      "score": 64.8,
+      "stars": 2,
+      "points": 0,
+      "name": "santiago0071/unipublisher-mcp",
+      "title": "santiago0071/unipublisher-mcp",
+      "description": "Documentation and setup guide for the MCP interface built into the UniPublisher desktop application (1.6.8+). Not a standalone server.",
+      "original_text": "Documentation and setup guide for the MCP interface built into the UniPublisher desktop application (1.6.8+). Not a standalone server.",
+      "display_line": "🆕 [64.8分 ⭐2] santiago0071/unipublisher-mcp",
+      "url": "https://github.com/santiago0071/unipublisher-mcp"
+    },
+    {
+      "id": "repo:1438109962",
+      "type": "new",
+      "emoji": "🆕",
+      "score": 56.2,
+      "stars": 3,
+      "points": 0,
+      "name": "wangjunhaoo/agent-bridge",
+      "title": "wangjunhaoo/agent-bridge",
+      "description": "Control your browser with AI Agents — Native Messaging + CDP + Tab Group Chrome Extension, MCP Server & CLI",
+      "original_text": "Control your browser with AI Agents — Native Messaging + CDP + Tab Group Chrome Extension, MCP Server & CLI",
+      "display_line": "🆕 [56.2分 ⭐3] wangjunhaoo/agent-bridge",
+      "url": "https://github.com/wangjunhaoo/agent-bridge"
+    }
+  ]
+}
