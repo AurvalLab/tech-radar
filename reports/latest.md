@@ -1,26 +1,26 @@
 # 技术雷达日报
 
-- 日期：2026-10-30
+- 日期：2026-10-31
 - 时区：Asia/Shanghai
 - 条目：3
 
-## 1. yjid/kensaku
+## 1. chutingyean/Agent-Cockpit
 
-- 信号：66.4 分 · 223 stars
-- 链接：https://github.com/yjid/kensaku
+- 信号：66.1 分 · 103 stars
+- 链接：https://github.com/chutingyean/Agent-Cockpit
 
-Search inside documents, code, and even screenshots - instantly and locally. A free, open-source file launcher with OCR, semantic search, and MCP agent access.
+Evidence-chain whiteboard + MCP server for AI research agents: every claim traces back to the run and code that produced it. 讓 AI agent 做研究時，每個結論都能追到產生它的程式碼。Claude Code · Codex · Cursor · Gemini CLI
 
-## 2. santiago0071/unipublisher-mcp
+## 2. boardshogunfluctuate/Capri-AI
 
-- 信号：64.8 分 · 2 stars
-- 链接：https://github.com/santiago0071/unipublisher-mcp
+- 信号：61.7 分 · 196 stars
+- 链接：https://github.com/boardshogunfluctuate/Capri-AI
 
-Documentation and setup guide for the MCP interface built into the UniPublisher desktop application (1.6.8+). Not a standalone server.
+⚡ Tell your PC what to do. Capri is a cyberpunk AI agent that works with your files, projects and code through Claude Code, Codex or Antigravity. Windows installer, no terminal. Fan-made, not affiliated with CD PROJEKT RED.
 
-## 3. wangjunhaoo/agent-bridge
+## 3. wangzan101/Mika
 
-- 信号：56.2 分 · 3 stars
-- 链接：https://github.com/wangjunhaoo/agent-bridge
+- 信号：55.8 分 · 1466 stars
+- 链接：https://github.com/wangzan101/Mika
 
-Control your browser with AI Agents — Native Messaging + CDP + Tab Group Chrome Extension, MCP Server & CLI
+Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you.

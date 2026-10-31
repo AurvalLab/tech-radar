@@ -1,0 +1,49 @@
+{
+  "report_date": "2026-10-31",
+  "generated_at": "2026-10-31T02:29:58.064453+00:00",
+  "timezone": "Asia/Shanghai",
+  "items": [
+    {
+      "id": "repo:1434795869",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 66.1,
+      "stars": 103,
+      "points": 0,
+      "name": "chutingyean/Agent-Cockpit",
+      "title": "chutingyean/Agent-Cockpit",
+      "description": "Evidence-chain whiteboard + MCP server for AI research agents: every claim traces back to the run and code that produced it. 讓 AI agent 做研究時，每個結論都能追到產生它的程式碼。Claude Code · Codex · Cursor · Gemini CLI",
+      "original_text": "Evidence-chain whiteboard + MCP server for AI research agents: every claim traces back to the run and code that produced it. 讓 AI agent 做研究時，每個結論都能追到產生它的程式碼。Claude Code · Codex · Cursor · Gemini CLI",
+      "display_line": "📈 [66.1分 ⭐103] chutingyean/Agent-Cockpit",
+      "url": "https://github.com/chutingyean/Agent-Cockpit"
+    },
+    {
+      "id": "repo:1440272373",
+      "type": "new",
+      "emoji": "🆕",
+      "score": 61.7,
+      "stars": 196,
+      "points": 0,
+      "name": "boardshogunfluctuate/Capri-AI",
+      "title": "boardshogunfluctuate/Capri-AI",
+      "description": "⚡ Tell your PC what to do. Capri is a cyberpunk AI agent that works with your files, projects and code through Claude Code, Codex or Antigravity. Windows installer, no terminal. Fan-made, not affiliated with CD PROJEKT RED.",
+      "original_text": "⚡ Tell your PC what to do. Capri is a cyberpunk AI agent that works with your files, projects and code through Claude Code, Codex or Antigravity. Windows installer, no terminal. Fan-made, not affiliated with CD PROJEKT RED.",
+      "display_line": "🆕 [61.7分 ⭐196] boardshogunfluctuate/Capri-AI",
+      "url": "https://github.com/boardshogunfluctuate/Capri-AI"
+    },
+    {
+      "id": "repo:1438540053",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 55.8,
+      "stars": 1466,
+      "points": 0,
+      "name": "wangzan101/Mika",
+      "title": "wangzan101/Mika",
+      "description": "Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you.",
+      "original_text": "Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you.",
+      "display_line": "📈 [55.8分 ⭐1466] wangzan101/Mika",
+      "url": "https://github.com/wangzan101/Mika"
+    }
+  ]
+}
