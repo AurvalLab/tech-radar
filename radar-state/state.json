@@ -215,7 +215,10 @@
     "repo:1438109962",
     "repo:1434795869",
     "repo:1440272373",
-    "repo:1438540053"
+    "repo:1438540053",
+    "repo:1440976751",
+    "repo:1440657850",
+    "repo:1434039442"
   ],
   "seen_urls": [
     "https://github.com/nduc99911/repo-context-mcp",
@@ -433,7 +436,10 @@
     "https://github.com/wangjunhaoo/agent-bridge",
     "https://github.com/chutingyean/Agent-Cockpit",
     "https://github.com/boardshogunfluctuate/Capri-AI",
-    "https://github.com/wangzan101/Mika"
+    "https://github.com/wangzan101/Mika",
+    "https://github.com/Currentliunderpass/forge-agent",
+    "https://github.com/ghcardhq/githubcard-mcp",
+    "https://github.com/UponPeak/windows-fine-tuner-resp"
   ],
-  "last_checked": "2026-10-31T02:29:58.065826+00:00"
+  "last_checked": "2026-11-01T02:19:35.250746+00:00"
 }

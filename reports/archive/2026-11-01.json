@@ -1,0 +1,49 @@
+{
+  "report_date": "2026-11-01",
+  "generated_at": "2026-11-01T02:19:35.249749+00:00",
+  "timezone": "Asia/Shanghai",
+  "items": [
+    {
+      "id": "repo:1440976751",
+      "type": "new",
+      "emoji": "🆕",
+      "score": 67.4,
+      "stars": 23,
+      "points": 0,
+      "name": "Currentliunderpass/forge-agent",
+      "title": "Currentliunderpass/forge-agent",
+      "description": "Open-source, local-first AI coding agent. Build, share, and install skills. Runs on your machine. Your keys, your data. No cloud. No subscription. Built for developers who ship.",
+      "original_text": "Open-source, local-first AI coding agent. Build, share, and install skills. Runs on your machine. Your keys, your data. No cloud. No subscription. Built for developers who ship.",
+      "display_line": "🆕 [67.4分 ⭐23] Currentliunderpass/forge-agent",
+      "url": "https://github.com/Currentliunderpass/forge-agent"
+    },
+    {
+      "id": "repo:1440657850",
+      "type": "new",
+      "emoji": "🆕",
+      "score": 65.8,
+      "stars": 15,
+      "points": 0,
+      "name": "ghcardhq/githubcard-mcp",
+      "title": "ghcardhq/githubcard-mcp",
+      "description": "GitHubCard MCP server: create GitHub profile and repo cards from Claude, Cursor, VS Code and other AI agents.",
+      "original_text": "GitHubCard MCP server: create GitHub profile and repo cards from Claude, Cursor, VS Code and other AI agents.",
+      "display_line": "🆕 [65.8分 ⭐15] ghcardhq/githubcard-mcp",
+      "url": "https://github.com/ghcardhq/githubcard-mcp"
+    },
+    {
+      "id": "repo:1434039442",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 53.4,
+      "stars": 94,
+      "points": 0,
+      "name": "UponPeak/windows-fine-tuner-resp",
+      "title": "UponPeak/windows-fine-tuner-resp",
+      "description": "Top 20 Windows 11 Junk & Startup Optimizer Tools 2026",
+      "original_text": "Top 20 Windows 11 Junk & Startup Optimizer Tools 2026",
+      "display_line": "📈 [53.4分 ⭐94] UponPeak/windows-fine-tuner-resp",
+      "url": "https://github.com/UponPeak/windows-fine-tuner-resp"
+    }
+  ]
+}
