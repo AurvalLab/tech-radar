@@ -1,26 +1,26 @@
 # 技术雷达日报
 
-- 日期：2026-11-01
+- 日期：2026-11-02
 - 时区：Asia/Shanghai
 - 条目：3
 
-## 1. Currentliunderpass/forge-agent
+## 1. FigureSultanLast/roblox-ai-studio-agent
 
-- 信号：67.4 分 · 23 stars
-- 链接：https://github.com/Currentliunderpass/forge-agent
+- 信号：57.6 分 · 207 stars
+- 链接：https://github.com/FigureSultanLast/roblox-ai-studio-agent
 
-Open-source, local-first AI coding agent. Build, share, and install skills. Runs on your machine. Your keys, your data. No cloud. No subscription. Built for developers who ship.
+An AI agent in your terminal that builds Roblox places in Studio: parts, models, UI and Luau scripts. Place diff before every change, playtests with proof, one undo per turn.
 
-## 2. ghcardhq/githubcard-mcp
+## 2. Balanov/uncut
 
-- 信号：65.8 分 · 15 stars
-- 链接：https://github.com/ghcardhq/githubcard-mcp
+- 信号：55.7 分 · 259 stars
+- 链接：https://github.com/Balanov/uncut
 
-GitHubCard MCP server: create GitHub profile and repo cards from Claude, Cursor, VS Code and other AI agents.
+The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.
 
-## 3. UponPeak/windows-fine-tuner-resp
+## 3. kayedspace/laravel-mcp-bridge
 
-- 信号：53.4 分 · 94 stars
-- 链接：https://github.com/UponPeak/windows-fine-tuner-resp
+- 信号：55.6 分 · 2 stars
+- 链接：https://github.com/kayedspace/laravel-mcp-bridge
 
-Top 20 Windows 11 Junk & Startup Optimizer Tools 2026
+Turn your Laravel app into an MCP server for AI agents. Routes, Artisan commands, jobs, actions and models become MCP tools on top of laravel/mcp, while your authentication, gates and policies still decide.

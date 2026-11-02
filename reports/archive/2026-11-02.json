@@ -1,0 +1,49 @@
+{
+  "report_date": "2026-11-02",
+  "generated_at": "2026-11-02T02:36:03.507222+00:00",
+  "timezone": "Asia/Shanghai",
+  "items": [
+    {
+      "id": "repo:1440258107",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 57.6,
+      "stars": 207,
+      "points": 0,
+      "name": "FigureSultanLast/roblox-ai-studio-agent",
+      "title": "FigureSultanLast/roblox-ai-studio-agent",
+      "description": "An AI agent in your terminal that builds Roblox places in Studio: parts, models, UI and Luau scripts. Place diff before every change, playtests with proof, one undo per turn.",
+      "original_text": "An AI agent in your terminal that builds Roblox places in Studio: parts, models, UI and Luau scripts. Place diff before every change, playtests with proof, one undo per turn.",
+      "display_line": "📈 [57.6分 ⭐207] FigureSultanLast/roblox-ai-studio-agent",
+      "url": "https://github.com/FigureSultanLast/roblox-ai-studio-agent"
+    },
+    {
+      "id": "repo:1442056769",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 55.7,
+      "stars": 259,
+      "points": 0,
+      "name": "Balanov/uncut",
+      "title": "Balanov/uncut",
+      "description": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
+      "original_text": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
+      "display_line": "📈 [55.7分 ⭐259] Balanov/uncut",
+      "url": "https://github.com/Balanov/uncut"
+    },
+    {
+      "id": "repo:1441737545",
+      "type": "new",
+      "emoji": "🆕",
+      "score": 55.6,
+      "stars": 2,
+      "points": 0,
+      "name": "kayedspace/laravel-mcp-bridge",
+      "title": "kayedspace/laravel-mcp-bridge",
+      "description": "Turn your Laravel app into an MCP server for AI agents. Routes, Artisan commands, jobs, actions and models become MCP tools on top of laravel/mcp, while your authentication, gates and policies still decide.",
+      "original_text": "Turn your Laravel app into an MCP server for AI agents. Routes, Artisan commands, jobs, actions and models become MCP tools on top of laravel/mcp, while your authentication, gates and policies still decide.",
+      "display_line": "🆕 [55.6分 ⭐2] kayedspace/laravel-mcp-bridge",
+      "url": "https://github.com/kayedspace/laravel-mcp-bridge"
+    }
+  ]
+}
