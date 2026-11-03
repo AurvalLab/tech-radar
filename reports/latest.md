@@ -1,26 +1,26 @@
 # 技术雷达日报
 
-- 日期：2026-11-02
+- 日期：2026-11-03
 - 时区：Asia/Shanghai
 - 条目：3
 
-## 1. FigureSultanLast/roblox-ai-studio-agent
+## 1. glincker/awesome-selfhosted-ai
 
-- 信号：57.6 分 · 207 stars
-- 链接：https://github.com/FigureSultanLast/roblox-ai-studio-agent
+- 信号：53.9 分 · 90 stars
+- 链接：https://github.com/glincker/awesome-selfhosted-ai
 
-An AI agent in your terminal that builds Roblox places in Studio: parts, models, UI and Luau scripts. Place diff before every change, playtests with proof, one undo per turn.
+Curated list of self-hosted open-source AI: local LLMs, chat UIs, agents, MCP servers, RAG, speech and image generation. Health-checked weekly, dead projects removed automatically.
 
-## 2. Balanov/uncut
+## 2. trina-app/trina-ax
 
-- 信号：55.7 分 · 259 stars
-- 链接：https://github.com/Balanov/uncut
+- 信号：53.2 分 · 111 stars
+- 链接：https://github.com/trina-app/trina-ax
 
-The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.
+Set up Claude Code once. Your whole company gets it. Self-hosted Claude Code and Codex with your company files, team skills, MCP and per-person folder permissions.
 
-## 3. kayedspace/laravel-mcp-bridge
+## 3. wendersoon/radar-cnpj-mcp
 
-- 信号：55.6 分 · 2 stars
-- 链接：https://github.com/kayedspace/laravel-mcp-bridge
+- 信号：53.2 分 · 109 stars
+- 链接：https://github.com/wendersoon/radar-cnpj-mcp
 
-Turn your Laravel app into an MCP server for AI agents. Routes, Artisan commands, jobs, actions and models become MCP tools on top of laravel/mcp, while your authentication, gates and policies still decide.
+Servidor MCP e CLI para localizar empresas brasileiras por CNAE e região, utilizando dados abertos de CNPJ da Receita Federal.

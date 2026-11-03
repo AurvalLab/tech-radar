@@ -221,7 +221,10 @@
     "repo:1434039442",
     "repo:1440258107",
     "repo:1442056769",
-    "repo:1441737545"
+    "repo:1441737545",
+    "repo:1440552115",
+    "repo:1436599521",
+    "repo:1442333709"
   ],
   "seen_urls": [
     "https://github.com/nduc99911/repo-context-mcp",
@@ -445,7 +448,10 @@
     "https://github.com/UponPeak/windows-fine-tuner-resp",
     "https://github.com/FigureSultanLast/roblox-ai-studio-agent",
     "https://github.com/Balanov/uncut",
-    "https://github.com/kayedspace/laravel-mcp-bridge"
+    "https://github.com/kayedspace/laravel-mcp-bridge",
+    "https://github.com/glincker/awesome-selfhosted-ai",
+    "https://github.com/trina-app/trina-ax",
+    "https://github.com/wendersoon/radar-cnpj-mcp"
   ],
-  "last_checked": "2026-11-02T02:36:03.508294+00:00"
+  "last_checked": "2026-11-03T03:57:11.059456+00:00"
 }

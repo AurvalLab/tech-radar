@@ -1,0 +1,49 @@
+{
+  "report_date": "2026-11-03",
+  "generated_at": "2026-11-03T03:57:11.058343+00:00",
+  "timezone": "Asia/Shanghai",
+  "items": [
+    {
+      "id": "repo:1440552115",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 53.9,
+      "stars": 90,
+      "points": 0,
+      "name": "glincker/awesome-selfhosted-ai",
+      "title": "glincker/awesome-selfhosted-ai",
+      "description": "Curated list of self-hosted open-source AI: local LLMs, chat UIs, agents, MCP servers, RAG, speech and image generation. Health-checked weekly, dead projects removed automatically.",
+      "original_text": "Curated list of self-hosted open-source AI: local LLMs, chat UIs, agents, MCP servers, RAG, speech and image generation. Health-checked weekly, dead projects removed automatically.",
+      "display_line": "📈 [53.9分 ⭐90] glincker/awesome-selfhosted-ai",
+      "url": "https://github.com/glincker/awesome-selfhosted-ai"
+    },
+    {
+      "id": "repo:1436599521",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 53.2,
+      "stars": 111,
+      "points": 0,
+      "name": "trina-app/trina-ax",
+      "title": "trina-app/trina-ax",
+      "description": "Set up Claude Code once. Your whole company gets it. Self-hosted Claude Code and Codex with your company files, team skills, MCP and per-person folder permissions.",
+      "original_text": "Set up Claude Code once. Your whole company gets it. Self-hosted Claude Code and Codex with your company files, team skills, MCP and per-person folder permissions.",
+      "display_line": "📈 [53.2分 ⭐111] trina-app/trina-ax",
+      "url": "https://github.com/trina-app/trina-ax"
+    },
+    {
+      "id": "repo:1442333709",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 53.2,
+      "stars": 109,
+      "points": 0,
+      "name": "wendersoon/radar-cnpj-mcp",
+      "title": "wendersoon/radar-cnpj-mcp",
+      "description": "Servidor MCP e CLI para localizar empresas brasileiras por CNAE e região, utilizando dados abertos de CNPJ da Receita Federal.",
+      "original_text": "Servidor MCP e CLI para localizar empresas brasileiras por CNAE e região, utilizando dados abertos de CNPJ da Receita Federal.",
+      "display_line": "📈 [53.2分 ⭐109] wendersoon/radar-cnpj-mcp",
+      "url": "https://github.com/wendersoon/radar-cnpj-mcp"
+    }
+  ]
+}
