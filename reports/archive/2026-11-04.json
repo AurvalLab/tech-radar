@@ -1,0 +1,49 @@
+{
+  "report_date": "2026-11-04",
+  "generated_at": "2026-11-04T03:02:15.221895+00:00",
+  "timezone": "Asia/Shanghai",
+  "items": [
+    {
+      "id": "repo:1440671949",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 60.5,
+      "stars": 224,
+      "points": 0,
+      "name": "Moh4696/open-3d-skills",
+      "title": "Moh4696/open-3d-skills",
+      "description": "Eight agent skills for 3D and animated websites: three.js scenes from code, scroll films, transparent video, cursor rigs, exploded views, AI motion assets, browser checks and 60 fps recording. Claude Code, Codex, Cursor, Gemini CLI.",
+      "original_text": "Eight agent skills for 3D and animated websites: three.js scenes from code, scroll films, transparent video, cursor rigs, exploded views, AI motion assets, browser checks and 60 fps recording. Claude Code, Codex, Cursor, Gemini CLI.",
+      "display_line": "📈 [60.5分 ⭐224] Moh4696/open-3d-skills",
+      "url": "https://github.com/Moh4696/open-3d-skills"
+    },
+    {
+      "id": "repo:1442797139",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 59.1,
+      "stars": 176,
+      "points": 0,
+      "name": "exzade/EXZA-Remote",
+      "title": "exzade/EXZA-Remote",
+      "description": "Secure AI-powered remote computer access for ChatGPT, Claude and compatible MCP clients.",
+      "original_text": "Secure AI-powered remote computer access for ChatGPT, Claude and compatible MCP clients.",
+      "display_line": "📈 [59.1分 ⭐176] exzade/EXZA-Remote",
+      "url": "https://github.com/exzade/EXZA-Remote"
+    },
+    {
+      "id": "repo:1443716451",
+      "type": "new",
+      "emoji": "🆕",
+      "score": 58.2,
+      "stars": 4,
+      "points": 0,
+      "name": "pth2002/repofit",
+      "title": "pth2002/repofit",
+      "description": "Find GitHub projects that fit you, using what your coding agents already know about you.",
+      "original_text": "Find GitHub projects that fit you, using what your coding agents already know about you.",
+      "display_line": "🆕 [58.2分 ⭐4] pth2002/repofit",
+      "url": "https://github.com/pth2002/repofit"
+    }
+  ]
+}

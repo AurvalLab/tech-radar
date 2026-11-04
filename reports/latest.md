@@ -1,26 +1,26 @@
 # 技术雷达日报
 
-- 日期：2026-11-03
+- 日期：2026-11-04
 - 时区：Asia/Shanghai
 - 条目：3
 
-## 1. glincker/awesome-selfhosted-ai
+## 1. Moh4696/open-3d-skills
 
-- 信号：53.9 分 · 90 stars
-- 链接：https://github.com/glincker/awesome-selfhosted-ai
+- 信号：60.5 分 · 224 stars
+- 链接：https://github.com/Moh4696/open-3d-skills
 
-Curated list of self-hosted open-source AI: local LLMs, chat UIs, agents, MCP servers, RAG, speech and image generation. Health-checked weekly, dead projects removed automatically.
+Eight agent skills for 3D and animated websites: three.js scenes from code, scroll films, transparent video, cursor rigs, exploded views, AI motion assets, browser checks and 60 fps recording. Claude Code, Codex, Cursor, Gemini CLI.
 
-## 2. trina-app/trina-ax
+## 2. exzade/EXZA-Remote
 
-- 信号：53.2 分 · 111 stars
-- 链接：https://github.com/trina-app/trina-ax
+- 信号：59.1 分 · 176 stars
+- 链接：https://github.com/exzade/EXZA-Remote
 
-Set up Claude Code once. Your whole company gets it. Self-hosted Claude Code and Codex with your company files, team skills, MCP and per-person folder permissions.
+Secure AI-powered remote computer access for ChatGPT, Claude and compatible MCP clients.
 
-## 3. wendersoon/radar-cnpj-mcp
+## 3. pth2002/repofit
 
-- 信号：53.2 分 · 109 stars
-- 链接：https://github.com/wendersoon/radar-cnpj-mcp
+- 信号：58.2 分 · 4 stars
+- 链接：https://github.com/pth2002/repofit
 
-Servidor MCP e CLI para localizar empresas brasileiras por CNAE e região, utilizando dados abertos de CNPJ da Receita Federal.
+Find GitHub projects that fit you, using what your coding agents already know about you.
