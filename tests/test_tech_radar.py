@@ -251,5 +251,16 @@ class TechRadarTests(unittest.TestCase):
         self.assertEqual(stderr.calls, [expected])
 
 
+class NormalizeTextTests(unittest.TestCase):
+    def test_normalize_text_preserves_unicode_while_collapsing_unicode_whitespace(self):
+        import tech_radar
+
+        self.assertEqual(
+            tech_radar.normalize_text("  Café\u00a0東京\u2028tools  "),
+            "Café 東京 tools",
+        )
+        self.assertEqual(tech_radar.normalize_text(None), "")
+
+
 if __name__ == "__main__":
     unittest.main()
