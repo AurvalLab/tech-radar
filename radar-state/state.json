@@ -227,7 +227,10 @@
     "repo:1442333709",
     "repo:1440671949",
     "repo:1442797139",
-    "repo:1443716451"
+    "repo:1443716451",
+    "repo:1440436637",
+    "repo:1439929795",
+    "repo:1443985070"
   ],
   "seen_urls": [
     "https://github.com/nduc99911/repo-context-mcp",
@@ -457,7 +460,10 @@
     "https://github.com/wendersoon/radar-cnpj-mcp",
     "https://github.com/Moh4696/open-3d-skills",
     "https://github.com/exzade/EXZA-Remote",
-    "https://github.com/pth2002/repofit"
+    "https://github.com/pth2002/repofit",
+    "https://github.com/Hona/strobe",
+    "https://github.com/ElysiumForge-Labs/elysium-chain-mcp",
+    "https://github.com/KKKKhazix/agent-autoloop"
   ],
-  "last_checked": "2026-11-04T03:02:15.223284+00:00"
+  "last_checked": "2026-11-05T03:32:59.658240+00:00"
 }

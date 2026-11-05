@@ -1,26 +1,26 @@
 # 技术雷达日报
 
-- 日期：2026-11-04
+- 日期：2026-11-05
 - 时区：Asia/Shanghai
 - 条目：3
 
-## 1. Moh4696/open-3d-skills
+## 1. Hona/strobe
 
-- 信号：60.5 分 · 224 stars
-- 链接：https://github.com/Moh4696/open-3d-skills
+- 信号：55.0 分 · 105 stars
+- 链接：https://github.com/Hona/strobe
 
-Eight agent skills for 3D and animated websites: three.js scenes from code, scroll films, transparent video, cursor rigs, exploded views, AI motion assets, browser checks and 60 fps recording. Claude Code, Codex, Cursor, Gemini CLI.
+Measure and explain performance: web pages, Electron apps, Bun/Node, any process. Agent-native CLI + MCP.
 
-## 2. exzade/EXZA-Remote
+## 2. ElysiumForge-Labs/elysium-chain-mcp
 
-- 信号：59.1 分 · 176 stars
-- 链接：https://github.com/exzade/EXZA-Remote
+- 信号：54.1 分 · 122 stars
+- 链接：https://github.com/ElysiumForge-Labs/elysium-chain-mcp
 
-Secure AI-powered remote computer access for ChatGPT, Claude and compatible MCP clients.
+MCP server for AI agents to read and interact with Elysium, Kinetiq’s Arbitrum Orbit L2 on Hyperliquid
 
-## 3. pth2002/repofit
+## 3. KKKKhazix/agent-autoloop
 
-- 信号：58.2 分 · 4 stars
-- 链接：https://github.com/pth2002/repofit
+- 信号：52.9 分 · 2690 stars
+- 链接：https://github.com/KKKKhazix/agent-autoloop
 
-Find GitHub projects that fit you, using what your coding agents already know about you.
+让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。
