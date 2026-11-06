@@ -1,26 +1,26 @@
 # 技术雷达日报
 
-- 日期：2026-11-05
+- 日期：2026-11-06
 - 时区：Asia/Shanghai
 - 条目：3
 
-## 1. Hona/strobe
+## 1. damnitjoshua/dia-mcp
 
-- 信号：55.0 分 · 105 stars
-- 链接：https://github.com/Hona/strobe
+- 信号：70.7 分 · 2 stars
+- 链接：https://github.com/damnitjoshua/dia-mcp
 
-Measure and explain performance: web pages, Electron apps, Bun/Node, any process. Agent-native CLI + MCP.
+Dia Browser MCP server: control your running Dia browser from an AI agent over the Chrome DevTools Protocol. No debug port, no restart. Works with Claude Desktop, Cursor and Hermes.
 
-## 2. ElysiumForge-Labs/elysium-chain-mcp
+## 2. Jamailar/Weave-Office
 
-- 信号：54.1 分 · 122 stars
-- 链接：https://github.com/ElysiumForge-Labs/elysium-chain-mcp
+- 信号：64.6 分 · 146 stars
+- 链接：https://github.com/Jamailar/Weave-Office
 
-MCP server for AI agents to read and interact with Elysium, Kinetiq’s Arbitrum Orbit L2 on Hyperliquid
+One app for every document. Built for AI agents. An open-source desktop office suite written in Rust: documents, spreadsheets, slides, PDF, Markdown, code and rich text, opened, edited and saved in one row of file tabs. The same binary is a command line that AI agents call directly.
 
-## 3. KKKKhazix/agent-autoloop
+## 3. mrhlaingbwardev/agentic-hacking-skills
 
-- 信号：52.9 分 · 2690 stars
-- 链接：https://github.com/KKKKhazix/agent-autoloop
+- 信号：58.2 分 · 339 stars
+- 链接：https://github.com/mrhlaingbwardev/agentic-hacking-skills
 
-让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。
+AI-Powered Web Security & Automation - Official bonus skills, agents & MCP configs for the 'Agentic Hacking' ebook (28 SKILL.md templates)

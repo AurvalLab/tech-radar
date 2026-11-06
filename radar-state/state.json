@@ -230,7 +230,10 @@
     "repo:1443716451",
     "repo:1440436637",
     "repo:1439929795",
-    "repo:1443985070"
+    "repo:1443985070",
+    "repo:1446911890",
+    "repo:1441362410",
+    "repo:1441468008"
   ],
   "seen_urls": [
     "https://github.com/nduc99911/repo-context-mcp",
@@ -463,7 +466,10 @@
     "https://github.com/pth2002/repofit",
     "https://github.com/Hona/strobe",
     "https://github.com/ElysiumForge-Labs/elysium-chain-mcp",
-    "https://github.com/KKKKhazix/agent-autoloop"
+    "https://github.com/KKKKhazix/agent-autoloop",
+    "https://github.com/damnitjoshua/dia-mcp",
+    "https://github.com/Jamailar/Weave-Office",
+    "https://github.com/mrhlaingbwardev/agentic-hacking-skills"
   ],
-  "last_checked": "2026-11-05T03:32:59.658240+00:00"
+  "last_checked": "2026-11-06T03:28:57.094570+00:00"
 }

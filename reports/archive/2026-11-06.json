@@ -1,0 +1,49 @@
+{
+  "report_date": "2026-11-06",
+  "generated_at": "2026-11-06T03:28:57.093544+00:00",
+  "timezone": "Asia/Shanghai",
+  "items": [
+    {
+      "id": "repo:1446911890",
+      "type": "new",
+      "emoji": "🆕",
+      "score": 70.7,
+      "stars": 2,
+      "points": 0,
+      "name": "damnitjoshua/dia-mcp",
+      "title": "damnitjoshua/dia-mcp",
+      "description": "Dia Browser MCP server: control your running Dia browser from an AI agent over the Chrome DevTools Protocol. No debug port, no restart. Works with Claude Desktop, Cursor and Hermes.",
+      "original_text": "Dia Browser MCP server: control your running Dia browser from an AI agent over the Chrome DevTools Protocol. No debug port, no restart. Works with Claude Desktop, Cursor and Hermes.",
+      "display_line": "🆕 [70.7分 ⭐2] damnitjoshua/dia-mcp",
+      "url": "https://github.com/damnitjoshua/dia-mcp"
+    },
+    {
+      "id": "repo:1441362410",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 64.6,
+      "stars": 146,
+      "points": 0,
+      "name": "Jamailar/Weave-Office",
+      "title": "Jamailar/Weave-Office",
+      "description": "One app for every document. Built for AI agents. An open-source desktop office suite written in Rust: documents, spreadsheets, slides, PDF, Markdown, code and rich text, opened, edited and saved in one row of file tabs. The same binary is a command line that AI agents call directly.",
+      "original_text": "One app for every document. Built for AI agents. An open-source desktop office suite written in Rust: documents, spreadsheets, slides, PDF, Markdown, code and rich text, opened, edited and saved in one row of file tabs. The same binary is a command line that AI agents call directly.",
+      "display_line": "📈 [64.6分 ⭐146] Jamailar/Weave-Office",
+      "url": "https://github.com/Jamailar/Weave-Office"
+    },
+    {
+      "id": "repo:1441468008",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 58.2,
+      "stars": 339,
+      "points": 0,
+      "name": "mrhlaingbwardev/agentic-hacking-skills",
+      "title": "mrhlaingbwardev/agentic-hacking-skills",
+      "description": "AI-Powered Web Security & Automation - Official bonus skills, agents & MCP configs for the 'Agentic Hacking' ebook (28 SKILL.md templates)",
+      "original_text": "AI-Powered Web Security & Automation - Official bonus skills, agents & MCP configs for the 'Agentic Hacking' ebook (28 SKILL.md templates)",
+      "display_line": "📈 [58.2分 ⭐339] mrhlaingbwardev/agentic-hacking-skills",
+      "url": "https://github.com/mrhlaingbwardev/agentic-hacking-skills"
+    }
+  ]
+}
