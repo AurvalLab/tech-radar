@@ -1,0 +1,49 @@
+{
+  "report_date": "2026-11-07",
+  "generated_at": "2026-11-07T02:54:23.709417+00:00",
+  "timezone": "Asia/Shanghai",
+  "items": [
+    {
+      "id": "repo:1441603853",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 64.4,
+      "stars": 27,
+      "points": 0,
+      "name": "evolving-foundry/ember-evaluator",
+      "title": "evolving-foundry/ember-evaluator",
+      "description": "Many ways to evaluate. One framework to bring them together. Unify benchmarks, agent evaluations, and performance testing across coding, terminal, office, web, and more.",
+      "original_text": "Many ways to evaluate. One framework to bring them together. Unify benchmarks, agent evaluations, and performance testing across coding, terminal, office, web, and more.",
+      "display_line": "📈 [64.4分 ⭐27] evolving-foundry/ember-evaluator",
+      "url": "https://github.com/evolving-foundry/ember-evaluator"
+    },
+    {
+      "id": "repo:1447463948",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 56.5,
+      "stars": 232,
+      "points": 0,
+      "name": "yucezerey/turkish-anti-ai-skill",
+      "title": "yucezerey/turkish-anti-ai-skill",
+      "description": "Türkçe metinlerdeki yapay zeka izlerini (AI slop, translationese, çeviri kokan cümle mimarisi ve TDK hatalarını) temizleyen Agent Skill ve Humanizer paketi.",
+      "original_text": "Türkçe metinlerdeki yapay zeka izlerini (AI slop, translationese, çeviri kokan cümle mimarisi ve TDK hatalarını) temizleyen Agent Skill ve Humanizer paketi.",
+      "display_line": "📈 [56.5分 ⭐232] yucezerey/turkish-anti-ai-skill",
+      "url": "https://github.com/yucezerey/turkish-anti-ai-skill"
+    },
+    {
+      "id": "repo:1447903382",
+      "type": "new",
+      "emoji": "🆕",
+      "score": 54.3,
+      "stars": 427,
+      "points": 0,
+      "name": "HerdBuilderEstimate/roblox-studio-mcp",
+      "title": "HerdBuilderEstimate/roblox-studio-mcp",
+      "description": "Model Context Protocol server for Roblox Studio. Connect AI assistants (Claude, Cursor) to read object trees, edit scripts, and run playtests safely. Open-source and lightweight",
+      "original_text": "Model Context Protocol server for Roblox Studio. Connect AI assistants (Claude, Cursor) to read object trees, edit scripts, and run playtests safely. Open-source and lightweight",
+      "display_line": "🆕 [54.3分 ⭐427] HerdBuilderEstimate/roblox-studio-mcp",
+      "url": "https://github.com/HerdBuilderEstimate/roblox-studio-mcp"
+    }
+  ]
+}
