@@ -1,49 +1,49 @@
 {
-  "report_date": "2026-11-07",
-  "generated_at": "2026-11-07T02:54:23.709417+00:00",
+  "report_date": "2026-11-08",
+  "generated_at": "2026-11-08T02:33:05.335048+00:00",
   "timezone": "Asia/Shanghai",
   "items": [
     {
-      "id": "repo:1441603853",
+      "id": "repo:1447939618",
       "type": "trend",
       "emoji": "📈",
-      "score": 64.4,
-      "stars": 27,
+      "score": 56.7,
+      "stars": 365,
       "points": 0,
-      "name": "evolving-foundry/ember-evaluator",
-      "title": "evolving-foundry/ember-evaluator",
-      "description": "Many ways to evaluate. One framework to bring them together. Unify benchmarks, agent evaluations, and performance testing across coding, terminal, office, web, and more.",
-      "original_text": "Many ways to evaluate. One framework to bring them together. Unify benchmarks, agent evaluations, and performance testing across coding, terminal, office, web, and more.",
-      "display_line": "📈 [64.4分 ⭐27] evolving-foundry/ember-evaluator",
-      "url": "https://github.com/evolving-foundry/ember-evaluator"
+      "name": "devvmhq/devvm",
+      "title": "devvmhq/devvm",
+      "description": "One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding",
+      "original_text": "One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding",
+      "display_line": "📈 [56.7分 ⭐365] devvmhq/devvm",
+      "url": "https://github.com/devvmhq/devvm"
     },
     {
-      "id": "repo:1447463948",
+      "id": "repo:1448640918",
       "type": "trend",
       "emoji": "📈",
-      "score": 56.5,
-      "stars": 232,
+      "score": 54.7,
+      "stars": 274,
       "points": 0,
-      "name": "yucezerey/turkish-anti-ai-skill",
-      "title": "yucezerey/turkish-anti-ai-skill",
-      "description": "Türkçe metinlerdeki yapay zeka izlerini (AI slop, translationese, çeviri kokan cümle mimarisi ve TDK hatalarını) temizleyen Agent Skill ve Humanizer paketi.",
-      "original_text": "Türkçe metinlerdeki yapay zeka izlerini (AI slop, translationese, çeviri kokan cümle mimarisi ve TDK hatalarını) temizleyen Agent Skill ve Humanizer paketi.",
-      "display_line": "📈 [56.5分 ⭐232] yucezerey/turkish-anti-ai-skill",
-      "url": "https://github.com/yucezerey/turkish-anti-ai-skill"
+      "name": "shanselman/sandbox-mcp",
+      "title": "shanselman/sandbox-mcp",
+      "description": "Fresh, throwaway Windows machines for testing your apps: an MCP server and CLI that automate Windows Sandbox",
+      "original_text": "Fresh, throwaway Windows machines for testing your apps: an MCP server and CLI that automate Windows Sandbox",
+      "display_line": "📈 [54.7分 ⭐274] shanselman/sandbox-mcp",
+      "url": "https://github.com/shanselman/sandbox-mcp"
     },
     {
-      "id": "repo:1447903382",
+      "id": "repo:1448958233",
       "type": "new",
       "emoji": "🆕",
-      "score": 54.3,
-      "stars": 427,
+      "score": 53.7,
+      "stars": 7,
       "points": 0,
-      "name": "HerdBuilderEstimate/roblox-studio-mcp",
-      "title": "HerdBuilderEstimate/roblox-studio-mcp",
-      "description": "Model Context Protocol server for Roblox Studio. Connect AI assistants (Claude, Cursor) to read object trees, edit scripts, and run playtests safely. Open-source and lightweight",
-      "original_text": "Model Context Protocol server for Roblox Studio. Connect AI assistants (Claude, Cursor) to read object trees, edit scripts, and run playtests safely. Open-source and lightweight",
-      "display_line": "🆕 [54.3分 ⭐427] HerdBuilderEstimate/roblox-studio-mcp",
-      "url": "https://github.com/HerdBuilderEstimate/roblox-studio-mcp"
+      "name": "yuki4266/ruin-everything",
+      "title": "yuki4266/ruin-everything",
+      "description": "A local Chrome runtime for browser agents. Reconnect to open tabs, inspect application challenges, and recover submission receipts over MCP.",
+      "original_text": "A local Chrome runtime for browser agents. Reconnect to open tabs, inspect application challenges, and recover submission receipts over MCP.",
+      "display_line": "🆕 [53.7分 ⭐7] yuki4266/ruin-everything",
+      "url": "https://github.com/yuki4266/ruin-everything"
     }
   ]
 }

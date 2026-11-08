@@ -1,26 +1,26 @@
 # 技术雷达日报
 
-- 日期：2026-11-07
+- 日期：2026-11-08
 - 时区：Asia/Shanghai
 - 条目：3
 
-## 1. evolving-foundry/ember-evaluator
+## 1. devvmhq/devvm
 
-- 信号：64.4 分 · 27 stars
-- 链接：https://github.com/evolving-foundry/ember-evaluator
+- 信号：56.7 分 · 365 stars
+- 链接：https://github.com/devvmhq/devvm
 
-Many ways to evaluate. One framework to bring them together. Unify benchmarks, agent evaluations, and performance testing across coding, terminal, office, web, and more.
+One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding
 
-## 2. yucezerey/turkish-anti-ai-skill
+## 2. shanselman/sandbox-mcp
 
-- 信号：56.5 分 · 232 stars
-- 链接：https://github.com/yucezerey/turkish-anti-ai-skill
+- 信号：54.7 分 · 274 stars
+- 链接：https://github.com/shanselman/sandbox-mcp
 
-Türkçe metinlerdeki yapay zeka izlerini (AI slop, translationese, çeviri kokan cümle mimarisi ve TDK hatalarını) temizleyen Agent Skill ve Humanizer paketi.
+Fresh, throwaway Windows machines for testing your apps: an MCP server and CLI that automate Windows Sandbox
 
-## 3. HerdBuilderEstimate/roblox-studio-mcp
+## 3. yuki4266/ruin-everything
 
-- 信号：54.3 分 · 427 stars
-- 链接：https://github.com/HerdBuilderEstimate/roblox-studio-mcp
+- 信号：53.7 分 · 7 stars
+- 链接：https://github.com/yuki4266/ruin-everything
 
-Model Context Protocol server for Roblox Studio. Connect AI assistants (Claude, Cursor) to read object trees, edit scripts, and run playtests safely. Open-source and lightweight
+A local Chrome runtime for browser agents. Reconnect to open tabs, inspect application challenges, and recover submission receipts over MCP.
