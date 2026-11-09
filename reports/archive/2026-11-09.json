@@ -1,0 +1,21 @@
+{
+  "report_date": "2026-11-09",
+  "generated_at": "2026-11-09T02:43:52.601600+00:00",
+  "timezone": "Asia/Shanghai",
+  "items": [
+    {
+      "id": "repo:1448769693",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 53.4,
+      "stars": 332,
+      "points": 0,
+      "name": "dhruvthakur11/youtube-ai-video-editing-system",
+      "title": "dhruvthakur11/youtube-ai-video-editing-system",
+      "description": "Eyeline teleprompter meets editing agents: JSON-driven animation and motion graphics workflow",
+      "original_text": "Eyeline teleprompter meets editing agents: JSON-driven animation and motion graphics workflow",
+      "display_line": "📈 [53.4分 ⭐332] dhruvthakur11/youtube-ai-video-editing-system",
+      "url": "https://github.com/dhruvthakur11/youtube-ai-video-editing-system"
+    }
+  ]
+}
