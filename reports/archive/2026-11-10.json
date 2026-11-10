@@ -1,0 +1,49 @@
+{
+  "report_date": "2026-11-10",
+  "generated_at": "2026-11-10T04:40:21.446452+00:00",
+  "timezone": "Asia/Shanghai",
+  "items": [
+    {
+      "id": "repo:1451138222",
+      "type": "new",
+      "emoji": "🆕",
+      "score": 72.0,
+      "stars": 281,
+      "points": 0,
+      "name": "Nanoutrolley/roblox-studio-mcp",
+      "title": "Nanoutrolley/roblox-studio-mcp",
+      "description": "Model Context Protocol (MCP) server for Roblox Studio. Connect AI assistants (Claude, Cursor, Cline) to read object trees, automate Lua scripting, and run playtests safely. Open-source AI bridge.",
+      "original_text": "Model Context Protocol (MCP) server for Roblox Studio. Connect AI assistants (Claude, Cursor, Cline) to read object trees, automate Lua scripting, and run playtests safely. Open-source AI bridge.",
+      "display_line": "🆕 [72.0分 ⭐281] Nanoutrolley/roblox-studio-mcp",
+      "url": "https://github.com/Nanoutrolley/roblox-studio-mcp"
+    },
+    {
+      "id": "repo:1446572955",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 54.5,
+      "stars": 181,
+      "points": 0,
+      "name": "Junhan2/ztd-charts",
+      "title": "Junhan2/ztd-charts",
+      "description": "36 animated, interactive React charts in pure SVG, with a CLI and an MCP server",
+      "original_text": "36 animated, interactive React charts in pure SVG, with a CLI and an MCP server",
+      "display_line": "📈 [54.5分 ⭐181] Junhan2/ztd-charts",
+      "url": "https://github.com/Junhan2/ztd-charts"
+    },
+    {
+      "id": "repo:1451803815",
+      "type": "new",
+      "emoji": "🆕",
+      "score": 53.7,
+      "stars": 29,
+      "points": 0,
+      "name": "Pickardt/Chat-GPT-Astra-6.1",
+      "title": "Pickardt/Chat-GPT-Astra-6.1",
+      "description": "A chat interface for exploring ideas, asking questions, drafting text, learning, and handling everyday tasks with AI. Simple, flexible, and designed for natural conversations.",
+      "original_text": "A chat interface for exploring ideas, asking questions, drafting text, learning, and handling everyday tasks with AI. Simple, flexible, and designed for natural conversations.",
+      "display_line": "🆕 [53.7分 ⭐29] Pickardt/Chat-GPT-Astra-6.1",
+      "url": "https://github.com/Pickardt/Chat-GPT-Astra-6.1"
+    }
+  ]
+}
