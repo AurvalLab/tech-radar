@@ -1,0 +1,35 @@
+{
+  "report_date": "2026-11-12",
+  "generated_at": "2026-11-12T03:54:09.084867+00:00",
+  "timezone": "Asia/Shanghai",
+  "items": [
+    {
+      "id": "repo:1450794567",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 80.8,
+      "stars": 390,
+      "points": 0,
+      "name": "agentes-chat/agentes-chat",
+      "title": "agentes-chat/agentes-chat",
+      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
+      "original_text": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
+      "display_line": "📈 [80.8分 ⭐390] agentes-chat/agentes-chat",
+      "url": "https://github.com/agentes-chat/agentes-chat"
+    },
+    {
+      "id": "repo:1453132706",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 52.9,
+      "stars": 483,
+      "points": 0,
+      "name": "FrigadeHQ/yogurt",
+      "title": "FrigadeHQ/yogurt",
+      "description": "Private AI meeting notes. Free and open source.",
+      "original_text": "Private AI meeting notes. Free and open source.",
+      "display_line": "📈 [52.9分 ⭐483] FrigadeHQ/yogurt",
+      "url": "https://github.com/FrigadeHQ/yogurt"
+    }
+  ]
+}

@@ -245,7 +245,9 @@
     "repo:1446572955",
     "repo:1451803815",
     "repo:1448227016",
-    "repo:1451662178"
+    "repo:1451662178",
+    "repo:1450794567",
+    "repo:1453132706"
   ],
   "seen_urls": [
     "https://github.com/nduc99911/repo-context-mcp",
@@ -493,7 +495,9 @@
     "https://github.com/Junhan2/ztd-charts",
     "https://github.com/Pickardt/Chat-GPT-Astra-6.1",
     "https://github.com/DevCrabs-Inc/yandex-metrika-mcp",
-    "https://github.com/Dodaios/ste80-humanizer"
+    "https://github.com/Dodaios/ste80-humanizer",
+    "https://github.com/agentes-chat/agentes-chat",
+    "https://github.com/FrigadeHQ/yogurt"
   ],
-  "last_checked": "2026-11-11T02:51:07.587358+00:00"
+  "last_checked": "2026-11-12T03:54:09.086174+00:00"
 }
