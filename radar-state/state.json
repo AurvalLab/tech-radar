@@ -247,7 +247,10 @@
     "repo:1448227016",
     "repo:1451662178",
     "repo:1450794567",
-    "repo:1453132706"
+    "repo:1453132706",
+    "repo:1449996580",
+    "repo:1451616674",
+    "repo:1451084291"
   ],
   "seen_urls": [
     "https://github.com/nduc99911/repo-context-mcp",
@@ -497,7 +500,10 @@
     "https://github.com/DevCrabs-Inc/yandex-metrika-mcp",
     "https://github.com/Dodaios/ste80-humanizer",
     "https://github.com/agentes-chat/agentes-chat",
-    "https://github.com/FrigadeHQ/yogurt"
+    "https://github.com/FrigadeHQ/yogurt",
+    "https://github.com/claudememory/claude-memory",
+    "https://github.com/pktq/lasik",
+    "https://github.com/Moh4696/cinematic-skill"
   ],
-  "last_checked": "2026-11-12T03:54:09.086174+00:00"
+  "last_checked": "2026-11-13T03:27:09.125904+00:00"
 }

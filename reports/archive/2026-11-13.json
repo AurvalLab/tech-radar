@@ -1,0 +1,49 @@
+{
+  "report_date": "2026-11-13",
+  "generated_at": "2026-11-13T03:27:09.124614+00:00",
+  "timezone": "Asia/Shanghai",
+  "items": [
+    {
+      "id": "repo:1449996580",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 69.7,
+      "stars": 125,
+      "points": 0,
+      "name": "claudememory/claude-memory",
+      "title": "claudememory/claude-memory",
+      "description": "Claude memory: the top 10 ways to give Claude persistent, long-term memory, compared. Covers MCP memory servers, CLAUDE.md, memory plugins and tools for Claude Code, Claude Desktop and the Claude API. Setup, pros and cons, and which to pick for remembering context across sessions.",
+      "original_text": "Claude memory: the top 10 ways to give Claude persistent, long-term memory, compared. Covers MCP memory servers, CLAUDE.md, memory plugins and tools for Claude Code, Claude Desktop and the Claude API. Setup, pros and cons, and which to pick for remembering context across sessions.",
+      "display_line": "📈 [69.7分 ⭐125] claudememory/claude-memory",
+      "url": "https://github.com/claudememory/claude-memory"
+    },
+    {
+      "id": "repo:1451616674",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 63.8,
+      "stars": 121,
+      "points": 0,
+      "name": "pktq/lasik",
+      "title": "pktq/lasik",
+      "description": "BLA blinds your agent. LASIK gives it its sight back. Static de-blinding CLI + MCP server that undoes BLA (Blind LLM Agents) hardening so coding agents and REA can read the real code again. Never executes the target.",
+      "original_text": "BLA blinds your agent. LASIK gives it its sight back. Static de-blinding CLI + MCP server that undoes BLA (Blind LLM Agents) hardening so coding agents and REA can read the real code again. Never executes the target.",
+      "display_line": "📈 [63.8分 ⭐121] pktq/lasik",
+      "url": "https://github.com/pktq/lasik"
+    },
+    {
+      "id": "repo:1451084291",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 55.6,
+      "stars": 236,
+      "points": 0,
+      "name": "Moh4696/cinematic-skill",
+      "title": "Moh4696/cinematic-skill",
+      "description": "Agent skill for narrated cinematic films built entirely from code: one continuous camera over photos, maps and cards, timed to the voice. Claude Code, Codex, Cursor, Gemini CLI.",
+      "original_text": "Agent skill for narrated cinematic films built entirely from code: one continuous camera over photos, maps and cards, timed to the voice. Claude Code, Codex, Cursor, Gemini CLI.",
+      "display_line": "📈 [55.6分 ⭐236] Moh4696/cinematic-skill",
+      "url": "https://github.com/Moh4696/cinematic-skill"
+    }
+  ]
+}
