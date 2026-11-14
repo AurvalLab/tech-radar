@@ -1,0 +1,49 @@
+{
+  "report_date": "2026-11-14",
+  "generated_at": "2026-11-14T03:22:53.434636+00:00",
+  "timezone": "Asia/Shanghai",
+  "items": [
+    {
+      "id": "repo:1456013756",
+      "type": "new",
+      "emoji": "🆕",
+      "score": 58.3,
+      "stars": 11,
+      "points": 0,
+      "name": "graiz/KittyBrowser",
+      "title": "graiz/KittyBrowser",
+      "description": "A real web browser in a terminal pane: headless Chrome drawn with the kitty graphics protocol, built to work beside coding agents",
+      "original_text": "A real web browser in a terminal pane: headless Chrome drawn with the kitty graphics protocol, built to work beside coding agents",
+      "display_line": "🆕 [58.3分 ⭐11] graiz/KittyBrowser",
+      "url": "https://github.com/graiz/KittyBrowser"
+    },
+    {
+      "id": "repo:1456509663",
+      "type": "new",
+      "emoji": "🆕",
+      "score": 57.4,
+      "stars": 14,
+      "points": 0,
+      "name": "phuocka/a-company",
+      "title": "phuocka/a-company",
+      "description": "Self-hosted AI teammates across Web, Desktop, and Mobile — live computers, routines, inline mini-apps, spend caps, local CLIs, and PGlite (Apache-2.0)",
+      "original_text": "Self-hosted AI teammates across Web, Desktop, and Mobile — live computers, routines, inline mini-apps, spend caps, local CLIs, and PGlite (Apache-2.0)",
+      "display_line": "🆕 [57.4分 ⭐14] phuocka/a-company",
+      "url": "https://github.com/phuocka/a-company"
+    },
+    {
+      "id": "repo:1455744896",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 56.9,
+      "stars": 181,
+      "points": 0,
+      "name": "precygtrucqui1981/blender-ai-copilot-lab",
+      "title": "precygtrucqui1981/blender-ai-copilot-lab",
+      "description": "An AI lab for Blender where manager–worker–reviewer agent teams run multi-step scene briefs as supervised experiments—a live task board, review findings, one correction attempt per blocked task, named undo, and a built-in MCP server. · blender-ai-copilot-lab · blender · blender 3d · blender addon · blender plugin · blender extension",
+      "original_text": "An AI lab for Blender where manager–worker–reviewer agent teams run multi-step scene briefs as supervised experiments—a live task board, review findings, one correction attempt per blocked task, named undo, and a built-in MCP server. · blender-ai-copilot-lab · blender · blender 3d · blender addon · blender plugin · blender extension",
+      "display_line": "📈 [56.9分 ⭐181] precygtrucqui1981/blender-ai-copilot-lab",
+      "url": "https://github.com/precygtrucqui1981/blender-ai-copilot-lab"
+    }
+  ]
+}

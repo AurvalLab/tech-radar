@@ -1,26 +1,26 @@
 # 技术雷达日报
 
-- 日期：2026-11-13
+- 日期：2026-11-14
 - 时区：Asia/Shanghai
 - 条目：3
 
-## 1. claudememory/claude-memory
+## 1. graiz/KittyBrowser
 
-- 信号：69.7 分 · 125 stars
-- 链接：https://github.com/claudememory/claude-memory
+- 信号：58.3 分 · 11 stars
+- 链接：https://github.com/graiz/KittyBrowser
 
-Claude memory: the top 10 ways to give Claude persistent, long-term memory, compared. Covers MCP memory servers, CLAUDE.md, memory plugins and tools for Claude Code, Claude Desktop and the Claude API. Setup, pros and cons, and which to pick for remembering context across sessions.
+A real web browser in a terminal pane: headless Chrome drawn with the kitty graphics protocol, built to work beside coding agents
 
-## 2. pktq/lasik
+## 2. phuocka/a-company
 
-- 信号：63.8 分 · 121 stars
-- 链接：https://github.com/pktq/lasik
+- 信号：57.4 分 · 14 stars
+- 链接：https://github.com/phuocka/a-company
 
-BLA blinds your agent. LASIK gives it its sight back. Static de-blinding CLI + MCP server that undoes BLA (Blind LLM Agents) hardening so coding agents and REA can read the real code again. Never executes the target.
+Self-hosted AI teammates across Web, Desktop, and Mobile — live computers, routines, inline mini-apps, spend caps, local CLIs, and PGlite (Apache-2.0)
 
-## 3. Moh4696/cinematic-skill
+## 3. precygtrucqui1981/blender-ai-copilot-lab
 
-- 信号：55.6 分 · 236 stars
-- 链接：https://github.com/Moh4696/cinematic-skill
+- 信号：56.9 分 · 181 stars
+- 链接：https://github.com/precygtrucqui1981/blender-ai-copilot-lab
 
-Agent skill for narrated cinematic films built entirely from code: one continuous camera over photos, maps and cards, timed to the voice. Claude Code, Codex, Cursor, Gemini CLI.
+An AI lab for Blender where manager–worker–reviewer agent teams run multi-step scene briefs as supervised experiments—a live task board, review findings, one correction attempt per blocked task, named undo, and a built-in MCP server. · blender-ai-copilot-lab · blender · blender 3d · blender addon · blender plugin · blender extension
