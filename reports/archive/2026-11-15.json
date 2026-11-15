@@ -1,0 +1,77 @@
+{
+  "report_date": "2026-11-15",
+  "generated_at": "2026-11-15T02:48:30.362112+00:00",
+  "timezone": "Asia/Shanghai",
+  "items": [
+    {
+      "id": "repo:1458201421",
+      "type": "new",
+      "emoji": "🆕",
+      "score": 83.7,
+      "stars": 345,
+      "points": 0,
+      "name": "Outpostkrewhirl86/Capri-AI",
+      "title": "Outpostkrewhirl86/Capri-AI",
+      "description": "Capri: a local-first desktop AI agent with a cyberpunk HUD. Your personal Jarvis for Windows. Controls files, apps, terminal and browser, powered by Claude Code, Codex, Antigravity or any backend. Inspired by Cyberpunk: Edgerunners.",
+      "original_text": "Capri: a local-first desktop AI agent with a cyberpunk HUD. Your personal Jarvis for Windows. Controls files, apps, terminal and browser, powered by Claude Code, Codex, Antigravity or any backend. Inspired by Cyberpunk: Edgerunners.",
+      "display_line": "🆕 [83.7分 ⭐345] Outpostkrewhirl86/Capri-AI",
+      "url": "https://github.com/Outpostkrewhirl86/Capri-AI"
+    },
+    {
+      "id": "repo:1458092119",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 65.0,
+      "stars": 672,
+      "points": 0,
+      "name": "trackboatwrightplan/GitHub-Copilot-app",
+      "title": "trackboatwrightplan/GitHub-Copilot-app",
+      "description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.",
+      "original_text": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.",
+      "display_line": "📈 [65.0分 ⭐672] trackboatwrightplan/GitHub-Copilot-app",
+      "url": "https://github.com/trackboatwrightplan/GitHub-Copilot-app"
+    },
+    {
+      "id": "repo:1458092197",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 65.0,
+      "stars": 670,
+      "points": 0,
+      "name": "TrapAccountant/GitHub-Copilot-app",
+      "title": "TrapAccountant/GitHub-Copilot-app",
+      "description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.",
+      "original_text": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.",
+      "display_line": "📈 [65.0分 ⭐670] TrapAccountant/GitHub-Copilot-app",
+      "url": "https://github.com/TrapAccountant/GitHub-Copilot-app"
+    },
+    {
+      "id": "repo:1458092120",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 65.0,
+      "stars": 666,
+      "points": 0,
+      "name": "trackersnailgrip/GitHub-Copilot-app",
+      "title": "trackersnailgrip/GitHub-Copilot-app",
+      "description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.",
+      "original_text": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.",
+      "display_line": "📈 [65.0分 ⭐666] trackersnailgrip/GitHub-Copilot-app",
+      "url": "https://github.com/trackersnailgrip/GitHub-Copilot-app"
+    },
+    {
+      "id": "repo:1458099119",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 65.0,
+      "stars": 665,
+      "points": 0,
+      "name": "toppatronweave/GitHub-Copilot-app",
+      "title": "toppatronweave/GitHub-Copilot-app",
+      "description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.",
+      "original_text": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.",
+      "display_line": "📈 [65.0分 ⭐665] toppatronweave/GitHub-Copilot-app",
+      "url": "https://github.com/toppatronweave/GitHub-Copilot-app"
+    }
+  ]
+}
