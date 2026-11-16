@@ -1,40 +1,26 @@
 # 技术雷达日报
 
-- 日期：2026-11-15
+- 日期：2026-11-16
 - 时区：Asia/Shanghai
-- 条目：5
+- 条目：3
 
-## 1. Outpostkrewhirl86/Capri-AI
+## 1. hitkeeen/blender-ai-mcp-addon
 
-- 信号：83.7 分 · 345 stars
-- 链接：https://github.com/Outpostkrewhirl86/Capri-AI
+- 信号：58.6 分 · 1368 stars
+- 链接：https://github.com/hitkeeen/blender-ai-mcp-addon
 
-Capri: a local-first desktop AI agent with a cyberpunk HUD. Your personal Jarvis for Windows. Controls files, apps, terminal and browser, powered by Claude Code, Codex, Antigravity or any backend. Inspired by Cyberpunk: Edgerunners.
+AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.
 
-## 2. trackboatwrightplan/GitHub-Copilot-app
+## 2. credoksopho1984/blender-ai-copilot-studio
 
-- 信号：65.0 分 · 672 stars
-- 链接：https://github.com/trackboatwrightplan/GitHub-Copilot-app
+- 信号：57.6 分 · 513 stars
+- 链接：https://github.com/credoksopho1984/blender-ai-copilot-studio
 
-The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.
+An AI copilot and MCP server for Blender that turns plain-language briefs into scene operations—inside a visual chat studio with multi-agent teams, your choice of AI models, and 27 built-in scene tools. · blender-ai-copilot-studio · blender ai · ai for blender · blender copilot · blender ai copilot · blender ai assistant · blender mcp server
 
-## 3. TrapAccountant/GitHub-Copilot-app
+## 3. racdeufindurch198812/Blender-AI-MCP-Studio
 
-- 信号：65.0 分 · 670 stars
-- 链接：https://github.com/TrapAccountant/GitHub-Copilot-app
+- 信号：57.6 分 · 511 stars
+- 链接：https://github.com/racdeufindurch198812/Blender-AI-MCP-Studio
 
-The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.
-
-## 4. trackersnailgrip/GitHub-Copilot-app
-
-- 信号：65.0 分 · 666 stars
-- 链接：https://github.com/trackersnailgrip/GitHub-Copilot-app
-
-The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.
-
-## 5. toppatronweave/GitHub-Copilot-app
-
-- 信号：65.0 分 · 665 stars
-- 链接：https://github.com/toppatronweave/GitHub-Copilot-app
-
-The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.
+Blender AI MCP Studio is an AI assistant and built-in Model Context Protocol MCP server for Blender that turns plain-language briefs into inspected, approved and reversible 3D scene operations — with a visual chat workspace, multi-agent teams and your choice of AI models. · blender ai mcp studio · mcp-for-blender · mcp for blender pro
