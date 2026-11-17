@@ -1,0 +1,49 @@
+{
+  "report_date": "2026-11-17",
+  "generated_at": "2026-11-17T05:07:14.486775+00:00",
+  "timezone": "Asia/Shanghai",
+  "items": [
+    {
+      "id": "repo:1460406084",
+      "type": "new",
+      "emoji": "🆕",
+      "score": 67.3,
+      "stars": 214,
+      "points": 0,
+      "name": "edgerunners2/capri-ai-desktop",
+      "title": "edgerunners2/capri-ai-desktop",
+      "description": "Capri — Free open-source AI desktop pet, gaming overlay & voice companion for Windows. Visual GUI for Claude Code, Ollama, DeepSeek & MCP. Joins Discord calls, launches Steam games, comments on gameplay & automates screen tasks offline.",
+      "original_text": "Capri — Free open-source AI desktop pet, gaming overlay & voice companion for Windows. Visual GUI for Claude Code, Ollama, DeepSeek & MCP. Joins Discord calls, launches Steam games, comments on gameplay & automates screen tasks offline.",
+      "display_line": "🆕 [67.3分 ⭐214] edgerunners2/capri-ai-desktop",
+      "url": "https://github.com/edgerunners2/capri-ai-desktop"
+    },
+    {
+      "id": "repo:1455738282",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 57.4,
+      "stars": 498,
+      "points": 0,
+      "name": "findavoulot1973/Blender-AI-MCP-Suite",
+      "title": "findavoulot1973/Blender-AI-MCP-Suite",
+      "description": "Blender AI MCP Suite is an AI assistant and built-in Model Context Protocol MCP server for Blender that turns plain-language briefs into inspected, approved and reversible 3D scene operations — with a visual Studio workspace, multi-agent teams, 21+ scene tools and your choice of AI models. · blender ai mcp suite · blender ai mcp · ai for blender",
+      "original_text": "Blender AI MCP Suite is an AI assistant and built-in Model Context Protocol MCP server for Blender that turns plain-language briefs into inspected, approved and reversible 3D scene operations — with a visual Studio workspace, multi-agent teams, 21+ scene tools and your choice of AI models. · blender ai mcp suite · blender ai mcp · ai for blender",
+      "display_line": "📈 [57.4分 ⭐498] findavoulot1973/Blender-AI-MCP-Suite",
+      "url": "https://github.com/findavoulot1973/Blender-AI-MCP-Suite"
+    },
+    {
+      "id": "repo:1455747754",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 56.7,
+      "stars": 492,
+      "points": 0,
+      "name": "benzgasfuncring197110/blender-ai-copilot-bridge",
+      "title": "benzgasfuncring197110/blender-ai-copilot-bridge",
+      "description": "An MCP bridge for Blender that exposes 27 supervised scene tools to OpenCode and any compatible client—authenticated Streamable HTTP on a local endpoint, with the visual chat studio and agent teams on the inside. · blender-ai-copilot-bridge · blender · blender 3d · blender addon · blender plugin · blender extension · blender scripting",
+      "original_text": "An MCP bridge for Blender that exposes 27 supervised scene tools to OpenCode and any compatible client—authenticated Streamable HTTP on a local endpoint, with the visual chat studio and agent teams on the inside. · blender-ai-copilot-bridge · blender · blender 3d · blender addon · blender plugin · blender extension · blender scripting",
+      "display_line": "📈 [56.7分 ⭐492] benzgasfuncring197110/blender-ai-copilot-bridge",
+      "url": "https://github.com/benzgasfuncring197110/blender-ai-copilot-bridge"
+    }
+  ]
+}

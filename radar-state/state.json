@@ -261,7 +261,10 @@
     "repo:1458099119",
     "repo:1455416555",
     "repo:1455742253",
-    "repo:1455740160"
+    "repo:1455740160",
+    "repo:1460406084",
+    "repo:1455738282",
+    "repo:1455747754"
   ],
   "seen_urls": [
     "https://github.com/nduc99911/repo-context-mcp",
@@ -525,7 +528,10 @@
     "https://github.com/toppatronweave/GitHub-Copilot-app",
     "https://github.com/hitkeeen/blender-ai-mcp-addon",
     "https://github.com/credoksopho1984/blender-ai-copilot-studio",
-    "https://github.com/racdeufindurch198812/Blender-AI-MCP-Studio"
+    "https://github.com/racdeufindurch198812/Blender-AI-MCP-Studio",
+    "https://github.com/edgerunners2/capri-ai-desktop",
+    "https://github.com/findavoulot1973/Blender-AI-MCP-Suite",
+    "https://github.com/benzgasfuncring197110/blender-ai-copilot-bridge"
   ],
-  "last_checked": "2026-11-16T02:51:01.385269+00:00"
+  "last_checked": "2026-11-17T05:07:14.488057+00:00"
 }
