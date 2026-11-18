@@ -264,7 +264,10 @@
     "repo:1455740160",
     "repo:1460406084",
     "repo:1455738282",
-    "repo:1455747754"
+    "repo:1455747754",
+    "repo:1461553832",
+    "repo:1461329318",
+    "repo:1461542779"
   ],
   "seen_urls": [
     "https://github.com/nduc99911/repo-context-mcp",
@@ -531,7 +534,10 @@
     "https://github.com/racdeufindurch198812/Blender-AI-MCP-Studio",
     "https://github.com/edgerunners2/capri-ai-desktop",
     "https://github.com/findavoulot1973/Blender-AI-MCP-Suite",
-    "https://github.com/benzgasfuncring197110/blender-ai-copilot-bridge"
+    "https://github.com/benzgasfuncring197110/blender-ai-copilot-bridge",
+    "https://github.com/ooyyh/webegg",
+    "https://github.com/haoyu8717-ship-it/muse-local-agent",
+    "https://github.com/SecFathy/otpkit"
   ],
-  "last_checked": "2026-11-17T05:07:14.488057+00:00"
+  "last_checked": "2026-11-18T04:32:13.316637+00:00"
 }

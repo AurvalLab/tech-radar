@@ -1,26 +1,26 @@
 # 技术雷达日报
 
-- 日期：2026-11-17
+- 日期：2026-11-18
 - 时区：Asia/Shanghai
 - 条目：3
 
-## 1. edgerunners2/capri-ai-desktop
+## 1. ooyyh/webegg
 
-- 信号：67.3 分 · 214 stars
-- 链接：https://github.com/edgerunners2/capri-ai-desktop
+- 信号：63.7 分 · 3 stars
+- 链接：https://github.com/ooyyh/webegg
 
-Capri — Free open-source AI desktop pet, gaming overlay & voice companion for Windows. Visual GUI for Claude Code, Ollama, DeepSeek & MCP. Joins Discord calls, launches Steam games, comments on gameplay & automates screen tasks offline.
+Wails + Go + React 本地 AI 控制面：为 Gemini 提供 26 项真实编程工具、本地会话、审批与浏览器后台桥接。
 
-## 2. findavoulot1973/Blender-AI-MCP-Suite
+## 2. haoyu8717-ship-it/muse-local-agent
 
-- 信号：57.4 分 · 498 stars
-- 链接：https://github.com/findavoulot1973/Blender-AI-MCP-Suite
+- 信号：54.0 分 · 1 stars
+- 链接：https://github.com/haoyu8717-ship-it/muse-local-agent
 
-Blender AI MCP Suite is an AI assistant and built-in Model Context Protocol MCP server for Blender that turns plain-language briefs into inspected, approved and reversible 3D scene operations — with a visual Studio workspace, multi-agent teams, 21+ scene tools and your choice of AI models. · blender ai mcp suite · blender ai mcp · ai for blender
+Control a Windows PC, Linux cloud VM, and Android phone as one system — a verified, battle-tested local-agent stack (Windows-MCP + SSH/Tailscale bridge + self-healing tunnel) with an iteration mechanism, so another Muse can rebuild it from this skill alone.
 
-## 3. benzgasfuncring197110/blender-ai-copilot-bridge
+## 3. SecFathy/otpkit
 
-- 信号：56.7 分 · 492 stars
-- 链接：https://github.com/benzgasfuncring197110/blender-ai-copilot-bridge
+- 信号：53.3 分 · 49 stars
+- 链接：https://github.com/SecFathy/otpkit
 
-An MCP bridge for Blender that exposes 27 supervised scene tools to OpenCode and any compatible client—authenticated Streamable HTTP on a local endpoint, with the visual chat studio and agent teams on the inside. · blender-ai-copilot-bridge · blender · blender 3d · blender addon · blender plugin · blender extension · blender scripting
+MCP server for temporary email & SMS — receive OTPs, verification links, and confirmation codes. Zero API keys required.

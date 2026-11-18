@@ -1,0 +1,49 @@
+{
+  "report_date": "2026-11-18",
+  "generated_at": "2026-11-18T04:32:13.315566+00:00",
+  "timezone": "Asia/Shanghai",
+  "items": [
+    {
+      "id": "repo:1461553832",
+      "type": "new",
+      "emoji": "🆕",
+      "score": 63.7,
+      "stars": 3,
+      "points": 0,
+      "name": "ooyyh/webegg",
+      "title": "ooyyh/webegg",
+      "description": "Wails + Go + React 本地 AI 控制面：为 Gemini 提供 26 项真实编程工具、本地会话、审批与浏览器后台桥接。",
+      "original_text": "Wails + Go + React 本地 AI 控制面：为 Gemini 提供 26 项真实编程工具、本地会话、审批与浏览器后台桥接。",
+      "display_line": "🆕 [63.7分 ⭐3] ooyyh/webegg",
+      "url": "https://github.com/ooyyh/webegg"
+    },
+    {
+      "id": "repo:1461329318",
+      "type": "new",
+      "emoji": "🆕",
+      "score": 54.0,
+      "stars": 1,
+      "points": 0,
+      "name": "haoyu8717-ship-it/muse-local-agent",
+      "title": "haoyu8717-ship-it/muse-local-agent",
+      "description": "Control a Windows PC, Linux cloud VM, and Android phone as one system — a verified, battle-tested local-agent stack (Windows-MCP + SSH/Tailscale bridge + self-healing tunnel) with an iteration mechanism, so another Muse can rebuild it from this skill alone.",
+      "original_text": "Control a Windows PC, Linux cloud VM, and Android phone as one system — a verified, battle-tested local-agent stack (Windows-MCP + SSH/Tailscale bridge + self-healing tunnel) with an iteration mechanism, so another Muse can rebuild it from this skill alone.",
+      "display_line": "🆕 [54.0分 ⭐1] haoyu8717-ship-it/muse-local-agent",
+      "url": "https://github.com/haoyu8717-ship-it/muse-local-agent"
+    },
+    {
+      "id": "repo:1461542779",
+      "type": "new",
+      "emoji": "🆕",
+      "score": 53.3,
+      "stars": 49,
+      "points": 0,
+      "name": "SecFathy/otpkit",
+      "title": "SecFathy/otpkit",
+      "description": "MCP server for temporary email & SMS — receive OTPs, verification links, and confirmation codes. Zero API keys required.",
+      "original_text": "MCP server for temporary email & SMS — receive OTPs, verification links, and confirmation codes. Zero API keys required.",
+      "display_line": "🆕 [53.3分 ⭐49] SecFathy/otpkit",
+      "url": "https://github.com/SecFathy/otpkit"
+    }
+  ]
+}
