@@ -1,0 +1,77 @@
+{
+  "report_date": "2026-11-19",
+  "generated_at": "2026-11-19T04:15:23.771196+00:00",
+  "timezone": "Asia/Shanghai",
+  "items": [
+    {
+      "id": "repo:1456652206",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 74.4,
+      "stars": 409,
+      "points": 0,
+      "name": "ysunyang4/Nexus",
+      "title": "ysunyang4/Nexus",
+      "description": "Connect web AI assistants to local files, terminals, Git, and desktop tools through MCP, with user-controlled permissions.",
+      "original_text": "Connect web AI assistants to local files, terminals, Git, and desktop tools through MCP, with user-controlled permissions.",
+      "display_line": "📈 [74.4分 ⭐409] ysunyang4/Nexus",
+      "url": "https://github.com/ysunyang4/Nexus"
+    },
+    {
+      "id": "repo:1457717100",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 66.3,
+      "stars": 132,
+      "points": 0,
+      "name": "Tthanh2k6/turbo-browser-mcp",
+      "title": "Tthanh2k6/turbo-browser-mcp",
+      "description": "Playwright MCP server built to cut agent turns and tokens: one-call form filling, delta snapshots, batched steps, and a submit guard on by default",
+      "original_text": "Playwright MCP server built to cut agent turns and tokens: one-call form filling, delta snapshots, batched steps, and a submit guard on by default",
+      "display_line": "📈 [66.3分 ⭐132] Tthanh2k6/turbo-browser-mcp",
+      "url": "https://github.com/Tthanh2k6/turbo-browser-mcp"
+    },
+    {
+      "id": "repo:1459122623",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 65.0,
+      "stars": 78,
+      "points": 0,
+      "name": "morajabi/poo",
+      "title": "morajabi/poo",
+      "description": "Find and safely free the disk space your dev work eats: builds, caches, simulators and agent worktrees. macOS menu bar app, CLI and MCP server.",
+      "original_text": "Find and safely free the disk space your dev work eats: builds, caches, simulators and agent worktrees. macOS menu bar app, CLI and MCP server.",
+      "display_line": "📈 [65.0分 ⭐78] morajabi/poo",
+      "url": "https://github.com/morajabi/poo"
+    },
+    {
+      "id": "repo:1462476508",
+      "type": "new",
+      "emoji": "🆕",
+      "score": 63.8,
+      "stars": 2,
+      "points": 0,
+      "name": "chenkezhen480/evolution-computer-use",
+      "title": "chenkezhen480/evolution-computer-use",
+      "description": "Self-evolving computer use for any agent: its own browser, the user's Windows desktop, and learned procedures it replays and repairs. MCP server + JS library, extracted from dsh-world.",
+      "original_text": "Self-evolving computer use for any agent: its own browser, the user's Windows desktop, and learned procedures it replays and repairs. MCP server + JS library, extracted from dsh-world.",
+      "display_line": "🆕 [63.8分 ⭐2] chenkezhen480/evolution-computer-use",
+      "url": "https://github.com/chenkezhen480/evolution-computer-use"
+    },
+    {
+      "id": "repo:1458092242",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 63.0,
+      "stars": 378,
+      "points": 0,
+      "name": "TrapBladesmith/GitHub-Copilot-app",
+      "title": "TrapBladesmith/GitHub-Copilot-app",
+      "description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.",
+      "original_text": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.",
+      "display_line": "📈 [63.0分 ⭐378] TrapBladesmith/GitHub-Copilot-app",
+      "url": "https://github.com/TrapBladesmith/GitHub-Copilot-app"
+    }
+  ]
+}

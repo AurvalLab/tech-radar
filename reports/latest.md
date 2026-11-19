@@ -1,26 +1,40 @@
 # 技术雷达日报
 
-- 日期：2026-11-18
+- 日期：2026-11-19
 - 时区：Asia/Shanghai
-- 条目：3
+- 条目：5
 
-## 1. ooyyh/webegg
+## 1. ysunyang4/Nexus
 
-- 信号：63.7 分 · 3 stars
-- 链接：https://github.com/ooyyh/webegg
+- 信号：74.4 分 · 409 stars
+- 链接：https://github.com/ysunyang4/Nexus
 
-Wails + Go + React 本地 AI 控制面：为 Gemini 提供 26 项真实编程工具、本地会话、审批与浏览器后台桥接。
+Connect web AI assistants to local files, terminals, Git, and desktop tools through MCP, with user-controlled permissions.
 
-## 2. haoyu8717-ship-it/muse-local-agent
+## 2. Tthanh2k6/turbo-browser-mcp
 
-- 信号：54.0 分 · 1 stars
-- 链接：https://github.com/haoyu8717-ship-it/muse-local-agent
+- 信号：66.3 分 · 132 stars
+- 链接：https://github.com/Tthanh2k6/turbo-browser-mcp
 
-Control a Windows PC, Linux cloud VM, and Android phone as one system — a verified, battle-tested local-agent stack (Windows-MCP + SSH/Tailscale bridge + self-healing tunnel) with an iteration mechanism, so another Muse can rebuild it from this skill alone.
+Playwright MCP server built to cut agent turns and tokens: one-call form filling, delta snapshots, batched steps, and a submit guard on by default
 
-## 3. SecFathy/otpkit
+## 3. morajabi/poo
 
-- 信号：53.3 分 · 49 stars
-- 链接：https://github.com/SecFathy/otpkit
+- 信号：65.0 分 · 78 stars
+- 链接：https://github.com/morajabi/poo
 
-MCP server for temporary email & SMS — receive OTPs, verification links, and confirmation codes. Zero API keys required.
+Find and safely free the disk space your dev work eats: builds, caches, simulators and agent worktrees. macOS menu bar app, CLI and MCP server.
+
+## 4. chenkezhen480/evolution-computer-use
+
+- 信号：63.8 分 · 2 stars
+- 链接：https://github.com/chenkezhen480/evolution-computer-use
+
+Self-evolving computer use for any agent: its own browser, the user's Windows desktop, and learned procedures it replays and repairs. MCP server + JS library, extracted from dsh-world.
+
+## 5. TrapBladesmith/GitHub-Copilot-app
+
+- 信号：63.0 分 · 378 stars
+- 链接：https://github.com/TrapBladesmith/GitHub-Copilot-app
+
+The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.
