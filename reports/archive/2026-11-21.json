@@ -1,0 +1,49 @@
+{
+  "report_date": "2026-11-21",
+  "generated_at": "2026-11-21T04:01:55.044165+00:00",
+  "timezone": "Asia/Shanghai",
+  "items": [
+    {
+      "id": "repo:1463683138",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 73.6,
+      "stars": 192,
+      "points": 0,
+      "name": "INK-Q/agy-fast",
+      "title": "INK-Q/agy-fast",
+      "description": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs.",
+      "original_text": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs.",
+      "display_line": "📈 [73.6分 ⭐192] INK-Q/agy-fast",
+      "url": "https://github.com/INK-Q/agy-fast"
+    },
+    {
+      "id": "repo:1461695121",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 60.7,
+      "stars": 137,
+      "points": 0,
+      "name": "ccarter01011/traxagent-claude-plugin",
+      "title": "ccarter01011/traxagent-claude-plugin",
+      "description": "Ask Claude, ChatGPT, Claude Code, Cursor or VS Code who spent your AI budget and what to fix. TraxAgent's read-only MCP server and Claude Code plugin.",
+      "original_text": "Ask Claude, ChatGPT, Claude Code, Cursor or VS Code who spent your AI budget and what to fix. TraxAgent's read-only MCP server and Claude Code plugin.",
+      "display_line": "📈 [60.7分 ⭐137] ccarter01011/traxagent-claude-plugin",
+      "url": "https://github.com/ccarter01011/traxagent-claude-plugin"
+    },
+    {
+      "id": "repo:1464271688",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 58.8,
+      "stars": 1816,
+      "points": 0,
+      "name": "bookwjitchieni1986/blender-ai-mcp-addon",
+      "title": "bookwjitchieni1986/blender-ai-mcp-addon",
+      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+      "original_text": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+      "display_line": "📈 [58.8分 ⭐1816] bookwjitchieni1986/blender-ai-mcp-addon",
+      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon"
+    }
+  ]
+}

@@ -275,7 +275,10 @@
     "repo:1458092242",
     "repo:1458099090",
     "repo:1458091044",
-    "repo:1458091062"
+    "repo:1458091062",
+    "repo:1463683138",
+    "repo:1461695121",
+    "repo:1464271688"
   ],
   "seen_urls": [
     "https://github.com/nduc99911/repo-context-mcp",
@@ -553,7 +556,10 @@
     "https://github.com/TrapBladesmith/GitHub-Copilot-app",
     "https://github.com/TarantulaCorrect/GitHub-Copilot-app",
     "https://github.com/topapothecarycanal/ai--manus2.0",
-    "https://github.com/toppatronweave/ai--manus2.0"
+    "https://github.com/toppatronweave/ai--manus2.0",
+    "https://github.com/INK-Q/agy-fast",
+    "https://github.com/ccarter01011/traxagent-claude-plugin",
+    "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon"
   ],
-  "last_checked": "2026-11-20T04:02:11.439066+00:00"
+  "last_checked": "2026-11-21T04:01:55.045416+00:00"
 }
