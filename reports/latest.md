@@ -1,26 +1,26 @@
 # 技术雷达日报
 
-- 日期：2026-11-21
+- 日期：2026-11-22
 - 时区：Asia/Shanghai
 - 条目：3
 
-## 1. INK-Q/agy-fast
+## 1. w01fb0ss/PiBot
 
-- 信号：73.6 分 · 192 stars
-- 链接：https://github.com/INK-Q/agy-fast
+- 信号：79.7 分 · 200 stars
+- 链接：https://github.com/w01fb0ss/PiBot
 
-Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs.
+Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.
 
-## 2. ccarter01011/traxagent-claude-plugin
+## 2. JimLiu/open-artifact
 
-- 信号：60.7 分 · 137 stars
-- 链接：https://github.com/ccarter01011/traxagent-claude-plugin
+- 信号：77.6 分 · 200 stars
+- 链接：https://github.com/JimLiu/open-artifact
 
-Ask Claude, ChatGPT, Claude Code, Cursor or VS Code who spent your AI budget and what to fix. TraxAgent's read-only MCP server and Claude Code plugin.
+Open, agent- and model-agnostic artifacts, all saved locally as plain files — edit, comment on, and export slides, UI designs, design systems, whiteboards, sheets, dashboards, docs, and motion.
 
-## 3. bookwjitchieni1986/blender-ai-mcp-addon
+## 3. layer8labs8/EYRA
 
-- 信号：58.8 分 · 1816 stars
-- 链接：https://github.com/bookwjitchieni1986/blender-ai-mcp-addon
+- 信号：69.8 分 · 3 stars
+- 链接：https://github.com/layer8labs8/EYRA
 
-AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.
+Eye + Ear + Action for AI agents on Windows. Single-binary Rust MCP server: sees any app as compact text (UI Automation + OCR) - Chrome, Edge, File Explorer, Office, Electron apps, games - hears system audio and mic, and controls mouse and keyboard. Works with Gemini, Claude, Cursor and any MCP host.

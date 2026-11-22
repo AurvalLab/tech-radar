@@ -1,0 +1,49 @@
+{
+  "report_date": "2026-11-22",
+  "generated_at": "2026-11-22T03:16:39.330006+00:00",
+  "timezone": "Asia/Shanghai",
+  "items": [
+    {
+      "id": "repo:1466272233",
+      "type": "new",
+      "emoji": "🆕",
+      "score": 79.7,
+      "stars": 200,
+      "points": 0,
+      "name": "w01fb0ss/PiBot",
+      "title": "w01fb0ss/PiBot",
+      "description": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.",
+      "original_text": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.",
+      "display_line": "🆕 [79.7分 ⭐200] w01fb0ss/PiBot",
+      "url": "https://github.com/w01fb0ss/PiBot"
+    },
+    {
+      "id": "repo:1460814476",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 77.6,
+      "stars": 200,
+      "points": 0,
+      "name": "JimLiu/open-artifact",
+      "title": "JimLiu/open-artifact",
+      "description": "Open, agent- and model-agnostic artifacts, all saved locally as plain files — edit, comment on, and export slides, UI designs, design systems, whiteboards, sheets, dashboards, docs, and motion.",
+      "original_text": "Open, agent- and model-agnostic artifacts, all saved locally as plain files — edit, comment on, and export slides, UI designs, design systems, whiteboards, sheets, dashboards, docs, and motion.",
+      "display_line": "📈 [77.6分 ⭐200] JimLiu/open-artifact",
+      "url": "https://github.com/JimLiu/open-artifact"
+    },
+    {
+      "id": "repo:1466442362",
+      "type": "new",
+      "emoji": "🆕",
+      "score": 69.8,
+      "stars": 3,
+      "points": 0,
+      "name": "layer8labs8/EYRA",
+      "title": "layer8labs8/EYRA",
+      "description": "Eye + Ear + Action for AI agents on Windows. Single-binary Rust MCP server: sees any app as compact text (UI Automation + OCR) - Chrome, Edge, File Explorer, Office, Electron apps, games - hears system audio and mic, and controls mouse and keyboard. Works with Gemini, Claude, Cursor and any MCP host.",
+      "original_text": "Eye + Ear + Action for AI agents on Windows. Single-binary Rust MCP server: sees any app as compact text (UI Automation + OCR) - Chrome, Edge, File Explorer, Office, Electron apps, games - hears system audio and mic, and controls mouse and keyboard. Works with Gemini, Claude, Cursor and any MCP host.",
+      "display_line": "🆕 [69.8分 ⭐3] layer8labs8/EYRA",
+      "url": "https://github.com/layer8labs8/EYRA"
+    }
+  ]
+}
