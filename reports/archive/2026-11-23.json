@@ -1,0 +1,49 @@
+{
+  "report_date": "2026-11-23",
+  "generated_at": "2026-11-23T03:46:47.700330+00:00",
+  "timezone": "Asia/Shanghai",
+  "items": [
+    {
+      "id": "repo:1465531278",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 57.6,
+      "stars": 492,
+      "points": 0,
+      "name": "danielwh2/sprite-stacking",
+      "title": "danielwh2/sprite-stacking",
+      "description": "Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi.",
+      "original_text": "Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi.",
+      "display_line": "📈 [57.6分 ⭐492] danielwh2/sprite-stacking",
+      "url": "https://github.com/danielwh2/sprite-stacking"
+    },
+    {
+      "id": "repo:1463664909",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 57.1,
+      "stars": 148,
+      "points": 0,
+      "name": "replit/amuse",
+      "title": "replit/amuse",
+      "description": "Self-hosted personal AI agent: research, a live browser, reminders and small apps, with approvals before actions. Runs on your own computer with an OpenAI key.",
+      "original_text": "Self-hosted personal AI agent: research, a live browser, reminders and small apps, with approvals before actions. Runs on your own computer with an OpenAI key.",
+      "display_line": "📈 [57.1分 ⭐148] replit/amuse",
+      "url": "https://github.com/replit/amuse"
+    },
+    {
+      "id": "repo:1465134094",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 57.0,
+      "stars": 146,
+      "points": 0,
+      "name": "nestjs/agent-skills",
+      "title": "nestjs/agent-skills",
+      "description": "Agent skills for Nest framework (node.js) 🕵️‍♂️",
+      "original_text": "Agent skills for Nest framework (node.js) 🕵️‍♂️",
+      "display_line": "📈 [57.0分 ⭐146] nestjs/agent-skills",
+      "url": "https://github.com/nestjs/agent-skills"
+    }
+  ]
+}
