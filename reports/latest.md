@@ -1,26 +1,26 @@
 # 技术雷达日报
 
-- 日期：2026-11-23
+- 日期：2026-11-24
 - 时区：Asia/Shanghai
 - 条目：3
 
-## 1. danielwh2/sprite-stacking
+## 1. tsahospital-beep/wa-mcp
 
-- 信号：57.6 分 · 492 stars
-- 链接：https://github.com/danielwh2/sprite-stacking
+- 信号：68.9 分 · 5 stars
+- 链接：https://github.com/tsahospital-beep/wa-mcp
 
-Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi.
+WhatsApp MCP server for Claude, Cursor and other AI agents. Search, read and send WhatsApp messages, transcribe voice notes, read images and files. Local, encrypted, self-hosted.
 
-## 2. replit/amuse
+## 2. hoodini/yuv-studio
 
-- 信号：57.1 分 · 148 stars
-- 链接：https://github.com/replit/amuse
+- 信号：62.0 分 · 3 stars
+- 链接：https://github.com/hoodini/yuv-studio
 
-Self-hosted personal AI agent: research, a live browser, reminders and small apps, with approvals before actions. Runs on your own computer with an OpenAI key.
+The open-source video editor your AI agent can drive. Cut, caption (Hebrew + English), narrate and export in your browser, or let Claude, Codex or Cursor edit live over 51 MCP tools. Local, free, AGPL-3.0.
 
-## 3. nestjs/agent-skills
+## 3. qianyiai/kurocat
 
-- 信号：57.0 分 · 146 stars
-- 链接：https://github.com/nestjs/agent-skills
+- 信号：58.1 分 · 438 stars
+- 链接：https://github.com/qianyiai/kurocat
 
-Agent skills for Nest framework (node.js) 🕵️‍♂️
+KuroCat — Free open-source desktop typing cat pet & OBS overlay (Bongo Cat alternative, Tauri v2 + Rust + MCP)｜轻量级透明置顶桌面打字小黑猫伴侣（6款猫咪+鲸鱼娘大肥鱼 / 输密码防偷窥 / OBS透明源 / AI捏猫 / Win·Mac·Linux·Android）

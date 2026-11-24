@@ -284,7 +284,10 @@
     "repo:1466442362",
     "repo:1465531278",
     "repo:1463664909",
-    "repo:1465134094"
+    "repo:1465134094",
+    "repo:1468458292",
+    "repo:1468442889",
+    "repo:1466700014"
   ],
   "seen_urls": [
     "https://github.com/nduc99911/repo-context-mcp",
@@ -571,7 +574,10 @@
     "https://github.com/layer8labs8/EYRA",
     "https://github.com/danielwh2/sprite-stacking",
     "https://github.com/replit/amuse",
-    "https://github.com/nestjs/agent-skills"
+    "https://github.com/nestjs/agent-skills",
+    "https://github.com/tsahospital-beep/wa-mcp",
+    "https://github.com/hoodini/yuv-studio",
+    "https://github.com/qianyiai/kurocat"
   ],
-  "last_checked": "2026-11-23T03:46:47.701630+00:00"
+  "last_checked": "2026-11-24T06:59:05.198836+00:00"
 }
