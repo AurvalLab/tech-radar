@@ -1,26 +1,26 @@
 # 技术雷达日报
 
-- 日期：2026-11-24
+- 日期：2026-11-25
 - 时区：Asia/Shanghai
 - 条目：3
 
-## 1. tsahospital-beep/wa-mcp
+## 1. EL4CTEO/shrink-anything
 
-- 信号：68.9 分 · 5 stars
-- 链接：https://github.com/tsahospital-beep/wa-mcp
+- 信号：58.9 分 · 204 stars
+- 链接：https://github.com/EL4CTEO/shrink-anything
 
-WhatsApp MCP server for Claude, Cursor and other AI agents. Search, read and send WhatsApp messages, transcribe voice notes, read images and files. Local, encrypted, self-hosted.
+Less code, same tests passing: delete the dead code, files, dependencies and assets in any codebase, and keep each cut only if your own tests still pass.
 
-## 2. hoodini/yuv-studio
+## 2. Developing-Gamer/agent-sim
 
-- 信号：62.0 分 · 3 stars
-- 链接：https://github.com/hoodini/yuv-studio
+- 信号：57.6 分 · 571 stars
+- 链接：https://github.com/Developing-Gamer/agent-sim
 
-The open-source video editor your AI agent can drive. Cut, caption (Hebrew + English), narrate and export in your browser, or let Claude, Codex or Cursor edit live over 51 MCP tools. Local, free, AGPL-3.0.
+iOS simulators for AI agents, on Linux. The agent layer for x86Sim.
 
-## 3. qianyiai/kurocat
+## 3. bytebuildsmall/claude-desktop
 
-- 信号：58.1 分 · 438 stars
-- 链接：https://github.com/qianyiai/kurocat
+- 信号：56.3 分 · 88 stars
+- 链接：https://github.com/bytebuildsmall/claude-desktop
 
-KuroCat — Free open-source desktop typing cat pet & OBS overlay (Bongo Cat alternative, Tauri v2 + Rust + MCP)｜轻量级透明置顶桌面打字小黑猫伴侣（6款猫咪+鲸鱼娘大肥鱼 / 输密码防偷窥 / OBS透明源 / AI捏猫 / Win·Mac·Linux·Android）
+Claude Desktop for Windows 10/11. Chats with Claude AI to draft documents, analyze files and code, and answer questions from a native desktop app with quick access to your projects and conversations.

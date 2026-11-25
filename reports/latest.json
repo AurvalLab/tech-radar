@@ -1,49 +1,49 @@
 {
-  "report_date": "2026-11-24",
-  "generated_at": "2026-11-24T06:59:05.197527+00:00",
+  "report_date": "2026-11-25",
+  "generated_at": "2026-11-25T05:29:27.168923+00:00",
   "timezone": "Asia/Shanghai",
   "items": [
     {
-      "id": "repo:1468458292",
-      "type": "new",
-      "emoji": "🆕",
-      "score": 68.9,
-      "stars": 5,
-      "points": 0,
-      "name": "tsahospital-beep/wa-mcp",
-      "title": "tsahospital-beep/wa-mcp",
-      "description": "WhatsApp MCP server for Claude, Cursor and other AI agents. Search, read and send WhatsApp messages, transcribe voice notes, read images and files. Local, encrypted, self-hosted.",
-      "original_text": "WhatsApp MCP server for Claude, Cursor and other AI agents. Search, read and send WhatsApp messages, transcribe voice notes, read images and files. Local, encrypted, self-hosted.",
-      "display_line": "🆕 [68.9分 ⭐5] tsahospital-beep/wa-mcp",
-      "url": "https://github.com/tsahospital-beep/wa-mcp"
-    },
-    {
-      "id": "repo:1468442889",
-      "type": "new",
-      "emoji": "🆕",
-      "score": 62.0,
-      "stars": 3,
-      "points": 0,
-      "name": "hoodini/yuv-studio",
-      "title": "hoodini/yuv-studio",
-      "description": "The open-source video editor your AI agent can drive. Cut, caption (Hebrew + English), narrate and export in your browser, or let Claude, Codex or Cursor edit live over 51 MCP tools. Local, free, AGPL-3.0.",
-      "original_text": "The open-source video editor your AI agent can drive. Cut, caption (Hebrew + English), narrate and export in your browser, or let Claude, Codex or Cursor edit live over 51 MCP tools. Local, free, AGPL-3.0.",
-      "display_line": "🆕 [62.0分 ⭐3] hoodini/yuv-studio",
-      "url": "https://github.com/hoodini/yuv-studio"
-    },
-    {
-      "id": "repo:1466700014",
+      "id": "repo:1468977659",
       "type": "trend",
       "emoji": "📈",
-      "score": 58.1,
-      "stars": 438,
+      "score": 58.9,
+      "stars": 204,
       "points": 0,
-      "name": "qianyiai/kurocat",
-      "title": "qianyiai/kurocat",
-      "description": "KuroCat — Free open-source desktop typing cat pet & OBS overlay (Bongo Cat alternative, Tauri v2 + Rust + MCP)｜轻量级透明置顶桌面打字小黑猫伴侣（6款猫咪+鲸鱼娘大肥鱼 / 输密码防偷窥 / OBS透明源 / AI捏猫 / Win·Mac·Linux·Android）",
-      "original_text": "KuroCat — Free open-source desktop typing cat pet & OBS overlay (Bongo Cat alternative, Tauri v2 + Rust + MCP)｜轻量级透明置顶桌面打字小黑猫伴侣（6款猫咪+鲸鱼娘大肥鱼 / 输密码防偷窥 / OBS透明源 / AI捏猫 / Win·Mac·Linux·Android）",
-      "display_line": "📈 [58.1分 ⭐438] qianyiai/kurocat",
-      "url": "https://github.com/qianyiai/kurocat"
+      "name": "EL4CTEO/shrink-anything",
+      "title": "EL4CTEO/shrink-anything",
+      "description": "Less code, same tests passing: delete the dead code, files, dependencies and assets in any codebase, and keep each cut only if your own tests still pass.",
+      "original_text": "Less code, same tests passing: delete the dead code, files, dependencies and assets in any codebase, and keep each cut only if your own tests still pass.",
+      "display_line": "📈 [58.9分 ⭐204] EL4CTEO/shrink-anything",
+      "url": "https://github.com/EL4CTEO/shrink-anything"
+    },
+    {
+      "id": "repo:1466927775",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 57.6,
+      "stars": 571,
+      "points": 0,
+      "name": "Developing-Gamer/agent-sim",
+      "title": "Developing-Gamer/agent-sim",
+      "description": "iOS simulators for AI agents, on Linux. The agent layer for x86Sim.",
+      "original_text": "iOS simulators for AI agents, on Linux. The agent layer for x86Sim.",
+      "display_line": "📈 [57.6分 ⭐571] Developing-Gamer/agent-sim",
+      "url": "https://github.com/Developing-Gamer/agent-sim"
+    },
+    {
+      "id": "repo:1470089013",
+      "type": "new",
+      "emoji": "🆕",
+      "score": 56.3,
+      "stars": 88,
+      "points": 0,
+      "name": "bytebuildsmall/claude-desktop",
+      "title": "bytebuildsmall/claude-desktop",
+      "description": "Claude Desktop for Windows 10/11. Chats with Claude AI to draft documents, analyze files and code, and answer questions from a native desktop app with quick access to your projects and conversations.",
+      "original_text": "Claude Desktop for Windows 10/11. Chats with Claude AI to draft documents, analyze files and code, and answer questions from a native desktop app with quick access to your projects and conversations.",
+      "display_line": "🆕 [56.3分 ⭐88] bytebuildsmall/claude-desktop",
+      "url": "https://github.com/bytebuildsmall/claude-desktop"
     }
   ]
 }

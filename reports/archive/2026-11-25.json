@@ -1,0 +1,49 @@
+{
+  "report_date": "2026-11-25",
+  "generated_at": "2026-11-25T05:29:27.168923+00:00",
+  "timezone": "Asia/Shanghai",
+  "items": [
+    {
+      "id": "repo:1468977659",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 58.9,
+      "stars": 204,
+      "points": 0,
+      "name": "EL4CTEO/shrink-anything",
+      "title": "EL4CTEO/shrink-anything",
+      "description": "Less code, same tests passing: delete the dead code, files, dependencies and assets in any codebase, and keep each cut only if your own tests still pass.",
+      "original_text": "Less code, same tests passing: delete the dead code, files, dependencies and assets in any codebase, and keep each cut only if your own tests still pass.",
+      "display_line": "📈 [58.9分 ⭐204] EL4CTEO/shrink-anything",
+      "url": "https://github.com/EL4CTEO/shrink-anything"
+    },
+    {
+      "id": "repo:1466927775",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 57.6,
+      "stars": 571,
+      "points": 0,
+      "name": "Developing-Gamer/agent-sim",
+      "title": "Developing-Gamer/agent-sim",
+      "description": "iOS simulators for AI agents, on Linux. The agent layer for x86Sim.",
+      "original_text": "iOS simulators for AI agents, on Linux. The agent layer for x86Sim.",
+      "display_line": "📈 [57.6分 ⭐571] Developing-Gamer/agent-sim",
+      "url": "https://github.com/Developing-Gamer/agent-sim"
+    },
+    {
+      "id": "repo:1470089013",
+      "type": "new",
+      "emoji": "🆕",
+      "score": 56.3,
+      "stars": 88,
+      "points": 0,
+      "name": "bytebuildsmall/claude-desktop",
+      "title": "bytebuildsmall/claude-desktop",
+      "description": "Claude Desktop for Windows 10/11. Chats with Claude AI to draft documents, analyze files and code, and answer questions from a native desktop app with quick access to your projects and conversations.",
+      "original_text": "Claude Desktop for Windows 10/11. Chats with Claude AI to draft documents, analyze files and code, and answer questions from a native desktop app with quick access to your projects and conversations.",
+      "display_line": "🆕 [56.3分 ⭐88] bytebuildsmall/claude-desktop",
+      "url": "https://github.com/bytebuildsmall/claude-desktop"
+    }
+  ]
+}

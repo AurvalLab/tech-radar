@@ -287,7 +287,10 @@
     "repo:1465134094",
     "repo:1468458292",
     "repo:1468442889",
-    "repo:1466700014"
+    "repo:1466700014",
+    "repo:1468977659",
+    "repo:1466927775",
+    "repo:1470089013"
   ],
   "seen_urls": [
     "https://github.com/nduc99911/repo-context-mcp",
@@ -577,7 +580,10 @@
     "https://github.com/nestjs/agent-skills",
     "https://github.com/tsahospital-beep/wa-mcp",
     "https://github.com/hoodini/yuv-studio",
-    "https://github.com/qianyiai/kurocat"
+    "https://github.com/qianyiai/kurocat",
+    "https://github.com/EL4CTEO/shrink-anything",
+    "https://github.com/Developing-Gamer/agent-sim",
+    "https://github.com/bytebuildsmall/claude-desktop"
   ],
-  "last_checked": "2026-11-24T06:59:05.198836+00:00"
+  "last_checked": "2026-11-25T05:29:27.170207+00:00"
 }
