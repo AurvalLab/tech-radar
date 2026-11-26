@@ -290,7 +290,10 @@
     "repo:1466700014",
     "repo:1468977659",
     "repo:1466927775",
-    "repo:1470089013"
+    "repo:1470089013",
+    "repo:1468140561",
+    "repo:1471452579",
+    "repo:1468167288"
   ],
   "seen_urls": [
     "https://github.com/nduc99911/repo-context-mcp",
@@ -583,7 +586,10 @@
     "https://github.com/qianyiai/kurocat",
     "https://github.com/EL4CTEO/shrink-anything",
     "https://github.com/Developing-Gamer/agent-sim",
-    "https://github.com/bytebuildsmall/claude-desktop"
+    "https://github.com/bytebuildsmall/claude-desktop",
+    "https://github.com/chanke17/KuroCat",
+    "https://github.com/programmersd21/ratatui-skill",
+    "https://github.com/biTQ-m/awesome-antigravity-plugins"
   ],
-  "last_checked": "2026-11-25T05:29:27.170207+00:00"
+  "last_checked": "2026-11-26T05:10:28.206693+00:00"
 }

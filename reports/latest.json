@@ -1,49 +1,49 @@
 {
-  "report_date": "2026-11-25",
-  "generated_at": "2026-11-25T05:29:27.168923+00:00",
+  "report_date": "2026-11-26",
+  "generated_at": "2026-11-26T05:10:28.205770+00:00",
   "timezone": "Asia/Shanghai",
   "items": [
     {
-      "id": "repo:1468977659",
+      "id": "repo:1468140561",
       "type": "trend",
       "emoji": "📈",
-      "score": 58.9,
-      "stars": 204,
+      "score": 62.8,
+      "stars": 578,
       "points": 0,
-      "name": "EL4CTEO/shrink-anything",
-      "title": "EL4CTEO/shrink-anything",
-      "description": "Less code, same tests passing: delete the dead code, files, dependencies and assets in any codebase, and keep each cut only if your own tests still pass.",
-      "original_text": "Less code, same tests passing: delete the dead code, files, dependencies and assets in any codebase, and keep each cut only if your own tests still pass.",
-      "display_line": "📈 [58.9分 ⭐204] EL4CTEO/shrink-anything",
-      "url": "https://github.com/EL4CTEO/shrink-anything"
+      "name": "chanke17/KuroCat",
+      "title": "chanke17/KuroCat",
+      "description": "KuroCat — Free open-source native desktop cat pet & OBS overlay (Bongo Cat alternative, Swift/C++, 802 KB)｜开源免费原生桌面萌猫（全平台 macOS·Win·Linux·UOS / 2.5D转头捕猎 / 数位板 / OBS透明绿幕 / 在线皮肤工坊 / 零按键上传）",
+      "original_text": "KuroCat — Free open-source native desktop cat pet & OBS overlay (Bongo Cat alternative, Swift/C++, 802 KB)｜开源免费原生桌面萌猫（全平台 macOS·Win·Linux·UOS / 2.5D转头捕猎 / 数位板 / OBS透明绿幕 / 在线皮肤工坊 / 零按键上传）",
+      "display_line": "📈 [62.8分 ⭐578] chanke17/KuroCat",
+      "url": "https://github.com/chanke17/KuroCat"
     },
     {
-      "id": "repo:1466927775",
-      "type": "trend",
-      "emoji": "📈",
-      "score": 57.6,
-      "stars": 571,
-      "points": 0,
-      "name": "Developing-Gamer/agent-sim",
-      "title": "Developing-Gamer/agent-sim",
-      "description": "iOS simulators for AI agents, on Linux. The agent layer for x86Sim.",
-      "original_text": "iOS simulators for AI agents, on Linux. The agent layer for x86Sim.",
-      "display_line": "📈 [57.6分 ⭐571] Developing-Gamer/agent-sim",
-      "url": "https://github.com/Developing-Gamer/agent-sim"
-    },
-    {
-      "id": "repo:1470089013",
+      "id": "repo:1471452579",
       "type": "new",
       "emoji": "🆕",
-      "score": 56.3,
-      "stars": 88,
+      "score": 62.4,
+      "stars": 15,
       "points": 0,
-      "name": "bytebuildsmall/claude-desktop",
-      "title": "bytebuildsmall/claude-desktop",
-      "description": "Claude Desktop for Windows 10/11. Chats with Claude AI to draft documents, analyze files and code, and answer questions from a native desktop app with quick access to your projects and conversations.",
-      "original_text": "Claude Desktop for Windows 10/11. Chats with Claude AI to draft documents, analyze files and code, and answer questions from a native desktop app with quick access to your projects and conversations.",
-      "display_line": "🆕 [56.3分 ⭐88] bytebuildsmall/claude-desktop",
-      "url": "https://github.com/bytebuildsmall/claude-desktop"
+      "name": "programmersd21/ratatui-skill",
+      "title": "programmersd21/ratatui-skill",
+      "description": "an agent skill that makes ai assistants build ratatui terminal uis with current apis, a deliberate design, tested code, and no filler",
+      "original_text": "an agent skill that makes ai assistants build ratatui terminal uis with current apis, a deliberate design, tested code, and no filler",
+      "display_line": "🆕 [62.4分 ⭐15] programmersd21/ratatui-skill",
+      "url": "https://github.com/programmersd21/ratatui-skill"
+    },
+    {
+      "id": "repo:1468167288",
+      "type": "collect",
+      "emoji": "📚",
+      "score": 54.0,
+      "stars": 77,
+      "points": 0,
+      "name": "biTQ-m/awesome-antigravity-plugins",
+      "title": "biTQ-m/awesome-antigravity-plugins",
+      "description": "🌟 Curated list of awesome Google Antigravity plugins, UI Sidecars, Desktop HUDs, CLI statuslines, MCP bundles, Skills & Marketplace extensions (English / 中文)",
+      "original_text": "🌟 Curated list of awesome Google Antigravity plugins, UI Sidecars, Desktop HUDs, CLI statuslines, MCP bundles, Skills & Marketplace extensions (English / 中文)",
+      "display_line": "📚 [54.0分 ⭐77] biTQ-m/awesome-antigravity-plugins",
+      "url": "https://github.com/biTQ-m/awesome-antigravity-plugins"
     }
   ]
 }

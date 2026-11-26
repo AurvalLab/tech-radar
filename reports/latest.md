@@ -1,26 +1,26 @@
 # 技术雷达日报
 
-- 日期：2026-11-25
+- 日期：2026-11-26
 - 时区：Asia/Shanghai
 - 条目：3
 
-## 1. EL4CTEO/shrink-anything
+## 1. chanke17/KuroCat
 
-- 信号：58.9 分 · 204 stars
-- 链接：https://github.com/EL4CTEO/shrink-anything
+- 信号：62.8 分 · 578 stars
+- 链接：https://github.com/chanke17/KuroCat
 
-Less code, same tests passing: delete the dead code, files, dependencies and assets in any codebase, and keep each cut only if your own tests still pass.
+KuroCat — Free open-source native desktop cat pet & OBS overlay (Bongo Cat alternative, Swift/C++, 802 KB)｜开源免费原生桌面萌猫（全平台 macOS·Win·Linux·UOS / 2.5D转头捕猎 / 数位板 / OBS透明绿幕 / 在线皮肤工坊 / 零按键上传）
 
-## 2. Developing-Gamer/agent-sim
+## 2. programmersd21/ratatui-skill
 
-- 信号：57.6 分 · 571 stars
-- 链接：https://github.com/Developing-Gamer/agent-sim
+- 信号：62.4 分 · 15 stars
+- 链接：https://github.com/programmersd21/ratatui-skill
 
-iOS simulators for AI agents, on Linux. The agent layer for x86Sim.
+an agent skill that makes ai assistants build ratatui terminal uis with current apis, a deliberate design, tested code, and no filler
 
-## 3. bytebuildsmall/claude-desktop
+## 3. biTQ-m/awesome-antigravity-plugins
 
-- 信号：56.3 分 · 88 stars
-- 链接：https://github.com/bytebuildsmall/claude-desktop
+- 信号：54.0 分 · 77 stars
+- 链接：https://github.com/biTQ-m/awesome-antigravity-plugins
 
-Claude Desktop for Windows 10/11. Chats with Claude AI to draft documents, analyze files and code, and answer questions from a native desktop app with quick access to your projects and conversations.
+🌟 Curated list of awesome Google Antigravity plugins, UI Sidecars, Desktop HUDs, CLI statuslines, MCP bundles, Skills & Marketplace extensions (English / 中文)
