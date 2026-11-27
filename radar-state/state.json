@@ -293,7 +293,10 @@
     "repo:1470089013",
     "repo:1468140561",
     "repo:1471452579",
-    "repo:1468167288"
+    "repo:1468167288",
+    "repo:1472760710",
+    "repo:1473500322",
+    "repo:1471624301"
   ],
   "seen_urls": [
     "https://github.com/nduc99911/repo-context-mcp",
@@ -589,7 +592,10 @@
     "https://github.com/bytebuildsmall/claude-desktop",
     "https://github.com/chanke17/KuroCat",
     "https://github.com/programmersd21/ratatui-skill",
-    "https://github.com/biTQ-m/awesome-antigravity-plugins"
+    "https://github.com/biTQ-m/awesome-antigravity-plugins",
+    "https://github.com/ichikuruma22-star/agent-hub",
+    "https://github.com/gary23w/f-ck_data_brokers",
+    "https://github.com/nexu-io/opengame"
   ],
-  "last_checked": "2026-11-26T05:10:28.206693+00:00"
+  "last_checked": "2026-11-27T05:08:26.916642+00:00"
 }

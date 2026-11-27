@@ -1,0 +1,49 @@
+{
+  "report_date": "2026-11-27",
+  "generated_at": "2026-11-27T05:08:26.915771+00:00",
+  "timezone": "Asia/Shanghai",
+  "items": [
+    {
+      "id": "repo:1472760710",
+      "type": "new",
+      "emoji": "🆕",
+      "score": 63.6,
+      "stars": 3,
+      "points": 0,
+      "name": "ichikuruma22-star/agent-hub",
+      "title": "ichikuruma22-star/agent-hub",
+      "description": "One private, zero-dependency local room, MCP server, and live Web UI where separate AI apps (Claude Code, Codex, Antigravity, Cursor) chat and work together while keeping their own native windows open.",
+      "original_text": "One private, zero-dependency local room, MCP server, and live Web UI where separate AI apps (Claude Code, Codex, Antigravity, Cursor) chat and work together while keeping their own native windows open.",
+      "display_line": "🆕 [63.6分 ⭐3] ichikuruma22-star/agent-hub",
+      "url": "https://github.com/ichikuruma22-star/agent-hub"
+    },
+    {
+      "id": "repo:1473500322",
+      "type": "new",
+      "emoji": "🆕",
+      "score": 57.9,
+      "stars": 448,
+      "points": 0,
+      "name": "gary23w/f-ck_data_brokers",
+      "title": "gary23w/f-ck_data_brokers",
+      "description": "fck_data_brokers.py is a free, open-source Python script that sends opt-out and deletion requests to data brokers on your behalf.",
+      "original_text": "fck_data_brokers.py is a free, open-source Python script that sends opt-out and deletion requests to data brokers on your behalf.",
+      "display_line": "🆕 [57.9分 ⭐448] gary23w/f-ck_data_brokers",
+      "url": "https://github.com/gary23w/f-ck_data_brokers"
+    },
+    {
+      "id": "repo:1471624301",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 57.7,
+      "stars": 1298,
+      "points": 0,
+      "name": "nexu-io/opengame",
+      "title": "nexu-io/opengame",
+      "description": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.",
+      "original_text": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.",
+      "display_line": "📈 [57.7分 ⭐1298] nexu-io/opengame",
+      "url": "https://github.com/nexu-io/opengame"
+    }
+  ]
+}
