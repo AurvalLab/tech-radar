@@ -296,7 +296,10 @@
     "repo:1468167288",
     "repo:1472760710",
     "repo:1473500322",
-    "repo:1471624301"
+    "repo:1471624301",
+    "repo:1474159750",
+    "repo:1473880007",
+    "repo:1473823086"
   ],
   "seen_urls": [
     "https://github.com/nduc99911/repo-context-mcp",
@@ -595,7 +598,10 @@
     "https://github.com/biTQ-m/awesome-antigravity-plugins",
     "https://github.com/ichikuruma22-star/agent-hub",
     "https://github.com/gary23w/f-ck_data_brokers",
-    "https://github.com/nexu-io/opengame"
+    "https://github.com/nexu-io/opengame",
+    "https://github.com/milkfrogdev/pond",
+    "https://github.com/zer0person/github-locker-mcp",
+    "https://github.com/kamalnandana/viruagent-automation-cli"
   ],
-  "last_checked": "2026-11-27T05:08:26.916642+00:00"
+  "last_checked": "2026-11-28T04:46:09.697993+00:00"
 }

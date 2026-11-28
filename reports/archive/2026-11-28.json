@@ -1,0 +1,49 @@
+{
+  "report_date": "2026-11-28",
+  "generated_at": "2026-11-28T04:46:09.696862+00:00",
+  "timezone": "Asia/Shanghai",
+  "items": [
+    {
+      "id": "repo:1474159750",
+      "type": "new",
+      "emoji": "🆕",
+      "score": 63.0,
+      "stars": 1,
+      "points": 0,
+      "name": "milkfrogdev/pond",
+      "title": "milkfrogdev/pond",
+      "description": "本地 Agent 浏览器 MCP：让 Claude Code、Codex、Antigravity、WorkBuddy 自动操作浏览器，直接复用已登录的日常 Chrome/Edge，免重登、不抢焦点、随时人工接管 | Local AI Agent browser MCP server: let Claude Code, Codex, Antigravity & WorkBuddy automate your real logged-in Chrome/Edge — no re-login, zero focus steal, human handoff, pure CDP",
+      "original_text": "本地 Agent 浏览器 MCP：让 Claude Code、Codex、Antigravity、WorkBuddy 自动操作浏览器，直接复用已登录的日常 Chrome/Edge，免重登、不抢焦点、随时人工接管 | Local AI Agent browser MCP server: let Claude Code, Codex, Antigravity & WorkBuddy automate your real logged-in Chrome/Edge — no re-login, zero focus steal, human handoff, pure CDP",
+      "display_line": "🆕 [63.0分 ⭐1] milkfrogdev/pond",
+      "url": "https://github.com/milkfrogdev/pond"
+    },
+    {
+      "id": "repo:1473880007",
+      "type": "new",
+      "emoji": "🆕",
+      "score": 62.8,
+      "stars": 2,
+      "points": 0,
+      "name": "zer0person/github-locker-mcp",
+      "title": "zer0person/github-locker-mcp",
+      "description": "MCP server for GitHub.Locker: find open-source GitHub projects by task, see trending repos and read plain-language summaries.",
+      "original_text": "MCP server for GitHub.Locker: find open-source GitHub projects by task, see trending repos and read plain-language summaries.",
+      "display_line": "🆕 [62.8分 ⭐2] zer0person/github-locker-mcp",
+      "url": "https://github.com/zer0person/github-locker-mcp"
+    },
+    {
+      "id": "repo:1473823086",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 58.9,
+      "stars": 100,
+      "points": 0,
+      "name": "kamalnandana/viruagent-automation-cli",
+      "title": "kamalnandana/viruagent-automation-cli",
+      "description": "ViruAgent Automation CLI: AI agent-powered command-line system for streamlined workflow automation a",
+      "original_text": "ViruAgent Automation CLI: AI agent-powered command-line system for streamlined workflow automation a",
+      "display_line": "📈 [58.9分 ⭐100] kamalnandana/viruagent-automation-cli",
+      "url": "https://github.com/kamalnandana/viruagent-automation-cli"
+    }
+  ]
+}
